@@ -1,3 +1,6 @@
+About *Rosa chinensis*
+-------------------------
+
 Rose is the world’s most important ornamental plant, with economic, cultural and symbolic value. 
 Roses are cultivated worldwide and sold as garden roses, cut flowers and potted plants, holding great symbolic and cultural value. 
 Roses appeared as decoration on 5,000-year-old Asian pottery, and Romans cultivated roses for their flowers and essential oil.
