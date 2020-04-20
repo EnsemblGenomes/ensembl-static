@@ -2,7 +2,7 @@
 **NOTE:** The genome sequence and annotation for *C. elegans* are
 updated in Ensembl Metazoa approximately once per year. The data here
 corresponds with WormBase
-[WS260](ftp://ftp.wormbase.org/pub/wormbase/releases/WS260). For the
+[WS269](ftp://ftp.wormbase.org/pub/wormbase/releases/WS269). For the
 latest genome and annotation, please visit [WormBase
 ParaSite](http://parasite.wormbase.org) (for an Ensembl-oriented view),
 or [WormBase](http://www.wormbase.org).
