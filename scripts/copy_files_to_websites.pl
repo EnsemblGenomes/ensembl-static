@@ -118,7 +118,7 @@ foreach my $div (@divisions) {
   }
 
   my $div_in_dir     = $SCRIPT_ROOT.'/'.$div;
-  my $div_out_dir    = $site ? sprintf('%s/www_%s', $OUT_ROOT, $version) : $OUT_ROOT;
+  my ($SCRIPT_ROOT, $help, $verbose, $dryrun, $release, $site, $division, $home_only, $species_only);
 
   ## We only have one debug site for all divisions
   if ($site eq 'debug') {
@@ -169,7 +169,7 @@ foreach my $div (@divisions) {
     ## Images
     $input_dir  = $div_in_dir.$sp_img_in;
     $output_dir = $div_out_dir.$sp_img_out;
-    copy_files($input_dir, $output_dir);
+    copy_files($input_dir, $output_dir, 1);
     print "\n";
   }
 
