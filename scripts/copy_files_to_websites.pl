@@ -118,7 +118,7 @@ foreach my $div (@divisions) {
   }
 
   my $div_in_dir     = $SCRIPT_ROOT.'/'.$div;
-  my ($SCRIPT_ROOT, $help, $verbose, $dryrun, $release, $site, $division, $home_only, $species_only);
+  my $div_out_dir    = $site ? sprintf('%s/%s/www_%s', $OUT_ROOT, $div, $version) : $OUT_ROOT;
 
   ## We only have one debug site for all divisions
   if ($site eq 'debug') {
