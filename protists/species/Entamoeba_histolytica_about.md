@@ -1,4 +1,4 @@
-About the *Entamoeba histolytica* genome {#about-the-entamoeba-histolytica-genome .first}
+About the *Entamoeba histolytica* genome
 ----------------------------------------
 
 *Entamoeba histolytica* is an anaerobic parasitic protozoan, part of the

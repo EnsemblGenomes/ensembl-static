@@ -1,4 +1,4 @@
-About the *Trypanosoma brucei* genome {#about-the-trypanosoma-brucei-genome .first}
+About the *Trypanosoma brucei* genome
 -------------------------------------
 
 *Trypanosoma brucei*, an extracellular eukaryotic parasite causes human

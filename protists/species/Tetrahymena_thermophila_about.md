@@ -1,4 +1,4 @@
-About the *Tetrahymena thermophila* genome {#about-the-tetrahymena-thermophila-genome .first}
+About the *Tetrahymena thermophila* genome
 ------------------------------------------
 
 The ciliate *Tetrahymena thermophila* is a model organism for molecular

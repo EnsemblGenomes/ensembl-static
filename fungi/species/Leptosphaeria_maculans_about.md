@@ -1,4 +1,4 @@
-About the *Leptosphaeria maculans* genome {#about-the-leptosphaeria-maculans-genome .first}
+About the *Leptosphaeria maculans* genome
 -----------------------------------------
 
 *Leptosphaeria maculans* (anamorph *Phoma lingam*) is the causal agent

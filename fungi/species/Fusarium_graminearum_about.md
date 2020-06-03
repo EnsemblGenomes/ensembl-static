@@ -1,6 +1,4 @@
-[]{#about}
-
-About the *Fusarium graminearum* genome {#about-the-fusarium-graminearum-genome .first}
+About the *Fusarium graminearum* genome
 ---------------------------------------
 
 *Fusarium graminearum*, also known by *Gibberella zeae* (by which name

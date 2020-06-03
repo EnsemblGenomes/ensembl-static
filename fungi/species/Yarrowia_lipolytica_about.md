@@ -1,4 +1,4 @@
-About the *Yarrowia lipolytica* genome {#about-the-yarrowia-lipolytica-genome .first}
+About the *Yarrowia lipolytica* genome
 --------------------------------------
 
 [*Yarrowia lipolytica*](http://genolevures.org/yali.htm) is a yeast

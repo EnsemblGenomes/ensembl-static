@@ -1,4 +1,4 @@
-About *Theileria parva str. Muguga* {#about-theileria-parva-str.-muguga .first}
+About *Theileria parva str. Muguga*
 -----------------------------------
 
 [![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Theileria_parva)

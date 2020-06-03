@@ -1,4 +1,4 @@
-About the *Verticillium dahliae* JR2 genome {#about-the-verticillium-dahliae-jr2-genome .first}
+About the *Verticillium dahliae* JR2 genome
 -------------------------------------------
 
 *Verticillium dahliae* is one of the causal agent of vascular wilt in

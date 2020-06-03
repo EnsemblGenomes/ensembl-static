@@ -1,4 +1,4 @@
-About *Theileria annulata* {#about-theileria-annulata .first}
+About *Theileria annulata*
 --------------------------
 
 [![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Tropical_theileriosis)

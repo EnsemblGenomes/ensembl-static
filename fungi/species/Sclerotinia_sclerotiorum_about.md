@@ -1,4 +1,4 @@
-About the *Sclerotinia sclerotiorum* genome {#about-the-sclerotinia-sclerotiorum-genome .first}
+About the *Sclerotinia sclerotiorum* genome
 -------------------------------------------
 
 *Sclerotinia sclerotiorum* is the causal agent of a disease known as

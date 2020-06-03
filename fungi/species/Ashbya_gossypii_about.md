@@ -1,4 +1,4 @@
-About the *Ashbya gossypii* genome {#about-the-ashbya-gossypii-genome .first}
+About the *Ashbya gossypii* genome
 ----------------------------------
 
 More than 90% of *Ashbya gossypii* genes show both homology and a

@@ -1,4 +1,4 @@
-About the *Phaeosphaeria nodorum* genome {#about-the-phaeosphaeria-nodorum-genome .first}
+About the *Phaeosphaeria nodorum* genome
 ----------------------------------------
 
 *Phaeosphaeria nodorum* is a major fungal pathogen of wheat (*Triticum

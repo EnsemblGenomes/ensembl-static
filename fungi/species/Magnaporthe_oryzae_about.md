@@ -1,4 +1,4 @@
-About the *Magnaporthe oryzae* genome {#about-the-magnaporthe-oryzae-genome .first}
+About the *Magnaporthe oryzae* genome
 -------------------------------------
 
 *Magnaporthe oryzae* (anamorph: *Pyricularia grisea*) also known as rice

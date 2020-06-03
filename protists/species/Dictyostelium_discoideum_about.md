@@ -1,4 +1,4 @@
-About the *Dictyostelium discoideum* genome {#about-the-dictyostelium-discoideum-genome .first}
+About the *Dictyostelium discoideum* genome 
 -------------------------------------------
 
 *Dictyostelium discoideum* belongs to the group dictyostelids. It is a

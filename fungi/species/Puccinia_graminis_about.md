@@ -1,4 +1,4 @@
-About the *Puccinia graminis f. sp. tritici* genome {#about-the-puccinia-graminis-f.-sp.-tritici-genome .first}
+About the *Puccinia graminis f. sp. tritici* genome
 ---------------------------------------------------
 
 *Puccinia graminis* is the causal agent of stem rust that causes serious

@@ -1,4 +1,4 @@
-About the *Trichoderma virens* genome {#about-the-trichoderma-virens-genome .first}
+About the *Trichoderma virens* genome
 -------------------------------------
 
 *Trichoderma virens* is a haploid filamentous fungi that belongs to the

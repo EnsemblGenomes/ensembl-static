@@ -1,4 +1,4 @@
-About the *Magnaporthe poae* genome {#about-the-magnaporthe-poae-genome .first}
+About the *Magnaporthe poae* genome
 -----------------------------------
 
 *Magnaporthe poae* is the causal agent of the \"summer patch\" disease

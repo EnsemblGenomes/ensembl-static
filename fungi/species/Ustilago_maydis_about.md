@@ -1,4 +1,4 @@
-About the *Ustilago maydis* genome {#about-the-ustilago-maydis-genome .first}
+About the *Ustilago maydis* genome
 ----------------------------------
 
 *Ustilago maydis* is the causal agent of the corn smut crop disease.

@@ -1,4 +1,4 @@
-About the *Verticillium dahliae* genome {#about-the-verticillium-dahliae-genome .first}
+About the *Verticillium dahliae* genome
 ---------------------------------------
 
 *Verticillium dahliae* is one of the causal agent of vascular wilt in

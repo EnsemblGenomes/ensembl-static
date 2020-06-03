@@ -1,4 +1,4 @@
-About the *Plasmodium\_knowlesi* genome {#about-the-plasmodium_knowlesi-genome .first}
+About the *Plasmodium\_knowlesi* genome
 ---------------------------------------
 
 *Plasmodium knowlesi* is a parasite of primates, especially long-tailed

@@ -1,4 +1,4 @@
-About the *Phytophtora infestans* genome {#about-the-phytophtora-infestans-genome .first}
+About the *Phytophtora infestans* genome
 ----------------------------------------
 
 *Phytophthora infestans* is the causal agent of the late potato blight

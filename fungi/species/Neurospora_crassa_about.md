@@ -1,4 +1,4 @@
-About the *Neurospora\_crassa* genome {#about-the-neurospora_crassa-genome .first}
+About the *Neurospora\_crassa* genome
 -------------------------------------
 
 *Neurospora crassa* is a red bread mold of the phylum *Ascomycota* which

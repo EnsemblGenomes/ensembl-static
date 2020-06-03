@@ -1,4 +1,4 @@
-About the *Plasmodium chabaudi* genome {#about-the-plasmodium-chabaudi-genome .first}
+About the *Plasmodium chabaudi* genome
 --------------------------------------
 
 *Plasmodium chabaudi* is one of four malarial parasites that infect

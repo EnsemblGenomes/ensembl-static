@@ -1,4 +1,4 @@
-About the *Plasmodium vivax* genome {#about-the-plasmodium-vivax-genome .first}
+About the *Plasmodium vivax* genome
 -----------------------------------
 
 *Plasmodium vivax* is one of four species of malarial parasite of humans

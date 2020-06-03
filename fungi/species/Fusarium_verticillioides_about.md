@@ -1,6 +1,4 @@
-[]{#about}
-
-About the *Fusarium verticillioides* genome {#about-the-fusarium-verticillioides-genome .first}
+About the *Fusarium verticillioides* genome
 -------------------------------------------
 
 *Fusarium verticillioides* [is a fungal plant pathogen. It causes a

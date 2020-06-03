@@ -1,4 +1,4 @@
-About *Theileria parva* {#about-theileria-parva .first}
+About *Theileria parva*
 -----------------------
 
 [![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Theileria_parva)

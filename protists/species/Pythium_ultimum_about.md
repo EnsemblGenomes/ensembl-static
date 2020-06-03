@@ -1,4 +1,4 @@
-About the *Pythium ultimum* genome {#about-the-pythium-ultimum-genome .first}
+About the *Pythium ultimum* genome
 ----------------------------------
 
 *Pythium ultimum* is a ubiquitous oomycete plant pathogen responsible

@@ -1,4 +1,4 @@
-About the *Fusarium oxysporum f.sp. lycopersici* genome {#about-the-fusarium-oxysporum-f.sp.-lycopersici-genome .first}
+About the *Fusarium oxysporum f.sp. lycopersici* genome
 -------------------------------------------------------
 
 *Fusarium oxysporum* comprises a group of soil inhabitants that can
