@@ -4,5 +4,5 @@
 
 - Updated data
     - Updated protein features for all species using [InterProScan](http://www.ebi.ac.uk/interpro/search/sequence-search) with version 75 of [InterPro](https://www.ebi.ac.uk/interpro/)
-		- Updated BioMarts for all gene and variation data
-		- New gene annotation from Rothamsted Research and Max-Planck Institute for _Zymoseptria tritici_
+    - Updated BioMarts for all gene and variation data
+    - Updated pan-taxonomic gene trees and homologies
