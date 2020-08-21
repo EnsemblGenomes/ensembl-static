@@ -11,8 +11,7 @@ such as their caste system \[1\] and altruism \[2\].
 Genomic resources are available for several ant species. *[Atta
 cephalotes](/Atta_cephalotes)*, a leaf-cutter ant, is included in
 Ensembl Metazoa; and data for other species is available at the
-Hymenoptera Genome Database\'s [Ant Genomes
-Portal](http://www.hymenopteragenome.org/ant_genomes) \[3\] and at
+[Hymenoptera Genome Database](https://hymenoptera.elsiklab.missouri.edu) \[3\] and at
 [Fourmidable](http://antgenomes.org) \[4\].
 
 Picture copyright: Alex Wild

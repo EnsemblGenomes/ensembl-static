@@ -8,12 +8,9 @@
 2.  [Selfish genes: a green beard in the red fire
     ant](http://dx.doi.org/10.1038/29064).\
     Keller L and Ross KG. 1998. Nature. 394:573-575.
-3.  [Hymenoptera Genome Database: integrated community resources for
-    insect species of the order
-    Hymenoptera](http://europepmc.org/abstract/MED/21071397).\
-    Munoz-Torres MC, Reese JT, Childers CP, Bennett AK, Sundaram JP,
-    Childs KL, Anzola JM, Milshina N, Elsik CG. 2011. Nucleic Acids
-    Research. 39:D658-62.
+3.  [Hymenoptera Genome Database: integrating genome annotations in HymenopteraMine](https://europepmc.org/article/MED/26578564).\
+    Elsik CG, Tayal A, Diesh CM, Unni DR, Emery ML, Nguyen HN, Hagen DE. 2015. Nucleic Acids
+    Research. 44(D1):D793-800.
 4.  [Fourmidable: a database for ant
     genomics](http://europepmc.org/abstract/MED/19126223).\
     Wurm Y, Uva P, Ricci F, Wang J, Jemielity S, Iseli C, Falquet L,
