@@ -9,4 +9,4 @@ the National Institutes of Health (NHGRI - NIH). The sequencing was done
 at the [Baylor College of Medicine](http://www.hgsc.bcm.tmc.edu/),
 Houston, Texas.
 
-Ensembl Metazoa uses assembly version 3.1.
+Ensembl Metazoa uses assembly version [*Spur_5.0*](https://www.ncbi.nlm.nih.gov/assembly/GCA_000002235.4/).
