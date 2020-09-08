@@ -1,16 +1,12 @@
 
 - New genomes
-    - [_Arabis alpina_](/Arabis_alpina) : assembly from ENA [GCA_000733195.1](http://www.ebi.ac.uk/ena/data/view/GCA_000733195.1) and annotation from TRANSNET
-	- [_Camelina sativa_](/Camelina_sativa) : assembly from ENA [GCA_000633955.1](http://www.ebi.ac.uk/ena/data/view/GCA_000633955.1) and annotation from [camelinadb](http://camelinadb.ca/downloads.html)
-	- [_Cannabis sativa_ female](/Cannabis_sativa_female) : assembly from ENA [GCA_900626175.1](http://www.ebi.ac.uk/ena/data/view/GCA_900626175.1) and annotation from [cannabisgenome](http://cannabisgenome.org)
-	- [Watermelon](/Citrullus_lanatus) (_Citrullus lanatus_) : assembly from ENA [GCA_000238415.2](http://www.ebi.ac.uk/ena/data/view/GCA_000238415.2) and annotation from cucurbitgenomics
-	- [Melon](/Cucumis_melo) (_Cucumis melo_) : assembly from ENA [GCA_902497455.1](http://www.ebi.ac.uk/ena/data/view/GCA_902497455.1) and annotation from [melonomics](http://www.melonomics.net)
-	- [Blue-petal water lily](/Nymphaea_colorata) (_Nymphaea colorata_) : assembly from ENA [GCA_008831285.1](http://www.ebi.ac.uk/ena/data/view/GCA_008831285.1) and annotation from Fujian Agriculture and Forestry University
-	- [China rose](/Rosa_chinensis) (_Rosa chinensis_) : assembly and annotation from ENA [GCA_002994745.2](http://www.ebi.ac.uk/ena/data/view/GCA_002994745.2)
-	- [Green foxtail](/Setaria_viridis) (_Setaria viridis_) : assembly and annotation from ENA [GCA_005286985.1](http://www.ebi.ac.uk/ena/data/view/GCA_005286985.1)
-	- [Barley cultivar Golden Promise](/Hordeum_vulgare/Info/Strains?db=core)  
-	- [UK wheat cultivars](/Triticum_aestivum/Info/Strains?db=core) : Cadenza, Claire, Paragon, Robigus, Weebill
+
+    - [Saltwater cress](/Eutrema_salsugineum) (_Eutrema salsugineum_) : assembly and annotation from ENA [GCA_000478725.1](https://www.ebi.ac.uk/ena/browser/view/GCA_000478725.1) 
+	- [Lavender scallops](/Kalanchoe_fedtschenkoi) (_Kalanchoe fedtschenkoi_) : assembly from ENA [GCA_002312845.1](https://www.ebi.ac.uk/ena/browser/view/GCA_002312845.1) and annotation from [Phytozome](https://phytozome-next.jgi.doe.gov/info/Kfedtschenkoi_v1_1)
+	- [Valley oak](/Quercus_lobata) (_Quercus lobata_): assembly from ENA [GCA_001633185.2](https://www.ebi.ac.uk/ena/data/view/GCA_001633185.2) and annotation from [valleyoak.ucla.edu](https://valleyoak.ucla.edu)
 
 - Updated genomes
-	- Added sunflower variation data
-	- Renamed almond gene names
+	- Updated [_Gossypium raimondii_](/Gossypium_raimondii) and [white yam](/Dioscorea_rotundata) assemblies
+	- New plant reactome mappings from Gramene
+	- Annotation of repeated elements using a custom plant library (nrTEplants)
+	- Added EVA variation data to [soybean](/Glycine_max) and [_Phaseolus vulgaris_](/Phaseolus_vulgaris)
