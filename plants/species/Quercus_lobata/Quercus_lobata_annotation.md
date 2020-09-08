@@ -1,9 +1,7 @@
 ### Annotation
 
-Gene annotation was provided by the https://valleyoak.ucla.edu 
-...
-details here, example http://plants.ensembl.org/Coffea_canephora/Info/Annotation/
-...
+Gene annotation was provided by the https://valleyoak.ucla.edu
+More details will be posted upon publication of the paper describing this assembly.
 
 Repeats were annotated with the [Ensembl Genomes repeat feature
 pipeline](http://plants.ensembl.org/info/genome/annotation/repeat_features.html). 
