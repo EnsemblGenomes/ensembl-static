@@ -1,6 +1,6 @@
 ### Annotation
 
-Gene annotation was provided by the https://valleyoak.ucla.edu
+Gene annotation was provided by [valleyoak.ucla.edu](https://valleyoak.ucla.edu).
 More details will be posted upon publication of the paper describing this assembly.
 
 Repeats were annotated with the [Ensembl Genomes repeat feature
