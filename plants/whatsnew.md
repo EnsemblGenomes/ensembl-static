@@ -7,4 +7,4 @@
 	- [Opium poppy](/Papaver_somniferum) (_Papaver somniferum_) : assembly and annotation from ENA [GCA_003573695.1](https://www.ebi.ac.uk/ena/browser/view/GCA_003573695.1)
 
 - Updated genomes
-	- Set up strain view for [_/Panicum hallii/_](/Panicum_hallii) and [cacao](/Theobroma_cacao)
+	- Set up strain view for [Panicum hallii](/Panicum_hallii) and [cacao](/Theobroma_cacao)
