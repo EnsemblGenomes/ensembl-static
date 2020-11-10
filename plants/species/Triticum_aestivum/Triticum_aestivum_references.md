@@ -54,3 +54,9 @@
     Surbhi Grewal, Stella Hubbart‐Edwards, Caiyun Yang, Urmila Devi, Lauren Baker, Jack Heath, Stephen Ashling, Duncan Scholefield, 
     Caroline Howells, Jermaine Yarde, Peter Isaac, Ian P. King and Julie King.
     2016. Plant Biotechnology Journal. 18:743–755.
+
+11. [Integrating genomic resources to present full gene and putative promoter capture probe sets for bread wheat](https://academic.oup.com/gigascience/article/8/4/giz018/5304888).\ 
+	Gardiner LJ, Brabbs T, Akhunov A, Jordan K, Budak H et al. 2019. Gigascience 8(4): giz018
+
+12. [Efficient genome-wide detection and cataloging of EMS-induced mutations using next-generation sequencing and exome capture](http://www.plantcell.org/content/26/4/1382).\
+	Henry IM, Nagalakshmi U, Lieberman MC, Ngo KJ, Krasileva KV et al. 2014. Plant Cell 26:1382–1397

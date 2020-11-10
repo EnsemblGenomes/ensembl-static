@@ -21,7 +21,7 @@ from both 820K and 35K samples will be displayed. \[5\]
 
 [**EMS Mutation data**](http://europepmc.org/abstract/MED/28096351)
 
-EMS-type variants from sequenced tetraploid (cv 'Kronos') and hexaploid (cv 'Cadenza') TILLING populations. Sequencing was performed using exome capture \[1\] for both varieties and promoter capture \[2\] only for Kronos. Mutations were called on the IWGSC RefSeq V1.0 assembly using the [Dragen system](https://file.scirp.org/Html/2-1370287_74603.htm) for Cadenza and the MAPS pipeline for Kronos \[3\].
+EMS-type variants from sequenced tetraploid (cv 'Kronos') and hexaploid (cv 'Cadenza') TILLING populations. Sequencing was performed using exome capture \[2\] for both varieties and promoter capture \[11\] only for Kronos. Mutations were called on the IWGSC RefSeq V1.0 assembly using the [Dragen system](https://file.scirp.org/Html/2-1370287_74603.htm) for Cadenza and the MAPS pipeline for Kronos \[12\].
 
 - 4.8 million Kronos mutations in coding regions and 4.3 million in promoter regions (estimated average error rate lower than 0.7%).
 - 8.2 million Cadenza mutations in coding regions
