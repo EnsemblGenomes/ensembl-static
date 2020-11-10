@@ -21,24 +21,12 @@ from both 820K and 35K samples will be displayed. \[5\]
 
 [**EMS Mutation data**](http://europepmc.org/abstract/MED/28096351)
 
-EMS-type variants from sequenced tetraploid (cv 'Kronos') and hexaploid
-(cv 'Cadenza') TILLING populations. Mutations were called on the IWGSC
-RefSeq V1.0 assembly using the [Dragen
-system.](https://file.scirp.org/Html/2-1370287_74603.htm)
+EMS-type variants from sequenced tetraploid (cv 'Kronos') and hexaploid (cv 'Cadenza') TILLING populations. Sequencing was performed using exome capture \[1\] for both varieties and promoter capture \[2\] only for Kronos. Mutations were called on the IWGSC RefSeq V1.0 assembly using the [Dragen system](https://file.scirp.org/Html/2-1370287_74603.htm) for Cadenza and the MAPS pipeline for Kronos \[3\].
 
--   3.9 million Kronos mutations
--   8.2 million Cadenza mutations
+- 4.8 million Kronos mutations in coding regions and 4.3 million in promoter regions (estimated average error rate lower than 0.7%).
+- 8.2 million Cadenza mutations in coding regions
 
-Researchers and breeders can search this database online, identify
-mutations in the different copies of their target gene, and request
-seeds to study gene function or improve wheat varieties. Seeds can be
-requested from the [UK
-SeedStor](https://www.seedstor.ac.uk/shopping-cart-tilling.php) or from
-the US based [Dubcovsky
-lab](http://dubcovskylab.ucdavis.edu/wheat-tilling).This resource was
-generated as part of a joint project between the University of
-California Davis, Rothamsted Research, The Earlham Institute, and the
-John Innes Centre. \[2\]
+Researchers and breeders can search this database online, identify mutations in the different copies of their target gene, and request seeds to study gene function or improve wheat varieties. Seeds can be requested from the UK [SeedStor](https://www.seedstor.ac.uk/shopping-cart-tilling.php) or from the US based [Dubcovsky lab](http://dubcovskylab.ucdavis.edu/wheat-tilling). This resource was generated as part of a joint project between the University of California Davis, Rothamsted Research, The Earlham Institute, and the John Innes Centre.
 
 **Inter-Homoeologous Variants**
 
@@ -74,5 +62,5 @@ LD data calculate [here](https://github.com/Ensembl/ensembl-variation/tree/relea
 43 variants from the 820K and 35K Axiom SNP arrays have been linked to QTL in Cereals DB. This will increase as the QTL DB will grow.
 An example can be seen [here](https://plants.ensembl.org/Triticum_aestivum/Variation/Explore?r=5A:438266461-438267461;v=BA00617086;vdb=variation;vf=264386). 
 
-
+**
 
