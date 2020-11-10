@@ -37,5 +37,4 @@ several plant gene sets, clustered to gene families with
 with family consensus function names, homology scores and references,
 and other gene quality scores.
 
-This gene set includes 29,188 protein coding genes and was produced by
-Don Gilbert (Indiana University, 2012-03-08).
+This gene set was produced by Don Gilbert (Indiana University).
