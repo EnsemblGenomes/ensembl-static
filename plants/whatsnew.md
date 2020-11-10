@@ -1,12 +1,10 @@
 
 - New genomes
 
-    - [Saltwater cress](/Eutrema_salsugineum) (_Eutrema salsugineum_) : assembly and annotation from ENA [GCA_000478725.1](https://www.ebi.ac.uk/ena/browser/view/GCA_000478725.1) 
-	- [Lavender scallops](/Kalanchoe_fedtschenkoi) (_Kalanchoe fedtschenkoi_) : assembly from ENA [GCA_002312845.1](https://www.ebi.ac.uk/ena/browser/view/GCA_002312845.1) and annotation from [Phytozome](https://phytozome-next.jgi.doe.gov/info/Kfedtschenkoi_v1_1)
-	- [Valley oak](/Quercus_lobata) (_Quercus lobata_): assembly from ENA [GCA_001633185.2](https://www.ebi.ac.uk/ena/data/view/GCA_001633185.2) and annotation from [valleyoak.ucla.edu](https://valleyoak.ucla.edu)
+    - [Garden asparagus](/Asparagus_officinalis) (_Asparagus officinalis_) : assembly and annotation from ENA [GCA_001876935.1](http://www.ebi.ac.uk/ena/data/view/GCA_001876935.1) 
+	- [Quinoa](/Chenopodium_quinoa) (_Chenopodium quinoa_) : assembly from ENA [GCA_001683475.1](http://www.ebi.ac.uk/ena/data/view/GCA_001683475.1) and annotation from [ChenopodiumDB](https://www.cbrc.kaust.edu.sa/chenopodiumdb)
+	- [_Eucalyptus grandis_](/Eucalyptus_grandis) : assembly and annotation from ENA [GCA_000612305.1](https://www.ebi.ac.uk/ena/browser/view/GCA_000612305.1)
+	- [Opium poppy](/Papaver_somniferum) (_Papaver somniferum_) : assembly and annotation from ENA [GCA_003573695.1](https://www.ebi.ac.uk/ena/browser/view/GCA_003573695.1)
 
 - Updated genomes
-	- Updated [_Gossypium raimondii_](/Gossypium_raimondii) and [white yam](/Dioscorea_rotundata) assemblies
-	- New plant reactome mappings from Gramene
-	- Annotation of repeated elements using a custom plant library (nrTEplants)
-	- Added EVA variation data to [soybean](/Glycine_max) and [_Phaseolus vulgaris_](/Phaseolus_vulgaris)
+	- Set up strain view for [_/Panicum hallii/_](/Panicum_hallii) and [cacao](/Theobroma_cacao)
