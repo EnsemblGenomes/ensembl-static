@@ -4,7 +4,7 @@
     annotated reference
     genome](http://dx.doi.org/10.1126/science.aar7191).\
     Rudi Appels, Kellye Eversole, Catherine Feuillet, Jan Rogers, Ian Small, 
-    Manuel Spannagl,David Swarbreck, Cristobal Uauy. 2018. Science. 361
+    Manuel Spannagl, David Swarbreck, Cristobal Uauy et al. 2018. Science. 361
 2.  [Wild emmer genome architecture and diversity elucidate wheat
     evolution and
     domestication](http://dx.doi.org/10.1126/science.aan0032).\
