@@ -3,9 +3,8 @@
 1.  [Shifting the limits in wheat research and breeding using a fully
     annotated reference
     genome](http://dx.doi.org/10.1126/science.aar7191).\
-    Rudi Appels, Kellye Eversole, Catherine Feuillet, Beat Keller, Jane
-    Rogers, Nils Stein\.... Hana imkov, Ian Small, Manuel Spannagl,
-    David Swarbreck, Cristobal Uauy. 2018. Science. 361
+    Rudi Appels, Kellye Eversole, Catherine Feuillet, Jan Rogers, Ian Small, 
+    Manuel Spannagl,David Swarbreck, Cristobal Uauy. 2018. Science. 361
 2.  [Wild emmer genome architecture and diversity elucidate wheat
     evolution and
     domestication](http://dx.doi.org/10.1126/science.aan0032).\
