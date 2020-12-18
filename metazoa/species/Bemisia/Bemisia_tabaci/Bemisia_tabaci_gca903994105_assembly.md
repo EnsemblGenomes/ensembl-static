@@ -2,7 +2,7 @@
 ------------------------
 The *Bemisia tabaci* Asia II 5 genome was produced by the genomics consortium of the [African Cassava Whitefly Project](http://www.cassavawhitefly.org), funded by the Bill & Melinda Gates Foundation (Grant Number OPP1058938). 
 
-A field-collected colony (Salem, Tamil Nadu, India) was established, maintained and inbred \(F5 generation\) by [Prof Maruthi Gowda](https://scholar.google.com.au/citations?user=5czCi6oAAAAJ&hl=en) at the quarantine insectary facilities of the [Natural Resources Institute, University of Greenwich, United Kingdom](https://www.nri.org/).
+A field-collected colony (Salem, Tamil Nadu, India) was established, maintained and inbred (F5 generation) by [Prof Maruthi Gowda](https://scholar.google.com.au/citations?user=5czCi6oAAAAJ&hl=en) at the quarantine insectary facilities of the [Natural Resources Institute, University of Greenwich, United Kingdom](https://www.nri.org/).
 
 High-molecular weight genomic DNA was isolated from a pooled sample of F5 inbred haploid male individuals (n=3000). PacBio Sequel library construction and sequencing (8 SMRT cells) was performed by the [Centre for Genomic Research, The University of Liverpool](https://www.liverpool.ac.uk/genomic-research/) (United Kingdom).
 
