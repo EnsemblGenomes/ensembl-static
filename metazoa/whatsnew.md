@@ -1,13 +1,29 @@
 - Updated data
     - Updated species
-        - Apis mellifera ("European honey bee", _DH4_ strain)
-        - Nasonia vitripennis ("Jewel wasp", _AsymCx_ strain)
-        - Solenopsis invicta ("Fire ant")
-        - Strongylocentrotus purpuratus ("Purple sea urchin", _Spur 01_ isolate)
-
-    - Updated protein features for all species using [InterProScan](http://www.ebi.ac.uk/interpro/search/sequence-search) with version 80 of [InterPro](https://www.ebi.ac.uk/interpro/)
+        - fixed bug with missing final stop codon from CDS (FlyBase.org originated species)
+            - Drosophila erecta
+            - Drosophila grimshawi
+            - Drosophila mojavensis
+            - Drosophila persimilis
+            - Drosophila pseudoobscura
+            - Drosophila sechellia
+            - Drosophila simulans
+            - Drosophila willistoni
+            - Drosophila yakuba
+        - updated annotations
+            - Drosophila ananassae (dana_r1.06 FB2018_04)
+            - Drosophila melanogaster (dmel_r6.32 FB2020_01)
+            - Drosophila virilis (dvir_r1.07 FB2018_05)
+    - Updated protein features for all species using [InterProScan](http://www.ebi.ac.uk/interpro/search/sequence-search) with version 81 of [InterPro](https://www.ebi.ac.uk/interpro/)
 		- Updated BioMarts for all gene and variation data
 		- Updated pan-taxonomic gene trees and homologies
 - New species loaded
-    - Clytia hemisphaerica (_Z4C2_ strain)
-    - Varroa destructor ("Varroa mite")
+    - Actinia equina ("Beadlet anemone", _AE1_ strain, imported from https://rapid.ensembl.org)
+    - Whitefly:
+        - Bemisia tabaci (AsiaII-5)
+        - Bemisia tabaci (SSA1-SG1 Nig)
+        - Bemisia tabaci (SSA1-SG1 Ug)
+        - Bemisia tabaci (SSA2 Nig)
+        - Bemisia tabaci (SSA3 Nig)
+        - Bemisia tabaci (Sweetpotato Ug)
+        - Trialeurodes vaporariorum ("Greenhouse whitefly")
