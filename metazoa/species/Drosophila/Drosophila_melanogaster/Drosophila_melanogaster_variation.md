@@ -10,5 +10,5 @@ SNPs from two populations, one comprising 37 lines from north Carolina
 and the other comprising 15 lines from Malawi. The SNPs were originally
 generated with respect to assembly version BDGP5, and these were mapped
 to BDGP6 using the [FlyBase converter
-tool](http://flybase.org/static_pages/downloads/COORD.html); only 308
+tool](https://flybase.org//static_pages/downloads/COORD.html); only 308
 SNPs were unable to be mapped.
