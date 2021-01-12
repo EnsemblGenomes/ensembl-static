@@ -1,0 +1,123 @@
+#!/usr/bin/env perl
+
+# Parses references in .md format and interrogates the $RESTURL 
+# (see below) in order to get key data of the corresponding papers, 
+# such as journal name, title or EuroPMC citations. 
+# Output is TSV format.
+#
+# Example call: perl ensembl-static/scripts/get_reference_data.pl plants 
+
+use strict;
+use warnings;
+use FindBin '$Bin';
+use JSON;
+use HTTP::Tiny;
+
+my @NVDIVISIONS = qw( plants fungi metazoa plants protists );
+my $RESTURL = 'https://www.ebi.ac.uk/europepmc/webservices/rest/search';
+my $BATCHSIZE = 500;
+my $REFREGEX = 'MED/(\d+)';
+
+# check arguments
+my $division = '';
+if(!$ARGV[0]){
+	die "# usage: $0 <division>\n";
+} else {
+	$division = $ARGV[0];
+	if(!grep(/^$division$/,@NVDIVISIONS)){
+		die "# ERROR: valid divisions are ".join(',',@NVDIVISIONS)."\n"
+	} 
+}
+
+# find all division species
+my $path = $Bin."/../$division/species";
+opendir(DIV,$path) || die "# ERROR: cannot list $path\n";
+my @species = readdir(DIV);	
+closedir(DIV);
+  
+# parse all references and work out query
+my (@ref_ids,$ref_filename);
+foreach my $spname (@species){
+
+	$ref_filename = "$path/$spname/$spname\_references.md";
+	if(-s $ref_filename){
+		open(REFMD,"<",$ref_filename) ||
+			die "# ERROR: cannot read $ref_filename\n";
+		while(<REFMD>){
+			if(/$REFREGEX/){
+				push(@ref_ids,"EXT_ID%3A%22$1%22");
+			}
+		}
+		close(REFMD);
+	}
+}
+
+# compose REST query URL
+my $url = "$RESTURL?query=(";
+$url .= join('%20OR%20',@ref_ids);
+$url .= ")&pageSize=$BATCHSIZE&resultType=lite&format=json";
+
+# interrogate REST point (1st time)
+my $http = HTTP::Tiny->new();
+my $response = 
+	$http->get($url, {headers => {'Content-type'=>'application/json'} });
+	
+die "# ERROR: failed request $url\n" unless $response->{success};
+
+# retrieve results, note that several queries might be needed
+my ($nextCursorMark,$hitCount,$current_hits) = ('',0,0);
+my ($europmc_data,$nexturl,@results);
+
+$europmc_data = decode_json($response->{content});
+
+$nextCursorMark = $europmc_data->{nextCursorMark};
+$hitCount = $europmc_data->{hitCount};
+
+foreach my $ref (@{ $europmc_data->{resultList}{result} }) {
+
+	push(@results, sprintf("%s/%s\t%s\t%s\t%s\t%s\t%s",
+		$ref->{source},
+		$ref->{id},
+		$ref->{pmid} || 'NA',
+		$ref->{pmcid} || 'NA',
+		$ref->{doi} || 'NA',
+		$ref->{journalTitle},
+		$ref->{pubYear},
+	));
+
+	$current_hits++; 
+}
+
+# repeat query with nextCursorMark if required 
+while($current_hits < $hitCount){
+
+	$nexturl = "$url&cursorMark=$nextCursorMark";
+	$response =
+		$http->get($nexturl, {headers => {'Content-type'=>'application/json'} });
+
+	die "# ERROR: failed request $nexturl\n" unless $response->{success};
+	
+	$europmc_data = decode_json($response->{content});
+
+	# update cursorMark for subsequent calls
+	$nextCursorMark = $europmc_data->{nextCursorMark};
+
+	foreach my $ref (@{ $europmc_data->{resultList}{result} }) {
+
+		push(@results, sprintf("%s/%s\t%s\t%s\t%s\t%s\t%s",
+			$ref->{source},
+			$ref->{id},
+	        $ref->{pmid} || 'NA',
+	        $ref->{pmcid} || 'NA',
+	        $ref->{doi} || 'NA',
+	        $ref->{journalTitle},
+	        $ref->{pubYear},
+	    ));
+	    $current_hits++; 
+	}
+}
+
+# finally print the results
+print ";division=$division\n";
+print ";id,pmid,pmcid,doi,journalTitle,pubYear\n";
+print join("\n",@results);
