@@ -13,9 +13,12 @@ use FindBin '$Bin';
 use JSON;
 use HTTP::Tiny;
 
-my @NVDIVISIONS = qw( plants fungi metazoa plants protists );
+# see documentation at
+# https://europepmc.org/RestfulWebService#!/Europe32PMC32Articles32RESTful32API/search
 my $RESTURL = 'https://www.ebi.ac.uk/europepmc/webservices/rest/search';
 my $BATCHSIZE = 500;
+
+my @NVDIVISIONS = qw( plants fungi metazoa plants protists );
 my $REFREGEX = 'MED/(\d+)';
 
 # check arguments
