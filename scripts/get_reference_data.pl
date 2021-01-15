@@ -19,7 +19,7 @@ my $RESTURL = 'https://www.ebi.ac.uk/europepmc/webservices/rest/search';
 my $BATCHSIZE = 500;
 
 my @NVDIVISIONS = qw( plants fungi metazoa plants protists );
-my $REFREGEX = 'MED/(\d+)';
+my $REFREGEX = '(\w{3})/(\d+)';
 
 # check arguments
 my $division = '';
@@ -48,7 +48,11 @@ foreach my $spname (@species){
 			die "# ERROR: cannot read $ref_filename\n";
 		while(<REFMD>){
 			if(/$REFREGEX/){
-				push(@ref_ids,"EXT_ID%3A%22$1%22");
+				if($1 eq 'MED'){
+					push(@ref_ids,"EXT_ID%3A%22$2%22");
+				} else {
+					push(@ref_ids,"EXT_ID%3A%22$1$2%22");
+				}
 			}
 		}
 		close(REFMD);
