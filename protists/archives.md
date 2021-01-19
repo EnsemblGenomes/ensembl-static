@@ -1,7 +1,9 @@
 ## Archive sites
 
-Archive of release 45 of EnsemblProtists: [eg45-protists.ensembl.org](http://eg45-protists.ensembl.org) (Sep 2019)
+The following archive sites are available to access previous versions of data:
 
-Archive of release 40 of EnsemblProtists: [eg40-protists.ensembl.org](http://eg40-protists.ensembl.org) (July 2018)
-
-Archive of release 37 of EnsemblProtists: [eg37-protists.ensembl.org](http://eg37-protists.ensembl.org) (October 2017)
+ - Release 49, December 2020  [eg49-protists.ensembl.org](http://eg49-protists.ensembl.org)
+ - Release 45, September 2019 [eg45-protists.ensembl.org](http://eg45-protists.ensembl.org)
+ - Release 40, July 2018      [eg40-protists.ensembl.org](http://eg40-protists.ensembl.org)
+ - Release 37, October 2017   [eg37-protists.ensembl.org](http://eg37-protists.ensembl.org)
+~                                                                                                
