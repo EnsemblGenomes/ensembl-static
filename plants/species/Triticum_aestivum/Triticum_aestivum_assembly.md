@@ -30,6 +30,6 @@ coding exons and transposable element (TE)-derived (ISBP) markers
 1 Gb size difference between IWGSC RefSeq v1.0 and the new genome size
 estimates of 15.4 to 15.8 Gb can be accounted for by collapsed or
 unassembled sequences of highly repeated clusters, such as ribosomal RNA
-coding regions and telomeric sequences [1]. 
+coding regions and telomeric sequences [1]. Centromere data taken can be viewed [here](/Triticum_aestivum/Location/Genome).
 
 This assembly is for the reference Chinese Spring wheat cultivar.

@@ -1,15 +1,13 @@
 
 - New genomes
 
-    - [Persian walnut](/Juglans_regia) (_Juglans regia_) : assembly from RefSeq [GCF_001411555.2](https://www.ncbi.nlm.nih.gov/assembly/GCF_001411555.2) and annotation from [GigaDB](http://dx.doi.org/10.5524/100735) 
-	- [_Sesamum indicum_](/Sesamum_indicum) : assembly from ENA [GCA_000512975.1](https://www.ebi.ac.uk/ena/data/view/GCA_000512975.1) and annotation from Sinbase
-	- diploid [potato cultivar RH89-039-16](/Solanum_tuberosum/Info/Strains?db=core) 
-	- barley TRITEX assembly added as new [cultivar](/Hordeum_vulgare/Info/Strains?db=core)
+    - [Lettuce](/Lactuca_sativa) (_Lactuca sativa_) : assembly and annotation from RefSeq [GCA_002870075.2](https://www.ncbi.nlm.nih.gov/assembly/GCA_002870075.2)
+    - [European olive](/Olea_europaea) (_Olea europaea_) : assembly from ENA [GCA_902713445](https://www.ncbi.nlm.nih.gov/assembly/GCA_902713445) and annotation from [CNAG](https://denovo.cnag.cat/olive). _Olea europaea sylvestris_ remains as seperate [variety](/Olea_europaea/Info/Strains?db=core)
+    - [Hazelnut](/Corylus_avellana) (_Corylus avellana_) : assembly from ENA [GCA_901000735](https://www.ebi.ac.uk/ena/browser/view/GCA_901000735) and annotation from the [Hardwood Genomics Project](https://www.hardwoodgenomics.org/)
+    - [Common fig](/Ficus_carica) (_Ficus carica_) : assembly from ENA [GCA_009761775.1](https://www.ncbi.nlm.nih.gov/assembly/GCA_009761775.1) 
 
 - Updated genomes
-	- [maize](/Zea_mays) updated to Zm-B73-REFERENCE-NAM-5.0 assembly and annotation in collaboration with [Gramene](http://www.gramene.org). The variation data was remapped and agpv3_gramene, agpv4_gramene and curated_genes lifter-over.
-	- [_Musa acuminata_](/Musa_acuminata) updated to Musa_acuminata_v2 assembly and annotation from <https://banana-genome-hub.southgreen.fr>
-	- moss _Physcomitrella patens_ renamed to [_Physcomitrium patens_](/Physcomitrium_patens)
-	- [cross-references](/info/genome/annotation/cross_references.html) for [_Arabidopsis thaliana_](/Arabidopsis_thaliana) recomputed
+    - [Sunflower](/Helianthus_annuus) (_Helianthus annuus_) updated to HanXRQr2.0-SUNRISE assembly [GCA_002127325.2](https://www.ebi.ac.uk/ena/browser/view/GCA_002127325.2)
+    - [Barley](/Hordeum_vulgare) updated to Morex V3, assembly [GCA_904849725](https://www.ncbi.nlm.nih.gov/assembly/GCA_904849725.1) and annotation from [e!DAL](http://doi.org/10.5447/ipk/2021/3). GoldenPromise and the TRITEX version can be viewed via [cultivar view](Hordeum_vulgare/Info/Strains?db=core)
 
 Check which features are supported on each species [here](/species.html); if you would like to request a new species please email [Helpdesk](http://plants.ensembl.org/Help/Contact).
