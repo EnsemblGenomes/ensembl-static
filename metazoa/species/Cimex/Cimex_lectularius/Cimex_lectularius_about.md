@@ -12,8 +12,10 @@ to be a vector although recent studies have shown that it can transmit
 
 Strain chosen for genome sequence. Fort Dix colony established and
 maintained in culture in Harold Harlan\'s lab since 1973. Sequenced
-material was produced from animals after six generations of full-sib
-mating.
+material was produced from animals after five generations of
+single pair matings.
 
 Source:
 [VectorBase](https://www.vectorbase.org/organisms/cimex-lectularius)
+[NCBI BioSample SAMN02649412](https://www.ncbi.nlm.nih.gov/biosample/SAMN02649412/)
+[BCM-HGSC Bed Bug Genome Project](https://www.hgsc.bcm.edu/arthropods/bed-bug-genome-project)
