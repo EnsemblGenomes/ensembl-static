@@ -1,37 +1,36 @@
 ### Updated data
 - **Assembly and gene set data updated**
-  - _Daphnia magna_ (Fresh water planktonic, GCA\_020631705.2)  (N.B. The older GCA\_001632505.1 assembly will be removed from the Release 56)
-  - _Lingula anatina_ (Lamp shell, GCA\_001039355.2) (N.B. The older GCA\_001039355.1 assembly will be removed from the Release 56)
+  - _Hydra vulgaris_ -- (Swiftwater hydra, GCA\_000004095.1) assembly updated to new assembly GCA\_022113875.1 in current Release 57
+  - _Metaseiulus occidentalis_ (Western predatory mite, GCA\_000255335.1) assembly updated to GCA\_000255335.2 and renamed to  _Galendromus occidentalis_, swappig names with the current synonym (though, _Metaseiulus occidentalis_ kept as a synonym)
+  - _Daphnia pulex_ (Common water flea, GCA\_021134715.1) (N.B The older assembly (GCA\_000187875.1) to be removed in Release 58)
+  - _Lepeophtheirus salmonis_ (Salmon louse, GCA\_016086655.3) (N.B The older assembly (LSalAtl2s) to be removed in Release 58)
 - **Updated gene sets**
-  - _Caenorhabditis elegans_ (Nematode worm,  WormBase WS282, GCA\_000002985.3)
-  - _Octopus bimaculoides_ (California two-spot octopus, GCA\_001194135.1)  (N.B. A RefSeq annotation variant loaded as a separate core)
 - **New species**
-  - _Acanthaster planci_ (Crown-of-thorns starfish, GCA\_001949145.1)
-  - _Acropora millepora_ (Stony coral, GCA\_013753865.1)
-  - _Actinia tenebrosa_ (Australian red Waratah sea anemone, GCA\_009602425.1)
-  - _Amphibalanus amphitrite_ (Acorn barnacle, GCA\_019059575.1)
-  - _Asterias rubens_ (European starfish, GCA\_902459465.3) -- [Ensembl GeneBuild](https://rapid.ensembl.org/info/genome/genebuild/full_genebuild.html) annotaion, imported from the [Ensembl Rapid](https://rapid.ensembl.org/Asterias_rubens_GCA_902459465.3/)
-  - _Dimorphilus gyrociliatus_ (Segmented worms, GCA\_904063045.1)
-  - _Eurytemora affinis_ (Calanoid copepod, GCA\_000591075.2)
-  - _Exaiptasia diaphana_ (Sea anemone, GCA\_001417965.1)
-  - _Homarus americanus_ (American lobster, GCA\_018991925.1)
-  - _Hyalella azteca_ (Amphipod, GCA\_000764305.2)
-  - _Hypsibius exemplaris_  (Water bear tardigrade, GCA\_002082055.1)
-  - _Mercenaria mercenaria_ (Hard clam, quahog, GCA\_014805675.2)
-  - _Mizuhopecten yessoensis_ (Yesso scallop, GCA\_002113885.2)
-  - _Octopus sinensis_ (East Asian common octopus, GCA\_006345805.1)
-  - _Owenia fusiformis_ (Segmented worms, GCA\_903813345.1)
-  - _Patiria miniata_ (Bat star starfish, GCA\_015706575.1)
-  - _Penaeus japonicus_ (Kuruma shrimp, GCA\_017312705.1)
-  - _Penaeus vannamei_ (Pacific white shrimp, GCA\_003789085.1)
-  - _Pollicipes pollicipes_ (Goose neck barnacle, GCA\_011947565.2)
-  - _Portunus trituberculatus_ (Swimming crab, GCA\_017591435.1)
-  - _Procambarus clarkii_ (Red swamp crayfish, GCA\_020424385.2)
+  - _Acromyrmex echinatior_ (Panamanian leaf-cutter ant, GCA\_000204515.1)
+  - _Apis dorsata_ (Giant honeybee, GCA\_000469605.1)
+  - _Apis florea_ (Dwarf honeybee, GCA\_000184785.2)
+  - _Bombyx mandarina_ (Wild silkworm, GCA\_003987935.1)
+  - _Camponotus floridanus_ (Florida carpenter ant, GCA\_003227725.1)
+  - _Dufourea novaeangliae_ (Bee, GCA\_001272555.1)
+  - _Echinococcus granulosus_ (Dog tapeworm, GCA\_000524195.1)
+  - _Eufriesea mexicana_ (Bee, GCA\_001483705.1)
+  - _Habropoda laboriosa_ (Southeastern blueberry bee, GCA\_001263275.1)
+  - _Haliotis rubra_ (Blacklip abalone, GCA\_003918875.1)
+  - _Haliotis rufescens_ (Red abalone, GCA\_023055435.1)
+  - _Harpegnathos saltator_ (Indian jumping ant, GCA\_003227715.2)
+  - _Linepithema humile_ (Argentine ant, GCA\_000217595.1)
+  - _Megachile rotundata_ (Alfalfa leafcutting bee, GCA\_000220905.1)
+  - _Penaeus chinensis_ (Fleshy prawn, GCA\_019202785.2)
+  - _Pogonomyrmex barbatus_ (Red harvester ant, GCA\_000187915.1)
+  - _Pomphorhynchus laevis_ (Thorny-headed worm, GCA\_012934845.2)
+  - _Schistosoma haematobium_ (Urinary blood fluke, GCA\_000699445.2)
+  - _Stegodyphus dumicola_ (Social spider, GCA\_010614865.2)
 - **Updated BioMarts for all gene and variation data**
 - **Updated pan-taxonomic gene trees and homologies**
 - **Planned updates**
-  - _Anopheles atroparvus_  -- The older GCA\_000473505.1 assembly will be removed from the Release 56
-  - _Daphnia magna_  -- The older GCA\_001632505.1 assembly will be removed from the Release 56
-  - _Lingula anatina_  -- The older GCA\_001039355.1 assembly will be removed from the Release 56
-  - _Hydra vulgaris_ -- The GCA\_000004095.1 assembly will be removed from Release 57
-  - _Metaseiulus occidentalis_ (GCA\_000255335.1) will be updated to GCA\_000255335.2 and renamed to  _Galendromus occidentalis_, swappig names with the current synonym (though, _Metaseiulus occidentalis_ will be kept as a synonym)
+  - _Daphnia pulex_ -- The older GCA\_000187875.1 assembly to be removed from Release 58
+  - _Hydra vulgaris_ -- (GCA\_000004095.1) assembly to be removed from Release 58
+  - _Lingula anatina_  -- The older GCA\_001039355.1 assembly to be removed from Release 58
+  - _Lepeophtheirus salmonis_ The older LSalAtl2s assembly to be removed from Release 58
+  - _Metaseiulus occidentalis_ The older GCA\_000255335.1 assembly to be removed from Release 58
+  - _Phlebotomus perniciosus_  -- The older GCA\_918844115.1 assembly to be replaced with updated assembly GCA\_918844115.2 from Release 58
