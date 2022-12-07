@@ -2,4 +2,4 @@
 
 * 28024298
 
-Picture credit: 
+Picture credit: Wikipedia
