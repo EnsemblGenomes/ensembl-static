@@ -1,38 +1,33 @@
 ### Updated data
 - **Assembly and gene set data updated**
-  - _Hydra vulgaris_ -- (Swiftwater hydra, GCA\_000004095.1) assembly updated to new assembly GCA\_022113875.1
-  - _Metaseiulus occidentalis_ (Western predatory mite, GCA\_000255335.1) assembly updated to GCA\_000255335.2 and renamed to  _Galendromus occidentalis_, swappig names with the current synonym (though, _Metaseiulus occidentalis_ kept as a synonym)
-  - _Daphnia pulex_ (Common water flea, GCA\_021134715.1) (N.B The older assembly (GCA\_000187875.1) to be removed in Release 57)
-  - _Lepeophtheirus salmonis_ (Salmon louse, GCA\_016086655.3) (N.B The older assembly (LSalAtl2s) to be removed in Release 57)
+  - _Acyrthosiphon pisum_ (Pea aphid, GCA\_005508785.2)
 - **Updated gene sets**
+- **New Assembly for existing species**
+  - _Diabrotica virgifera virgifera_ (Western corn rootworm, GCA\_917563875.2)
+  - _Lucilia cuprina_ (Australian sheep blowfly, GCA\_022045245.1)
 - **New species**
-  - _Acromyrmex echinatior_ (Panamanian leaf-cutter ant, GCA\_000204515.1)
-  - _Apis dorsata_ (Giant honeybee, GCA\_000469605.1)
-  - _Apis florea_ (Dwarf honeybee, GCA\_000184785.2)
-  - _Bombyx mandarina_ (Wild silkworm, GCA\_003987935.1)
-  - _Camponotus floridanus_ (Florida carpenter ant, GCA\_003227725.1)
-  - _Dufourea novaeangliae_ (Bee, GCA\_001272555.1)
-  - _Echinococcus granulosus_ (Dog tapeworm, GCA\_000524195.1)
-  - _Eufriesea mexicana_ (Bee, GCA\_001483705.1)
-  - _Habropoda laboriosa_ (Southeastern blueberry bee, GCA\_001263275.1)
-  - _Haliotis rubra_ (Blacklip abalone, GCA\_003918875.1)
-  - _Haliotis rufescens_ (Red abalone, GCA\_023055435.1)
-  - _Harpegnathos saltator_ (Indian jumping ant, GCA\_003227715.2)
-  - _Linepithema humile_ (Argentine ant, GCA\_000217595.1)
-  - _Megachile rotundata_ (Alfalfa leafcutting bee, GCA\_000220905.1)
-  - _Penaeus chinensis_ (Fleshy prawn, GCA\_019202785.2)
-  - _Pogonomyrmex barbatus_ (Red harvester ant, GCA\_000187915.1)
-  - _Pomphorhynchus laevis_ (Thorny-headed worm, GCA\_012934845.2)
-  - _Schistosoma haematobium_ (Urinary blood fluke, GCA\_000699445.2)
-  - _Stegodyphus dumicola_ (Social spider, GCA\_010614865.2)
+  - _Amyelois transitella_ (Naval orange worm, GCA\_001186105.1)
+  - _Anthonomus grandis grandis_ (Boll weevil, GCA\_022605725.3)
+  - _Bicyclus anynana_ (Squinting bush brown, GCA\_900239965.1)
+  - _Chelonus insularis_ (Parasitoid wasp, GCA\_013357705.1)
+  - _Dermacentor andersoni_ (Rocky Mountain wood tick, GCA\_023375885.2)
+  - _Galleria mellonella_ (Greater wax moth, GCA\_003640425.2)
+  - _Helicoverpa armigera_ (Cotton bollworm, GCA\_023701775.1)
+  - _Helicoverpa zea_ (Corn earworm, GCA\_022581195.1)
+  - _Homalodisca vitripennis_ (Glassy winged sharpshooter, GCA\_021130785.2)
+  - _Leguminivora glycinivorella_ (Soybean pod borer, GCA\_023078275.1)
+  - _Manduca sexta_ (Tobacco hornworm, GCA\_014839805.1)
+  - _Neodiprion lecontei_ (Redheaded pine sawfly, GCA\_021901455.1)
+  - _Neodiprion pinetum_ (White pine sawfly, GCA\_021155775.1)
+  - _Nilaparvata lugens_ (Brown planthopper, GCA\_014356525.1)
+  - _Pectinophora gossypiella_ (Pink bollworm, GCA\_024362695.1)
+  - _Polistes canadensis_ (Red paper wasp, GCA\_001313835.1)
+  - _Polistes dominula_ (European paper wasp, GCA\_001465965.1)
+  - _Polistes fuscatus_ (Common paper wasp, GCA\_010416935.1)
+  - _Sitophilus oryzae_ (Rice weevil, GCA\_002938485.2)
+  - _Thrips palmi_ (Melon Thrips, GCA\_012932325.1)
+  - _Venturia canescens_ (Endoparasitoid wasp, GCA\_019457755.1)
+  - _Zerene cesonia_ (Southern Dogface, GCA\_012273895.2)
 - **Updated BioMarts for all gene and variation data**
 - **Updated pan-taxonomic gene trees and homologies**
 - **Planned updates**
-  - _Acyrthosiphonon pisum_ -- The assembly version update in Release 57 (GCA\_005508785.1 -> GCA\_005508785.2)
-  - _Amphimedon queenslandica_ -- The assembly version update in Release 57 (GCA_000090795.1 --> GCA\_000090795.2)
-  - _Daphnia pulex_ -- The older GCA\_000187875.1 assembly to be removed from Release 57
-  - _Hydra vulgaris_ -- (GCA\_000004095.1) assembly to be removed from Release 57
-  - _Lingula anatina_  -- The assembly version update in Release 57 (GCA\_001039355.1 -> GCA\_001039355.2)
-  - _Lepeophtheirus salmonis_  -- The older LSalAtl2s assembly to be removed from Release 57
-  - _Metaseiulus occidentalis_ -- The older GCA\_000255335.1 assembly to be removed from Release 57
-  - _Phlebotomus perniciosus_  -- The assembly version update in Release 57 (GCA\_918844115.1 -> GCA\_918844115.2)
