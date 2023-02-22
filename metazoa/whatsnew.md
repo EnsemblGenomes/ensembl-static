@@ -1,8 +1,11 @@
 ### Updated data
 - **Assembly and gene set data updated**
   - _Acyrthosiphon pisum_ (Pea aphid, GCA\_005508785.2)
+  - _Phlebotomus perniciosus_ (Sand fly, GCA\_918844115.2)
+  - _Amphimedon queenslandica_ (Demosponge, GCA\_000090795.2)
+  - _Lingula anatina_ (Lamp shell, GCA\_001039355.2)
 - **Updated gene sets**
-- **New Assembly for existing species**
+- **New assembly for existing species**
   - _Diabrotica virgifera virgifera_ (Western corn rootworm, GCA\_917563875.2)
   - _Lucilia cuprina_ (Australian sheep blowfly, GCA\_022045245.1)
 - **New species**
