@@ -42,3 +42,5 @@
   - _Acyrthosiphon pisum_ (Pea aphid) -- The older GCA\_005508785.1 assembly version to be removed from Release 58
   - _Amphimedon queenslandica_ (Demosponge) -- The older GCA\_000090795.1 assembly version to be removed from Release 58
   - _Lingula anatina_ (Lamp shell) -- The older GCA\_001039355.1 assembly version to be removed from Release 58
+  - _Dermacentor silvarum_ (Tick) -- The assembly version update in Release 58 (GCA\_013339745.1 -> GCA\_013339745.2)
+  - _Rhipicephalus sanguineus_ (Tick) -- The assembly version update in Release 58 (GCA\_013339695.1 -> GCA\_013339695.2)
