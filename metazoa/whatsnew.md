@@ -38,3 +38,7 @@
 - **Updated BioMarts for all gene and variation data**
 - **Updated pan-taxonomic gene trees and homologies**
 - **Planned updates**
+  - _Phlebotomus perniciosus_ (Sand fly) -- The older GCA\_918844115.1 assembly version to be removed from Release 58
+  - _Acyrthosiphon pisum_ (Pea aphid) -- The older GCA\_005508785.1 assembly version to be removed from Release 58
+  - _Amphimedon queenslandica_ (Demosponge) -- The older GCA\_000090795.1 assembly version to be removed from Release 58
+  - _Lingula anatina_ (Lamp shell) -- The older GCA\_001039355.1 assembly version to be removed from Release 58
