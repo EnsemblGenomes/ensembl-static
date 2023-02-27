@@ -6,8 +6,11 @@
   - _Lingula anatina_ (Lamp shell, GCA\_001039355.2)
 - **Updated gene sets**
 - **New assembly for existing species**
+  - _Athalia rosae_ (Coleseed sawfly, GCA\_917208135.1)
+  - _Bombus terrestris_ (Bombus terrestris, GCA\_910591885.2)
   - _Diabrotica virgifera virgifera_ (Western corn rootworm, GCA\_917563875.2)
   - _Lucilia cuprina_ (Australian sheep blowfly, GCA\_022045245.1)
+  - _Melitaea cinxia_ (Glanville fritillary, GCA\_905220565.1)
 - **New species**
   - _Amyelois transitella_ (Naval orange worm, GCA\_001186105.1)
   - _Anthonomus grandis grandis_ (Boll weevil, GCA\_022605725.3)
@@ -27,6 +30,7 @@
   - _Polistes canadensis_ (Red paper wasp, GCA\_001313835.1)
   - _Polistes dominula_ (European paper wasp, GCA\_001465965.1)
   - _Polistes fuscatus_ (Common paper wasp, GCA\_010416935.1)
+  - _Schistocerca americana_ (American grasshopper, GCA\_021461395.2)
   - _Sitophilus oryzae_ (Rice weevil, GCA\_002938485.2)
   - _Thrips palmi_ (Melon Thrips, GCA\_012932325.1)
   - _Venturia canescens_ (Endoparasitoid wasp, GCA\_019457755.1)
