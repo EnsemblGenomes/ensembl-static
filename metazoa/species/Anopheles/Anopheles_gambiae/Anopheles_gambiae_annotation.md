@@ -8,4 +8,4 @@ gene prediction using the Ensembl system. Prediction utilised alignments
 of dipteran and other protein sets to the genome and generation of
 GeneWise models, alignment and gene prediction based on Anopheles ESTs,
 and selected *ab initio* predictions. More details can be found in
-[VectorBase](https://www.vectorbase.org/organisms/anopheles-gambiae/pest).
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000005575.2).

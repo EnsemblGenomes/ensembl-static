@@ -36,4 +36,4 @@ for genome sequencing at The Genomics Institute (TGI), Washington
 University, St Louis MO.
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/biomphalaria-glabrata)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000457365.1)

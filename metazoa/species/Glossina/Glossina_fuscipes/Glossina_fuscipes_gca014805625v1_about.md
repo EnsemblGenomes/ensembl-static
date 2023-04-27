@@ -7,4 +7,4 @@ well as Gabon, Cameroon and the southern part of Chad. Vector of
 *Trypanosoma brucei rhodesiense* in East Africa.
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/glossina-fuscipes)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_014805625.1)

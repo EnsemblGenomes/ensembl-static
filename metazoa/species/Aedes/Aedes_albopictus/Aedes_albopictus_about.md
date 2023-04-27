@@ -18,4 +18,4 @@ from the Center for Disease Control and Prevention of Guangdong
 Province, China where it has been in culture since 1981.
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/aedes-albopictus "Tendency to inhabit/rest in outdoor areas.")
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_001444175.1 "Tendency to inhabit/rest in outdoor areas.")

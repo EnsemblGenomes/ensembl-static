@@ -80,4 +80,4 @@ village, May 2010), mosquitoes were donated by Mohammad Oshagi and Igor
 Sharakhov (Virginia Tech). There is no colony.
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/anopheles-culicifacies)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000473375.1)

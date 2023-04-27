@@ -33,4 +33,4 @@ in the [Aksoy
 lab](http://medicine.yale.edu/lab/aksoy/ "http://medicine.yale.edu/labs/aksoy/").
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/glossina-morsitans)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_001077435.1)

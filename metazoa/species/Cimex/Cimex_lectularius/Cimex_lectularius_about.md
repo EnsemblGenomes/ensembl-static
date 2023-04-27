@@ -16,6 +16,6 @@ material was produced from animals after five generations of
 single pair matings.
 
 Sources:
-* [VectorBase](https://www.vectorbase.org/organisms/cimex-lectularius)
+* [VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000648675.3)
 * [NCBI BioSample SAMN02649412](https://www.ncbi.nlm.nih.gov/biosample/SAMN02649412/)
 * [BCM-HGSC Bed Bug Genome Project](https://www.hgsc.bcm.edu/arthropods/bed-bug-genome-project)

@@ -63,4 +63,4 @@ parasites.\", Zhou et al,
 ([PMID:24438588](https://www.ncbi.nlm.nih.gov/pubmed/?term=24438588)).
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/anopheles-sinensis)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000441895.2)

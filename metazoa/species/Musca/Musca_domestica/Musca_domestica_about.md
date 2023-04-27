@@ -9,4 +9,4 @@ Common house fly, a comparator species for the tsetse project.
 *Musca domestica* strain maintained by Jeff Scott At Cornell University.
 
 Souce:
-[VectorBase](https://www.vectorbase.org/organisms/musca-domestica)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000371365.1)

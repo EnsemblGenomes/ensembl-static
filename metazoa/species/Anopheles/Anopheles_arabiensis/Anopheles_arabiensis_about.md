@@ -66,4 +66,4 @@ has undergone isofemale selection, and is available from the [BEI
 resource](https://www.beiresources.org) center.
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/anopheles-arabiensis)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000349185.1)

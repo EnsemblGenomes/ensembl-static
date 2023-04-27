@@ -11,7 +11,7 @@ disease, transmitting the pathogenic bacterium *Borrelia burgdorfei*.
 
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/ixodes-scapularis)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_016920785.2)
 
 Picture credit (public domain): [Scott
 Bauer](http://commons.wikimedia.org/wiki/File:Adult_deer_tick.jpg)

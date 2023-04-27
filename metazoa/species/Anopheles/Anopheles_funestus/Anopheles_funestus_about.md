@@ -65,4 +65,4 @@ selection. The strain is available from [BEI
 resources](https://www.beiresources.org).
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/anopheles-funestus)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_003951495.1)

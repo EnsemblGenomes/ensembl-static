@@ -32,4 +32,4 @@ species. This knowledge is vital to understand the epidemiology and
 control of this neglected disease in South and Central America
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/lutzomyia-longipalpis)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000265325.1)

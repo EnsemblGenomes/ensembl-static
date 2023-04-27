@@ -77,4 +77,4 @@ done prior to genome sequencing. This strain is available form [BEI
 resources](http://www.beiresources.org).
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/anopheles-minimus)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000349025.1)

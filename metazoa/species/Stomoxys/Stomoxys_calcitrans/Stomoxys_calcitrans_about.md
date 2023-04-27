@@ -11,4 +11,4 @@ undertaken on pooled multiple male (F7 generation from inbred line
 *8C7A2A5H3J4*) individual DNA isolates.
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/stomoxys-calcitrans)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_001015335.1)

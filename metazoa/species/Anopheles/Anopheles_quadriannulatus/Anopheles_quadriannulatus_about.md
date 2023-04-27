@@ -14,4 +14,4 @@ strain is a synonym for the *SANGQUA* strain (this strain is available
 from [BEI resources](https://www.beiresources.org)).
 
 Source:
-[VectorBase](https://www.vectorbase.org/organisms/anopheles-quadriannulatus)
+[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000349065.1)
