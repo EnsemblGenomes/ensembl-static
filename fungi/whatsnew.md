@@ -1,8 +1,8 @@
 - Genomes
     - EnsemblFungi has 1505 genomes in total
-    - No updates to genomes since the previous release
 
 - Updated data 
+    - Update whole genome alignments	
     - Updated annotation of molecular interactions involving fungal genes
     - Updated protein features for all species using [InterProScan](http://www.ebi.ac.uk/interpro/search/sequence-search)
     - Updated BioMarts for all gene and variation data

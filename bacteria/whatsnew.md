@@ -1,11 +1,12 @@
-This release of Ensembl Bacteria has no major updates to the genomes since the previous release. As of release 49, we only represent non-redundant bacterial genomes as defined by criteria set out by UniProt. See more details about this update in our [blog](https://www.ensembl.info/2020/09/21/ensembl-bacteria-updates/). 
+In June 2023, Ensembl Bacteria released new gene predictions for almost all of the genomes it hosts. This was done in collaboration with the EMBL-EBI metagenomics team and utlised a pipeline using [Prokka](https://doi.org/10.1093/bioinformatics/btu153), combined with results from [cmscan](https://www.ebi.ac.uk/Tools/rna/infernal_cmscan/), [EggNOG](https://doi.org/10.1093/nar/gky1085) and [InterProScan](https://www.ebi.ac.uk/interpro/about/interproscan/). We have retained the community-submitted annotation for 115 species that are in our pan-taxonomic comparative analysis.
 
 - Genomes
 
-	- A total of 31,332 bacterial and archaeal genomes
+	- A total of 31,332 [non-redundant]((https://www.ensembl.info/2020/09/21/ensembl-bacteria-updates/) bacterial and archaeal genomes
 
 - Data 
 
+	- New gene predictions for genomes (except for 115 species in pan-taxonomic compara)
 	- Updated annotation of molecular interactions involving bacterial genes 
 	- Alignments to [Rfam](https://rfam.xfam.org) covariance models (Rfam 12.2) visible in separate track (‘Rfam models’)
 	- Updated protein features for all species using [InterProScan](https://www.ebi.ac.uk/interpro/search/sequence/)

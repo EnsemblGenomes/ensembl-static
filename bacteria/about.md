@@ -1,6 +1,6 @@
 ## Ensembl Bacteria
 
-Ensembl Bacteria is a browser for bacterial and archaeal genomes. These are taken from the databases of the [International Nucleotide Sequence Database Collaboration](http://www.insdc.org/), the European Nucleotide Archive at the EBI, GenBank at the NCBI, and the DNA Database of Japan).
+Ensembl Bacteria is a browser for bacterial and archaeal genomes. The assemblies for these are taken from the databases of the [International Nucleotide Sequence Database Collaboration](http://www.insdc.org/), the European Nucleotide Archive at the EBI, GenBank at the NCBI, and the DNA Database of Japan).
 
 ### Data access
 

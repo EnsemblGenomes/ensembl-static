@@ -1,7 +1,7 @@
 
 - Genomes
 	- EnsemblProtists has 237 genomes in total
-	- No updated genomes from last release
+
 - Updated data
 	- Updated annotation of molecular interactions involving protist genes
 	- Updated whole genome alignments  
