@@ -2,7 +2,7 @@ In June 2023, Ensembl Bacteria released new gene predictions for almost all of t
 
 - Genomes
 
-	- A total of 31,332 [non-redundant]((https://www.ensembl.info/2020/09/21/ensembl-bacteria-updates/) bacterial and archaeal genomes
+	- A total of 31,332 [non-redundant](https://www.ensembl.info/2020/09/21/ensembl-bacteria-updates/) bacterial and archaeal genomes
 
 - Data 
 
