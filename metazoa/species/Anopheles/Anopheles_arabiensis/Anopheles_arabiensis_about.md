@@ -67,3 +67,6 @@ resource](https://www.beiresources.org) center.
 
 Source:
 [VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000349185.1)
+
+Picture credit:
+James Gathany, CDC [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Anopheles-arabiensis.png)

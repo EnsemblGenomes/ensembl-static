@@ -28,3 +28,6 @@ severe immune response that underlies the disease pathology.
     ParaSite](https://parasite.wormbase.org/Schistosoma_mansoni_prjea36577).
 -   [Schistosomiasis information by CDC](https://www.cdc.gov/dpdx/schistosomiasis/index.html). 
 
+Picture credit:
+[Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Schistosoma_mansoni2.jpg)
+

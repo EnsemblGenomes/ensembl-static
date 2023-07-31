@@ -35,4 +35,5 @@ is the only mosquito species implicated in malaria transmission[3].
 
 General information about this species can be found here [Wikipedia](https://en.wikipedia.org/wiki/Anopheles_atroparvus) and [ECDC](https://www.ecdc.europa.eu/en/disease-vectors/facts/mosquito-factsheets/anopheles-atroparvus)
 
-Picture credit: [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Male_mosquito%2C_Anopheles_maculipennis_%28atroparvus%29%2C_1901_Wellcome_L0037510.jpg)
+Picture credit: 
+James Gathany, CDC [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Anopheles_-atroparvus.png)

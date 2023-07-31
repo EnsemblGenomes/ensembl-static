@@ -37,3 +37,7 @@ University, St Louis MO.
 
 Source:
 [VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000457365.1)
+
+Picture credit: 
+Fred A. Lewis, Yung-san Liang, Nithya Raghavan & Matty Knight, [Creative Commons Attribution 2.5](https://creativecommons.org/licenses/by/2.5) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Biomphalaria_glabrata.jpg)
+

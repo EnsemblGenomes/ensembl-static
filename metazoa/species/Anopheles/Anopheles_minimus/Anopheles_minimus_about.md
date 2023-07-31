@@ -78,3 +78,6 @@ resources](http://www.beiresources.org).
 
 Source:
 [VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000349025.1)
+
+Picture credit: 
+James Gathany, USCDCP [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Anopheles_minimus_1.jpg)

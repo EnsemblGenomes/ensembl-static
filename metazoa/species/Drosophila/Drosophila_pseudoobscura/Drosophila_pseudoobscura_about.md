@@ -11,3 +11,6 @@ the [biology of *Drosophila
 pseudoobscura*](https://fb2017_05.flybase.org/reports/FBsp00000201.html), and a
 [phylogeny of the 12 sequenced fruitfly
 species](https://fb2017_05.flybase.org/static_pages/species/sequenced_species.html).
+
+Picture credit:
+MA Hanson [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by-sa/4.0) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Dpse_1.tif)

@@ -15,3 +15,5 @@ As a parasite that is using natural hosts that are themselves model organisms, *
     ParaSite](https://parasite.wormbase.org/Hymenolepis_microstoma_prjeb124).
 -   [*Hymenolepis microstoma* Wellcome Sanger Institute page](https://www.sanger.ac.uk/resources/downloads/helminths/hymenolepis-microstoma.html).
 
+Picture credit:
+Magdalena ZZ [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by-sa/3.0) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Hymenolepis_microstoma.jpg)

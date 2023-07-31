@@ -14,3 +14,5 @@ About *Ascaris suum*
 -   [Soil-transmitted helminth infections, World Health
 Organization](https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections).
 
+Picture credit: 
+Alan R Walker [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by-sa/3.0) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Ascaris-suum.jpg)

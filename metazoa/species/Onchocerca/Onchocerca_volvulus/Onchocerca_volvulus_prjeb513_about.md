@@ -27,3 +27,6 @@ breed near fast-flowing streams and rivers.
 -   African Programme for Onchocerciasis Control
     [(APOC)](https://www.who.int/about/evaluation/jaf21-apoc-final-report15-v5.pdf).
 
+Picture credit: 
+[Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://upload.wikimedia.org/wikipedia/commons/5/55/Onchocerca_volvulus_mf1_DPDx.JPG)
+

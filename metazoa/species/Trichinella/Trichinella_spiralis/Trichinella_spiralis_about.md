@@ -16,3 +16,5 @@ commonly in undercooked pork products.
     ParaSite](https://parasite.wormbase.org/Trichinella_spiralis_prjna12603)
 -   [Nematode.net](http://nematode.net)
 
+Picture credit:
+DPDx Image Library [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Trichinella_larv1_DPDx.JPG)

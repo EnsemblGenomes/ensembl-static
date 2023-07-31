@@ -18,3 +18,5 @@ About *Pristionchus pacificus*
 -   [Pristionchus database hosted at the Max-Plank Institute for
     Evolutionary Biology](http://www.pristionchus.org/).
 
+Photo credit:
+Robbie Rae, Amit Sinha, and Ralf J. Sommer [Creative Commons Attribution 1.0](https://creativecommons.org/licenses/by-sa/1.0) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Pristionchus_pacificus_g001_(1).jpg)

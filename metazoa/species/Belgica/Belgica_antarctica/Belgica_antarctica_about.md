@@ -11,5 +11,5 @@ nucleotides (and about 13,500 genes) \[1\].
 ([Text](https://en.wikipedia.org/wiki/Belgica_antarctica) from
 [Wikipedia](https://en.wikipedia.org/), the free encyclopaedia.)
 
-Picture copyright: [Richard E. Lee
-Jr.](http://www.units.miamioh.edu/cryolab/)
+Picture credit:
+Tasteofcrayons [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Midge.jpg)

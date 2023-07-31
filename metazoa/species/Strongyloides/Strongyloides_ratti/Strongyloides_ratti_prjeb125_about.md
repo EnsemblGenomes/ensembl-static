@@ -17,3 +17,5 @@ The nematode *Strongyloides ratti* is a common gastro-intestinal parasite of the
 -   [*S. ratti data at WormBase ParaSite](https://parasite.wormbase.org/Strongyloides_ratti_prjeb125/Info/Index/).
 -   [Strongyloidiasis info by CDC](https://www.cdc.gov/parasites/strongyloides/index.html). 
 
+Picture credit: 
+[Copyright Mark Viney 2023](https://markviney.com/) - Reference [2]

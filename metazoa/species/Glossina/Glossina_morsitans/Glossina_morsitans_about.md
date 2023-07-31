@@ -34,3 +34,6 @@ lab](http://medicine.yale.edu/lab/aksoy/ "http://medicine.yale.edu/labs/aksoy/")
 
 Source:
 [VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_001077435.1)
+
+Picture credit:
+Geoffrey M. Attardo [Creative Commons Attribution 2.5](https://creativecommons.org/licenses/by-sa/2.5) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Glossina_morsitans_morsitans-pregnant_female.jpg)

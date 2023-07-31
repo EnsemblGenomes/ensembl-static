@@ -19,3 +19,6 @@ Province, China where it has been in culture since 1981.
 
 Source:
 [VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_001444175.1 "Tendency to inhabit/rest in outdoor areas.")
+
+Picture credit:
+James Gathany, CDC [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:CDC-Gathany-Aedes-albopictus-1.jpg)

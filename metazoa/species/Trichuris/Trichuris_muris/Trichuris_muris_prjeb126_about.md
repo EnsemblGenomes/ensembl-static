@@ -13,3 +13,5 @@ The nematode Trichuris muris, or murine whipworm, is a gastrointestinal parasite
 -   [*T. muris* data at WormBase](https://wormbase.org/species/t_muris). 
 -   [*T. muris* data at WormBase ParaSite](https://parasite.wormbase.org/Trichuris_muris_prjeb126).
 
+Photo credit:
+David Goulding, Wellcome Trust Sanger Institute [Attribution-NonCommercial 4.0](https://creativecommons.org/licenses/by-nc/4.0/)

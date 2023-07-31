@@ -36,3 +36,5 @@ characterised nematodes which have both male and female adult animals.
 -   [Roundworm Genome Sequencing white
     paper](https://www.genome.gov/11007952/roundworm-genome-sequencing).
 
+Picture credit:
+[Bob Goldstein](http://bio.unc.edu/people/faculty/goldstein/), UNC Chapel Hill [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by-sa/3.0) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:CelegansGoldsteinLabUNC.jpg)

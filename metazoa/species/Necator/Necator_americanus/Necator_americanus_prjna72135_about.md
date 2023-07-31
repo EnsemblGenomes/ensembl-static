@@ -14,3 +14,6 @@ Unembryonated *Necator americanus* eggs are passed in the stool and under favour
 -   [*Necator Americanus* data at WormBase ParaSite](https://parasite.wormbase.org/Necator_americanus_prjna72135).
 -   [Information on necatoriasis by CDC](https://www.cdc.gov/dpdx/hookworm/index.html).
 
+Picture credit:
+Jasper Lawrence [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by-sa/4.0) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Necator_Americanus_L3_x1000_12-2007.jpg)
+

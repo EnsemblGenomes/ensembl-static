@@ -78,3 +78,7 @@ November 27 2014
 
 Source:
 [VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000349045.1)
+
+Picture credit: 
+Jim Gathany, CDC [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Anopheles_stephensi.jpeg)
+
