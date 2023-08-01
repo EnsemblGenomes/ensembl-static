@@ -29,3 +29,5 @@ from one location to another.
 -   [Roundworm Genome Sequencing white
     paper](https://www.genome.gov/11007952/roundworm-genome-sequencing).
 
+Picture credit:\
+Image adapted with permission from Gupta, B.P., Sternberg, P.W. [The draft genome sequence of the nematode Caenorhabditis briggsae, a companion to C. elegans. Genome Biol 4, 238 (2003).](https://doi.org/10.1186/gb-2003-4-12-238)

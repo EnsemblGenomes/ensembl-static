@@ -1,4 +1,3 @@
-
 ### References
 
 1.  [*Caenorhabditis briggsae* recombinant inbred line genotypes reveal
@@ -15,4 +14,5 @@
     Stein LD, Bao Z, Blasiar D, Blumenthal T, Brent MR, Chen N,
     Chinwalla A, Clarke L, Clee C, Coghlan A et al. 2003. PLoS Biology.
     1:E45.
-
+4.  [The draft genome sequence of the nematode *Caenorhabditis briggsae*, a companion to C.elegans](https://doi.org/10.1186/gb-2003-4-12-238) \
+    Gupta, B.P., Sternberg, P.W. Genome Biol 4, 238 (2003).
