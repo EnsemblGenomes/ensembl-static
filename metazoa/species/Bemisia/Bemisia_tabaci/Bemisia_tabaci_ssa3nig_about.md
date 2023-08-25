@@ -18,7 +18,3 @@ Members of the *B. tabaci* species complex cause plant damage by feeding on plan
 
 
 Picture credit: [Sharon van Brunschot](https://scholar.google.com.au/citations?hl=en&user=uhUMwrQAAAAJ).
-
-**Prepublication data sharing**
-------------------------
-These data are released under Fort Lauderdale principles, as confirmed in the [Toronto Statement](https://www.nature.com/articles/461168a) [16]. Any use of this dataset must abide by the African Cassava Whitefly Project Genomics Consortium data sharing principles. Data producers reserve the right to make the first publication of a global analysis of this data. If you are unsure if you are allowed to publish on this dataset, please contact <j.colvin@greenwich.ac.uk> and <s.vanbrunschot@greenwich.ac.uk> to inquire. The full guidelines can be found at [cassavawhitefly.org](http://www.cassavawhitefly.org).
