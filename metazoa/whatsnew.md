@@ -40,4 +40,5 @@
 - **Patched **
   - _Schistocerca americana_ (American locust, GCA\_021461395.2)
 - **Planned updates**
-
+  - _Rhipicephalus sanguineus_ (Brown dog tick) - The older GCA\_013339695.1 assembly version to be removed from Release 59.
+  - _Dermacentor silvarum_ (Tick) - The older GCA\_013339745.1 assembly version is now removed from ensembl as of release 58.
