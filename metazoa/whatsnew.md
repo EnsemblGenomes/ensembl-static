@@ -38,7 +38,7 @@
 - **Updated BioMarts for all gene and variation data**
 - **Updated pan-taxonomic gene trees and homologies**
 - **Patched **
-  - _Schistocerca americana_ (American locust, GCA\_021461395.2)
+  - _Schistocerca americana_ (American locust, GCA\_021461395.2) - Fixed issue with DNA masking affecting protein tree display.
 - **Planned updates**
   - _Rhipicephalus sanguineus_ (Brown dog tick) - The older GCA\_013339695.1 assembly version to be removed from Release 59.
-  - _Dermacentor silvarum_ (Tick) - The older GCA\_013339745.1 assembly version is now removed from ensembl as of release 58.
+  - _Dermacentor silvarum_ (Tick) - The older GCA\_013339745.1 assembly version is now removed as of current release 58.
