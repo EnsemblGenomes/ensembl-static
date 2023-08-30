@@ -1,5 +1,6 @@
 - **Assembly and gene set data updated**
   - _Dermacentor silvarum_ (Tick, GCA\_013339745.2)
+  - _Dermacentor silvarum_ (Tick) - The older GCA\_013339745.1 assembly version is now removed as of current release 58.
   - _Rhipicephalus sanguineus_ (Brown dog tick, GCA\_013339695.2)
 - **Updated gene sets**
 - **New assembly for existing species**
@@ -40,5 +41,12 @@
 - **Patched **
   - _Schistocerca americana_ (American locust, GCA\_021461395.2) - Fixed issue with DNA masking affecting protein tree display.
 - **Planned updates**
+  - Release 59:
   - _Rhipicephalus sanguineus_ (Brown dog tick) - The older GCA\_013339695.1 assembly version to be removed from Release 59.
-  - _Dermacentor silvarum_ (Tick) - The older GCA\_013339745.1 assembly version is now removed as of current release 58.
+  - _Daphnia pulex_ (Water flea) - The older GCA\_000187875.1 assembly to be removed from Release 59.
+  - _Hydra vulgaris_ (Swiftwater hydra) - The older GCA\_000004095.1 assembly to be removed from Release 59.
+  - _Octopus bimaculoides_ (California two-spot octopus) - The older GCA_\001194135.1 assembly with RefSeq and community annotations both to be removed from Release 59.
+  - Release 60:
+  - _Athalia rosa_ (Coleseed sawfly) - The GCA\_000344095.2 assembly to be removed from Release 60.
+  - _Bombus terrestris_ (Buff-tailed bumblebee) - The older GCA\_000214255.1 assembly to be removed from Release 60.
+  - _Melitaea cinxia_ (Glanville fritillary) - The older GCA\_000716385.1 assembly to be removed from Release 60.
