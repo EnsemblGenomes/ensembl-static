@@ -1,8 +1,12 @@
 **About *Lineus longissimus ***
 -------------------------
 
-Lineus is a genus of nemertine worms, including the bootlace worm, arguably the longest animal alive. Lineus contains the following species.
-The bootlace worm is in the phylum Nemertea or ribbon worms. It is the most common nemertean found along the coasts of Britain.
+The bootlace worm (*Lineus longissimus*) is a species of ribbon worm.
+The bootlace worm is in the phylum Nemertea, also called proboscis
+worms. *Lineus longissimus* is the most common nemertean found along the
+coasts of Britain. Bootlace worms may grow very long but are usually
+only 5 to 10 millimetres (0.20 to 0.39 in) in width. Its mucus is highly
+toxic.
 
 Picture credit: [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Lineus_longissimus_retouched.jpg)
 
