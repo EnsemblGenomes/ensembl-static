@@ -1,46 +1,51 @@
-### Updated data
 - **Assembly and gene set data updated**
-  - _Acyrthosiphon pisum_ (Pea aphid, GCA\_005508785.2)
-  - _Phlebotomus perniciosus_ (Sand fly, GCA\_918844115.2)
-  - _Amphimedon queenslandica_ (Demosponge, GCA\_000090795.2)
-  - _Lingula anatina_ (Lamp shell, GCA\_001039355.2)
+  - _Dermacentor silvarum_ (Tick, GCA\_013339745.2)
+  - _Dermacentor silvarum_ (Tick) - The older GCA\_013339745.1 assembly version is now removed as of current release 58.
+  - _Rhipicephalus sanguineus_ (Brown dog tick, GCA\_013339695.2)
 - **Updated gene sets**
 - **New assembly for existing species**
-  - _Athalia rosae_ (Coleseed sawfly, GCA\_917208135.1)
-  - _Bombus terrestris_ (Bombus terrestris, GCA\_910591885.2)
-  - _Diabrotica virgifera virgifera_ (Western corn rootworm, GCA\_917563875.2)
-  - _Lucilia cuprina_ (Australian sheep blowfly, GCA\_022045245.1)
-  - _Melitaea cinxia_ (Glanville fritillary, GCA\_905220565.1)
 - **New species**
-  - _Amyelois transitella_ (Naval orange worm, GCA\_001186105.1)
-  - _Anthonomus grandis grandis_ (Boll weevil, GCA\_022605725.3)
-  - _Bicyclus anynana_ (Squinting bush brown, GCA\_900239965.1)
-  - _Chelonus insularis_ (Parasitoid wasp, GCA\_013357705.1)
-  - _Dermacentor andersoni_ (Rocky Mountain wood tick, GCA\_023375885.2)
-  - _Galleria mellonella_ (Greater wax moth, GCA\_003640425.2)
-  - _Helicoverpa armigera_ (Cotton bollworm, GCA\_023701775.1)
-  - _Helicoverpa zea_ (Corn earworm, GCA\_022581195.1)
-  - _Homalodisca vitripennis_ (Glassy winged sharpshooter, GCA\_021130785.2)
-  - _Leguminivora glycinivorella_ (Soybean pod borer, GCA\_023078275.1)
-  - _Manduca sexta_ (Tobacco hornworm, GCA\_014839805.1)
-  - _Neodiprion lecontei_ (Redheaded pine sawfly, GCA\_021901455.1)
-  - _Neodiprion pinetum_ (White pine sawfly, GCA\_021155775.1)
-  - _Nilaparvata lugens_ (Brown planthopper, GCA\_014356525.1)
-  - _Pectinophora gossypiella_ (Pink bollworm, GCA\_024362695.1)
-  - _Polistes canadensis_ (Red paper wasp, GCA\_001313835.1)
-  - _Polistes dominula_ (European paper wasp, GCA\_001465965.1)
-  - _Polistes fuscatus_ (Common paper wasp, GCA\_010416935.1)
-  - _Schistocerca americana_ (American grasshopper, GCA\_021461395.2)
-  - _Sitophilus oryzae_ (Rice weevil, GCA\_002938485.2)
-  - _Thrips palmi_ (Melon Thrips, GCA\_012932325.1)
-  - _Venturia canescens_ (Endoparasitoid wasp, GCA\_019457755.1)
-  - _Zerene cesonia_ (Southern Dogface, GCA\_012273895.2)
+  - _Adelges cooleyi_ (Spruce gall adelgid, GCA\_023614345.1)
+  - _Aethina tumida_ (Small hive beetle, GCA\_024364675.1)
+  - _Amblyteles armatorius_ (Parasitic wasp, GCA\_933228735.1)
+  - _Ancistrocerus nigricornis_ (Potter wasp, GCA\_916049575.1)
+  - _Bombus huntii_ (Hunt's bumblebee, GCA\_024542735.1)
+  - _Bombus vancouverensis nearcticus_ (Montane Bumble Bee, GCA\_011952275.1)
+  - _Cataglyphis hispanica_ (Desert ant, GCA\_021464435.1)
+  - _Crassostrea angulata_ (Portuguese oyster, GCA\_025612915.2)
+  - _Cryptotermes secundus_ (Drywood termite, GCA\_002891405.2)
+  - _Daktulosphaira vitifoliae_ (Grape phylloxera, GCA\_025091365.1)
+  - _Dreissena polymorpha_ (Zebra mussle, GCA\_020536995.1)
+  - _Glyphotaelius pellucidus_ (Caddisflies, GCA\_936435175.1)
+  - _Ichneumon xanthorius_ (Ichneumon wasp, GCA\_917499995.1)
+  - _Limnephilus lunatus_ (Caddisflies, GCA\_917563855.2)
+  - _Limnephilus marmoratus_ (Caddisflies, GCA\_917880885.1)
+  - _Limnephilus rhombicus_ (Caddisflies, GCA\_929108145.2)
+  - _Limnoperna fortunei_ (Golden mussle, GCA\_944474755.1)
+  - _Lineus longissimus_ (Bootlace worm, GCA\_910592395.2)
+  - _Macrosteles quadrilineatus_ (Aster leafhopper, GCA\_028750875.1)
+  - _Mya arenaria_ (Soft-shell clam, GCA\_026914265.1)
+  - _Oppia nitens_ (Oribatid soil mite, GCA\_028296485.1)
+  - _Ostrea edulis_ (European flat oyster, GCA\_023158985.1)
+  - _Panonychus citri_ (Citrus red mite, GCA\_014898815.1)
+  - _Patella pellucida_ (Blue-rayed limpet, GCA\_917208275.1)
+  - _Patella vulgata_ (Common limpet, GCA\_932274485.1)
+  - _Schistocerca cancellata_ (South American locust, GCA\_023864275.2)
+  - _Schistocerca gregaria_ (Grasshoppers, GCA\_023897955.2)
+  - _Schistocerca nitens_ (Vagrant locust, GCA\_023898315.2)
+  - _Schistocerca piceifrons_ (Central American locust, GCA\_021461385.2)
+  - _Schistocerca serialis cubense_ (Grasshoppers, GCA\_023864345.3)
+  - _Varroa jacobsoni_ (Varroa mite, GCA\_002532875.1)
 - **Updated BioMarts for all gene and variation data**
 - **Updated pan-taxonomic gene trees and homologies**
+- **Patched **
+  - _Schistocerca americana_ (American locust, GCA\_021461395.2) - Fixed issue with DNA masking affecting protein tree display.
 - **Planned updates**
-  - _Phlebotomus perniciosus_ (Sand fly) -- The older GCA\_918844115.1 assembly version to be removed from Release 58
-  - _Acyrthosiphon pisum_ (Pea aphid) -- The older GCA\_005508785.1 assembly version to be removed from Release 58
-  - _Amphimedon queenslandica_ (Demosponge) -- The older GCA\_000090795.1 assembly version to be removed from Release 58
-  - _Lingula anatina_ (Lamp shell) -- The older GCA\_001039355.1 assembly version to be removed from Release 58
-  - _Dermacentor silvarum_ (Tick) -- The assembly version update in Release 58 (GCA\_013339745.1 -> GCA\_013339745.2)
-  - _Rhipicephalus sanguineus_ (Tick) -- The assembly version update in Release 58 (GCA\_013339695.1 -> GCA\_013339695.2)
+  - Release 59:
+  - _Rhipicephalus sanguineus_ (Brown dog tick) - The older GCA\_013339695.1 assembly version to be removed from Release 59.
+  - _Daphnia pulex_ (Water flea) - The older GCA\_000187875.1 assembly to be removed from Release 59.
+  - _Hydra vulgaris_ (Swiftwater hydra) - The older GCA\_000004095.1 assembly to be removed from Release 59.
+  - _Octopus bimaculoides_ (California two-spot octopus) - The older GCA_\001194135.1 assembly with RefSeq and community annotations both to be removed from Release 59.
+  - Release 60:
+  - _Athalia rosa_ (Coleseed sawfly) - The GCA\_000344095.2 assembly to be removed from Release 60.
+  - _Melitaea cinxia_ (Glanville fritillary) - The older GCA\_000716385.1 assembly to be removed from Release 60.
