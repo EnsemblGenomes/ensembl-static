@@ -16,9 +16,9 @@
 15. [Gilbertson et al. (2015)](https://doi.org/10.1146/annurev-virology-031413-085410) 'Role of the insect supervectors *Bemisia tabaci* and *Frankliniella occidentalis* in the emergence and global spread of plant viruses'. *Annual Review of Virology*, 2 (1), 67-93. doi:10.1146/annurev-virology-031413-085410.
 16. [Kanakala et al. (2019)](https://dx.doi.org/10.1371/journal.pone.0213946) 'Global genetic diversity and geographical distribution of *Bemisia tabaci* and its bacterial endosymbionts'. *PLoS ONE*, 14(3), e0213946. doi:10.1371/journal.pone.0213946.
 17. [Oliveira et al. (2001)](https://doi.org/10.1016/S0261-2194(01)00108-9) 'History, current status, and collaborative research projects for *Bemisia tabaci*'. *Crop Protection*, 20(9), 709-723. doi:10.1016/S0261-2194(01)00108-9.
-18. [A Toronto International Data Release Workshop (2009)](https://dx.doi.org/10.1038/461168a) 'Prepublication data sharing'. *Nature*, 461(7261), 168-170. doi:10.1038/461168a.
-19. [Aken et al. (2016)](https://academic.oup.com/database/article/doi/10.1093/database/baw093/2630475) ‘The Ensembl gene annotation system’. *Database*, Volume 2016. doi:10.1093/database/baw093.
-20. [Chen et al. (2016)](https://doi.org/10.1186/s12915-016-0321-y) 'The draft genome of whitefly *Bemisia tabaci* MEAM1, a global crop pest, provides novel insights into virus transmission, host adaptation, and insecticide resistance'. *BMC Biology* 14, 110. doi:10.1186/s12915-016-0321-y.
+
+18. [Aken et al. (2016)](https://academic.oup.com/database/article/doi/10.1093/database/baw093/2630475) ‘The Ensembl gene annotation system’. *Database*, Volume 2016. doi:10.1093/database/baw093.
+19. [Chen et al. (2016)](https://doi.org/10.1186/s12915-016-0321-y) 'The draft genome of whitefly *Bemisia tabaci* MEAM1, a global crop pest, provides novel insights into virus transmission, host adaptation, and insecticide resistance'. *BMC Biology* 14, 110. doi:10.1186/s12915-016-0321-y.
 
 **More information**
 ------------------------

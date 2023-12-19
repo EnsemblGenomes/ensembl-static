@@ -7,9 +7,8 @@
 6. [De Barro et al. (2011)](https://dx.doi.org/10.1146/annurev-ento-112408-085504) '*Bemisia tabaci*: a statement of species status.' *Annual Review of Entomology*, 56(1), 1-19. doi: 10.1146/annurev-ento-112408-085504.
 7. [Kanakala et al. (2019)](https://dx.doi.org/10.1371/journal.pone.0213946) 'Global genetic diversity and geographical distribution of *Bemisia tabaci* and its bacterial endosymbionts'. *PLoS ONE*, 14(3), e0213946. doi:10.1371/journal.pone.0213946.
 8. [Oliveira et al. (2001)](https://doi.org/10.1016/S0261-2194(01)00108-9) 'History, current status, and collaborative research projects for *Bemisia tabaci*'. *Crop Protection*, 20(9), 709-723. doi:10.1016/S0261-2194(01)00108-9.
-9. [A Toronto International Data Release Workshop (2009)](https://dx.doi.org/10.1038/461168a) 'Prepublication data sharing'. *Nature*, 461(7261), 168-170. doi:10.1038/461168a.
-10. [Aken et al. (2016)](https://academic.oup.com/database/article/doi/10.1093/database/baw093/2630475) ‘The Ensembl gene annotation system’. *Database*, Volume 2016. doi:10.1093/database/baw093.
-11. [Chen et al. (2016)](https://doi.org/10.1186/s12915-016-0321-y) 'The draft genome of whitefly *Bemisia tabaci* MEAM1, a global crop pest, provides novel insights into virus transmission, host adaptation, and insecticide resistance'. *BMC Biology* 14, 110. doi:10.1186/s12915-016-0321-y.
+9. [Aken et al. (2016)](https://academic.oup.com/database/article/doi/10.1093/database/baw093/2630475) ‘The Ensembl gene annotation system’. *Database*, Volume 2016. doi:10.1093/database/baw093.
+10. [Chen et al. (2016)](https://doi.org/10.1186/s12915-016-0321-y) 'The draft genome of whitefly *Bemisia tabaci* MEAM1, a global crop pest, provides novel insights into virus transmission, host adaptation, and insecticide resistance'. *BMC Biology* 14, 110. doi:10.1186/s12915-016-0321-y.
 
 
 **More information**
