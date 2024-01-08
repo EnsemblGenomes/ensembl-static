@@ -1,9 +1,10 @@
 **Annotation**
 ----------
 
-The annotation presented is derived from annotation submitted to
-[INSDC](http://www.insdc.org) with the assembly accession [GCA\_914767935.1](http://www.ebi.ac.uk/ena/data/view/GCA_914767935.1).
+[Protein-coding](https://rapid.ensembl.org/info/genome/genebuild/anno.html) genes are automatically annotated using 
+[Ensembl's genebuild pipeline.](https://rapid.ensembl.org/info/genome/genebuild/full_genebuild.html)
 
-Ensembl Metazoa displaying genes imported from [NCBI RefSeq](null) annotation release vnull.
+All transcripts are based on mRNA and proteins in public scientific databases.
+
 Small RNA features, protein features, BLAST hits and cross-references have been
 computed by [Ensembl Metazoa](https://metazoa.ensembl.org/info/genome/annotation/index.html).
