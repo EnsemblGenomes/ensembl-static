@@ -1,5 +1,7 @@
 **References**
 ----------
 
-1. Kolmogorov, M., Bickhart, D.M., Behsaz, B. et al. metaFlye: scalable long-read metagenome assembly using repeat graphs. Nat Methods 17, 1103–1110 (2020). https://doi.org/10.1038/s41592-020-00971-x
-2. Lin Y, Yuan J, Kolmogorov M, Shen MW, Chaisson M, Pevzner PA. Assembly of long error-prone reads using de Bruijn graphs. Proc Natl Acad Sci U S A. 2016 Dec 27;113(52):E8396-E8405. doi: 10.1073/pnas.1604560113. Epub 2016 Dec 12. PMID: 27956617; PMCID: PMC5206522.
+1. Jenkins, T. L., Ellis, C. D., Triantafyllidis, A., & Stevens, J. R. (2019). Single nucleotide polymorphisms reveal a genetic cline across the north-east Atlantic and enable powerful population assignment in the European lobster. Evolutionary Applications, 12(10), 1881–1899.
+2. Ellis, C. D., Jenkins, T. L., Svanberg, L., Eriksson, S. P., & Stevens, J. R. (2020). Crossing the pond: genetic assignment detects lobster hybridisation. Scientific Reports, 10(1), 7781.
+3. Houston, R. D., Bean, T. P., Macqueen, D. J., Gundappa, M. K., Jin, Y. H., Jenkins, T. L., Selly, S. L. C., Martin, S. A. M., Stevens, J. R., Santos, E. M., Davie, A., & Robledo, D. (2020). Harnessing genomics to fast-track genetic improvement in aquaculture. Nature Reviews. Genetics, 21(7), 389–409.
+4. Kolmogorov, M., Yuan, J., Lin, Y., & Pevzner, P. A. (2019). Assembly of long, error-prone reads using repeat graphs. Nature Biotechnology, 37(5), 540–546.
