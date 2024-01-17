@@ -17,3 +17,12 @@ Taxonomy ID [6707](https://www.uniprot.org/taxonomy/6707)
 
 **More information**
 General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Homarus_gammarus)
+
+**Prepublication data sharing**
+------------------------
+
+These data are released under Fort Lauderdale principles, as confirmed in the [Toronto Statement](https://www.nature.com/articles/461168a) [3]. 
+Any use of this dataset must abide by the [AquaLeap: Innovation in Genetics and Breeding to Advance UK Aquaculture Production Project](https://gtr.ukri.org/projects?ref=BB%2FS004343%2F1) data sharing principles.
+The data producers reserve the right to make the first publication of these data. If you are unsure if you are allowed to 
+publish using this dataset, please contact [Dr Eduarda Santos](https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=eduarda_santos) (e.santos@exeter.ac.uk) 
+and [Professor Jamie Stevens](https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=jamie_stevens) (j.r.stevens@exeter.ac.uk) to enquire.
