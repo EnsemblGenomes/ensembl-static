@@ -1,3 +1,4 @@
+- **Assembly and gene set data updated**
 - **New assembly for existing species**
   - _Drosophila ananassae_ (Fruit fly, GCA\_017639315.2)
   - _Drosophila erecta_ (Fruit fly, GCA\_003286155.2)
@@ -58,10 +59,18 @@
   - _Pecten maximus_ (Great Scallop, GCA\_902652985.1)
   - _Tribolium madens_ (Black flour beetle, GCA\_015345945.1)
   - _Uloborus diversus_ (Orb Weaver, GCA\_026930045.1)
-
-- **Assembly and gene set data updated**
 - **Updated gene sets**
 - **Updated BioMarts for all gene and variation data**
 - **Updated pan-taxonomic gene trees and homologies**
-- **Planned updates**
 
+- **Planned updates**
+  - Release 60:
+  - _Athalia rosa_ (Coleseed sawfly) - The older GCA\_000344095.2 assembly to be removed from Release 60. Compara reference update to GCA\_917208135.1
+  - _Drosophila yakuba_ - The older GCA\_000005975.1 assembly to be removed.
+  - _Melitaea cinxia_ (Glanville fritillary) - The older GCA\_000716385.1 assembly to be removed.
+  - Release 61:
+  - _Bombus terrestris_ (Buff-tailed bumble-bee) - Compara reference genome (Metazoa & Protostome protein trees) updated to newer GCA\_910591885.2 assembly. The older GCA\_000214255.1 fully dropped. 
+  - Planned updates from WormBase Parasite (release 61 onwards):
+  - _Schistosoma haematobium_ (flatworms) - Older assembly GCA\_000699445.2 to be replaced with assembly GCA\_944470465.2
+  - _Schistosoma mansoni_ (flatworms) - Older assembly GCA\_000237925.3 to be updated to newer version GCA\_000237925.5
+  - _Schmidtea mediterranea_ - New species of freshwater planarian flatworm to be imported.
