@@ -1,11 +1,4 @@
-- **Assembly and gene set data updated**
-- **Updated gene sets**
 - **New assembly for existing species**
-- **New species**
-- **Updated BioMarts for all gene and variation data**
-- **Updated pan-taxonomic gene trees and homologies**
-- **Planned updates**
-
   - _Drosophila ananassae_ (Fruit fly, GCA\_017639315.2)
   - _Drosophila erecta_ (Fruit fly, GCA\_003286155.2)
   - _Drosophila grimshawi_ (Fruit fly, GCA\_018153295.1)
@@ -17,6 +10,7 @@
   - _Drosophila virilis_ (Fruit fly, GCA\_003285735.2)
   - _Drosophila willistoni_ (Fruit fly, GCA\_018902025.2)
   - _Drosophila yakuba_ (Fruit fly, GCA\_016746365.2)
+- **New species**
   - _Bactrocera neohumeralis_ (Lesser Queensland fruit fly, GCA\_024586455.2)
   - _Cherax quadricarinatus_ (Australian red claw crayfish, GCA\_026875155.2)
   - _Coremacera marginata_ (Sieve-winged Snailkiller, GCA\_914767935.1)
@@ -64,3 +58,10 @@
   - _Pecten maximus_ (Great Scallop, GCA\_902652985.1)
   - _Tribolium madens_ (Black flour beetle, GCA\_015345945.1)
   - _Uloborus diversus_ (Orb Weaver, GCA\_026930045.1)
+
+- **Assembly and gene set data updated**
+- **Updated gene sets**
+- **Updated BioMarts for all gene and variation data**
+- **Updated pan-taxonomic gene trees and homologies**
+- **Planned updates**
+
