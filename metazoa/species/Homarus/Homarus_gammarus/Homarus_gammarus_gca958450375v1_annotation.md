@@ -4,7 +4,7 @@
 The annotation presented is derived from annotation submitted to
 [INSDC](http://www.insdc.org) with the assembly accession [GCA\_958450375.1](http://www.ebi.ac.uk/ena/data/view/GCA_958450375.1).
 
-Transcript models are supported by RNA-seq experimental evidence. Including publicly available illumina transcriptome data of genus:*Homarus* (n=107), genomic annotation also utilized forty transcriptomic libraries from multiple developmental and tissue specific samples of *Homarus gammarus* generated for this purpose [PRJEB50279](URL PENDING RELEASE 19-01-24). 
+Transcript models are supported by RNA-seq experimental evidence. Including publicly available illumina transcriptome data of genus:*Homarus* (n=107), genomic annotation also utilized forty transcriptomic libraries from multiple developmental and tissue specific samples of *Homarus gammarus* generated for this purpose PRJEB50279.
 
 Gene model layering was supported with protein-to-genome alignment with experimentally verified proteins [PE evidence level 1, 2] obtained from Crustacea - (Uniprot, March 2022). The Ensembl Gene Annotation pipeline implemented transcript consensus filtration to remove unsupported alternate transcript isoforms.
 
