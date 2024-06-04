@@ -26,3 +26,7 @@ Any use of this dataset must abide by the [AquaLeap: Innovation in Genetics and 
 The data producers reserve the right to make the first publication of these data. If you are unsure if you are allowed to 
 publish using this dataset, please contact [Dr Eduarda Santos](https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=eduarda_santos) (e.santos@exeter.ac.uk) 
 and [Professor Jamie Stevens](https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=jamie_stevens) (j.r.stevens@exeter.ac.uk) to enquire.
+
+**LobsterGeneX**
+-------------------------
+[LobsterGeneX](https://lobstergenex.com/) is a web application designed to visualise gene expression results from ten different tissue types (Eye, Gill, Nerve, Muscle, Heart, Hepatopancreas, Gut, Ovary, Testes, Juvenile) from the European lobster (*Homarus gammarus*). All results reserved; article in prep. (Paris *et al.*); See prepublication data sharing. 
