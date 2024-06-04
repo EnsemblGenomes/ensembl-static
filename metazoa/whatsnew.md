@@ -1,76 +1,54 @@
-- **Assembly and gene set data updated**
-- **New assembly for existing species**
-  - _Drosophila ananassae_ (Fruit fly, GCA\_017639315.2)
-  - _Drosophila erecta_ (Fruit fly, GCA\_003286155.2)
-  - _Drosophila grimshawi_ (Fruit fly, GCA\_018153295.1)
-  - _Drosophila mojavensis_ (Fruit fly, GCA\_018153725.1)
-  - _Drosophila persimilis_ (Fruit fly, GCA\_003286085.2)
-  - _Drosophila pseudoobscura_ (Fruit fly, GCA\_009870125.2)
-  - _Drosophila sechellia_ (Fruit fly, GCA\_004382195.2)
-  - _Drosophila simulans_ (Fruit fly, GCA\_016746395.2)
-  - _Drosophila virilis_ (Fruit fly, GCA\_003285735.2)
-  - _Drosophila willistoni_ (Fruit fly, GCA\_018902025.2)
-  - _Drosophila yakuba_ (Fruit fly, GCA\_016746365.2)
-- **New species**
-  - _Bactrocera neohumeralis_ (Lesser Queensland fruit fly, GCA\_024586455.2)
-  - _Cherax quadricarinatus_ (Australian red claw crayfish, GCA\_026875155.2)
-  - _Coremacera marginata_ (Sieve-winged Snailkiller, GCA\_914767935.1)
-  - _Ctenocephalides felis_ (Cat flea, GCA\_003426905.1)
-  - _Daphnia carinata_ (Water flea, GCA\_022539665.3)
-  - _Diaphorina citri_ (Asian citrus psyllid, GCA\_000475195.1)
-  - _Drosophila albomicans_ (Fruit fly, GCA\_009650485.2)
-  - _Drosophila arizonae_ (Fruit fly, GCA\_001654025.1)
-  - _Drosophila biarmipes_ (Fruit fly, GCA\_025231255.1)
-  - _Drosophila bipectinata_ (Fruit fly, GCA\_000236285.2)
-  - _Drosophila busckii_ (Fruit fly, GCA\_011750605.1)
-  - _Drosophila elegans_ (Fruit fly, GCA\_000224195.2)
-  - _Drosophila eugracilis_ (Fruit fly, GCA\_018153835.1)
-  - _Drosophila ficusphila_ (Fruit fly, GCA\_018152265.1)
-  - _Drosophila guanche_ (Fruit fly, GCA\_900245975.1)
-  - _Drosophila gunungcola_ (Fruit fly, GCA\_025200985.1)
-  - _Drosophila hydei_ (Fruit fly, GCA\_003285905.2)
-  - _Drosophila innubila_ (Fruit fly, GCA\_004354385.1)
-  - _Drosophila kikkawai_ (Fruit fly, GCA\_018152535.1)
-  - _Drosophila mauritiana_ (Fruit fly, GCA\_004382145.1)
-  - _Drosophila miranda_ (Fruit fly, GCA\_003369915.2)
-  - _Drosophila navojoa_ (Fruit fly, GCA\_001654015.2)
-  - _Drosophila obscura_ (Fruit fly, GCA\_018151105.1)
-  - _Drosophila rhopaloa_ (Fruit fly, GCA\_000236305.2)
-  - _Drosophila santomea_ (Fruit fly, GCA\_016746245.2)
-  - _Drosophila subobscura_ (Fruit fly, GCA\_008121235.1)
-  - _Drosophila subpulchrella_ (Fruit fly, GCA\_014743375.2)
-  - _Drosophila suzukii_ (Fruit fly, GCA\_013340165.1)
-  - _Drosophila takahashii_ (Fruit fly, GCA\_018152695.1)
-  - _Drosophila teissieri_ (Fruit fly, GCA\_016746235.2)
-  - _Eriocheir sinensis_ (Chinese mitten crab, GCA\_024679095.1)
-  - _Halyomorpha halys_ (Brown marmorated stink bug, GCA\_000696795.2)
-  - _Homarus gammarus_ (European lobster, GCA\_958450375.1)
-  - _Hydractinia symbiolongicarpus_ (Hydrozoan, GCA\_029227915.2)
-  - _Lytechinus pictus_ (Painted urchin, GCA\_015342785.2)
-  - _Machimus atricapillus_ (Kite-tailed Robberfly, GCA\_933228815.1)
-  - _Melanaphis sacchari_ (Sugarcane aphid, GCA\_002803265.2)
-  - _Microctonus aethiopoides_ (Parasitoid wasp, GCA\_030272655.1)
-  - _Microctonus aethiopoides_ (Parasitoid wasp, GCA\_030272935.1)
-  - _Microctonus aethiopoides_ (Parasitoid wasp, GCA\_030347275.1)
-  - _Microctonus hyperodae_ (Parasitoid wasp, GCA\_030347285.1)
-  - _Myopa tessellatipennis_ (Thick-headed flies, GCA\_943737955.1)
-  - _Octopus bimaculoides_ (California two-spot octopus, GCA\_001194135.2)
-  - _Paramacrobiotus metropolitanus_ (Water bear tardigrade, GCA\_019649055.1)
-  - _Pecten maximus_ (Great Scallop, GCA\_902652985.1)
-  - _Tribolium madens_ (Black flour beetle, GCA\_015345945.1)
-  - _Uloborus diversus_ (Orb Weaver, GCA\_026930045.1)
 - **Updated gene sets**
+  - _Culex quinquefasciatus_ (Southern house mosquito, GCA\_015732765.1)
+
+- **New assembly for existing species**
+  - _Anopheles coluzzii_ (Mosquitos, GCA\_943734685.1)
+  - _Anopheles funestus_ (African malaria mosquito, GCA\_943734845.1)
+  - _Lutzomyia longipalpis_ (Sand fly, GCA\_024334085.1)
+
+- **Assembly and gene set data updated**
+  - _Phlebotomus papatasi_ (Sand fly, GCA\_024763615.2)
+
+- **New species**
+  - _Anastrepha ludens_ (Mexican fruit fly, GCA\_028408465.1)
+  - _Anastrepha obliqua_ (WestIndian fruit fly, GCA\_027943255.1)
+  - _Bombus affinis_ (Rusty patched bumble bee, GCA\_024516045.2)
+  - _Culex pipiens pallens_ (Northern house mosquito, GCA\_016801865.2)
+  - _Cylas formicarius_ (Sweet potato weevil, GCA\_029955315.1)
+  - _Diorhabda carinulata_ (Northern tamarisk beetle, GCA\_026250575.1)
+  - _Diorhabda sublineata_ (Subtropical tamarisk beetle, GCA\_026230105.1)
+  - _Hylaeus anthracinus_ (Anthricinan yellow-faced bee, GCA\_026225885.1)
+  - _Hylaeus volcanicus_ (Volcano Masked Bee, GCA\_026283585.1)
+  - _Malaya genurostris_ (Mosquitos, GCA\_030247185.2)
+  - _Microplitis demolitor_ (Parasitoid wasp, GCA\_026212275.2)
+  - _Microplitis mediator_ (Endoparasitoid wasp, GCA\_029852145.1)
+  - _Mytilus californianus_ (California mussel, GCA\_021869535.1)
+  - _Phlebotomus argentipes_ (Sand fly, GCA\_947086385.1)
+  - _Plodia interpunctella_ (Indianmeal moth, GCA\_027563975.1)
+  - _Spodoptera frugiperda_ (Fall armyworm, GCA\_023101765.3)
+  - _Topomyia yanbarensis_ (Mosquitos, GCA\_030247195.1)
+  - _Toxorhynchites rutilus septentrionalis_ (Elephant mosquito, GCA\_029784135.1)
+  - _Uranotaenia lowii_ (Mosquitos, GCA\_029784155.1)
+  - _Wyeomyia smithii_ (Pitcher plant Mosquito, GCA\_029784165.1)
+  - _Zeugodacus cucurbitae_ (Melon fly, GCA\_028554725.2)
+
+- **Other Updates**
+  - _Drosophila rhopaloa_ (Fruit fly) - Patched incorrectly assigned GCA\_000236305.2 to correct INSDC accession GCA\_018152115.1
+  - _Athalia rosae_ - The older GCA\_000344095.2 assembly replaced with newer GCA\_917208135.1. Compara reference updated.
+  - _Drosophila yakuba_ - The older GCA\_000005975.1 assembly replaced with newer GCA\_016746365.2.
+  - _Melitaea cinxia_ - The older GCA\_000716385.1 assembly replaced with newer GCA\_905220565.1. Compara reference updated.
+
+- **Planned updates:**
+    - Release 61:
+        - _Drosophila melanogaster_ (Fruit fly) - New annotation (Flybase Release 6.54) of assembly GCA\_000001215.4. 
+        - _Bombus terrestris_ (Buff-tailed bumble-bee) - Compara reference genome (Metazoa & Protostome protein trees) updated to newer GCA\_910591885.2 assembly. The older GCA\_000214255.1 will be removed.
+        - _Crassostrea gigas_ - New RefSeq annotation to be added for GCA\_902806645.1. Homotypic synonym *C. gigas* species name to be updated to '*Magallana gigas*'.
+
+    - Planned updates from WormBase Parasite:
+        - _Echinococcus granulosus_ - Older assembly GCA\_000524195.1 to be replacd with GCA\_000469785.1
+        - _Schistosoma haematobium_ (flatworms) - Older assembly GCA\_000699445.2 to be replaced with GCA\_944470465.2
+        - _Schistosoma mansoni_ (flatworms) - Older assembly GCA\_000237925.3 to be updated to newer version GCA\_000237925.5
+        - _Schmidtea mediterranea_ - New species of freshwater planarian flatworm.
+
 - **Updated BioMarts for all gene and variation data**
 - **Updated pan-taxonomic gene trees and homologies**
-
-- **Planned updates**
-  - Release 60:
-  - _Athalia rosa_ (Coleseed sawfly) - The older GCA\_000344095.2 assembly to be removed from Release 60. Compara reference update to GCA\_917208135.1
-  - _Drosophila yakuba_ - The older GCA\_000005975.1 assembly to be removed.
-  - _Melitaea cinxia_ (Glanville fritillary) - The older GCA\_000716385.1 assembly to be removed.
-  - Release 61:
-  - _Bombus terrestris_ (Buff-tailed bumble-bee) - Compara reference genome (Metazoa & Protostome protein trees) updated to newer GCA\_910591885.2 assembly. The older GCA\_000214255.1 fully dropped. 
-  - Planned updates from WormBase Parasite (release 61 onwards):
-  - _Schistosoma haematobium_ (flatworms) - Older assembly GCA\_000699445.2 to be replaced with assembly GCA\_944470465.2
-  - _Schistosoma mansoni_ (flatworms) - Older assembly GCA\_000237925.3 to be updated to newer version GCA\_000237925.5
-  - _Schmidtea mediterranea_ - New species of freshwater planarian flatworm to be imported.
