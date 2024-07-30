@@ -28,7 +28,7 @@
   - _Spodoptera frugiperda_ (Fall armyworm, GCA\_023101765.3)
   - _Topomyia yanbarensis_ (Mosquitos, GCA\_030247195.1)
   - _Toxorhynchites rutilus septentrionalis_ (Elephant mosquito, GCA\_029784135.1)
-  - _Uranotaenia lowii_ (Mosquitos, GCA\_029784155.1)
+  - _Uranotaenia lowii_ (Sandfly, GCA\_029784155.1)
   - _Wyeomyia smithii_ (Pitcher plant Mosquito, GCA\_029784165.1)
   - _Zeugodacus cucurbitae_ (Melon fly, GCA\_028554725.2)
 
