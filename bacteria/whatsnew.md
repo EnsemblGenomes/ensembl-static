@@ -6,8 +6,6 @@ In June 2023, Ensembl Bacteria released new gene predictions for almost all of t
 
 - Data 
 
-	- New gene predictions for genomes (except for 115 species in pan-taxonomic compara)
 	- Updated annotation of molecular interactions involving bacterial genes 
-	- Alignments to [Rfam](https://rfam.xfam.org) covariance models (Rfam 12.2) visible in separate track (‘Rfam models’)
 	- Updated protein features for all species using [InterProScan](https://www.ebi.ac.uk/interpro/search/sequence/)
 	- Updated pan-taxonomic compara (which includes key bacterial species)
