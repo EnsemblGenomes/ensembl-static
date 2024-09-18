@@ -1,5 +1,11 @@
 **About *Anopheles coluzzii***
 -------------------------
+
+*Anopheles coluzzii*, formerly known as *Anopheles gambiae* *M*
+molecular form, was defined as a separate species in 2013 [1].
+*An. coluzzii* belongs to the *Anopheles gambiae* species complex, which
+consists of at least seven species.
+
 The Anopheles gambiae complex consists of at least seven 
 morphologically indistinguishable species of mosquitoes in the genus 
 Anopheles. The complex was recognised in the 1960s and includes the 
@@ -17,4 +23,4 @@ Taxonomy ID [1518534](https://www.uniprot.org/taxonomy/1518534)
 (Text from [Wikipedia](https://en.wikipedia.org/).)
 
 **More information**
-General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Anopheles_gambiae)
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Anopheles_gambiae#Anopheles_coluzzii)
