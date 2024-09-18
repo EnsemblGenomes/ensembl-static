@@ -44,11 +44,5 @@
         - _Bombus terrestris_ (Buff-tailed bumble-bee) - Compara reference genome (Metazoa & Protostome protein trees) updated to newer GCA\_910591885.2 assembly. The older GCA\_000214255.1 will be removed.
         - _Crassostrea gigas_ - New RefSeq annotation to be added for GCA\_902806645.1. Homotypic synonym *C. gigas* species name to be updated to '*Magallana gigas*'.
 
-    - Planned updates from WormBase Parasite:
-        - _Echinococcus granulosus_ - Older assembly GCA\_000524195.1 to be replacd with GCA\_000469785.1
-        - _Schistosoma haematobium_ (flatworms) - Older assembly GCA\_000699445.2 to be replaced with GCA\_944470465.2
-        - _Schistosoma mansoni_ (flatworms) - Older assembly GCA\_000237925.3 to be updated to newer version GCA\_000237925.5
-        - _Schmidtea mediterranea_ - New species of freshwater planarian flatworm.
-
 - **Updated BioMarts for all gene and variation data**
 - **Updated pan-taxonomic gene trees and homologies**
