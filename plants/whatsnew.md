@@ -1,12 +1,18 @@
 - New genomes
 
-    - [Aegilops umbellulata](/Aegilops_umbellulata) : assembly from NCBI [GCA_032464435.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_032464435.1/) and annotation from [KAUST](https://datadryad.org/stash/dataset/doi:10.5061/dryad.05qfttf82).
-    - [Vicia faba](/Vicia_faba) : assembly from NCBI [GCA_948472305.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_948472305.1/) and annotation from [FBGC](https://projects.au.dk/fabagenome/genomics-data).
-	
+    - [Arachis hypogaea](/Arachis hypogaea) : assembly from [INSDC](http://www.insdc.org) and is linked to the assembly accession [GCA_003086295.3](https://www.ebi.ac.uk/ena/browser/view/GCA_003086295.3/) and annotation from [International Peanut Genome Initiative](https://www.peanutbase.org/genome/).
+    
+    - [Lathyrus sativus](/Lathyrus sativus) : assembly from [INSDC](http://www.insdc.org) and is linked to the assembly accession [GCA_963859935.3](https://www.ebi.ac.uk/ena/browser/view/GCA_963859935.3/) and annotation from [John Innes Centre](https://www.jic.ac.uk/).
+    
+    - [Triticum timopheevii](/Triticum timopheevii) : assembly from [INSDC](http://www.insdc.org) and is linked to the assembly accession [GCA_963921465.1](http://www.ebi.ac.uk/ena/data/view/GCA_963921465.1) and annotation from [The University of Nottingham](https://www.nottingham.ac.uk/).
+
 - Updated genomes
 
-    - [Manihot esculenta](/Manihot_esculenta) : assembly from NCBI [GCA_001659605.2](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_001659605.2/) and annotation from [JGI](https://phytozome-next.jgi.doe.gov/info/Mesculenta_v8_1).
-    - [Medicago truncatula](/Medicago_truncatula) : assembly from NCBI [GCA_003473485.2](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_003473485.2/) and annotation from [INRA/CNRS](https://www.inrae.fr/).
+    - [Brassica rapa](/Brassica rapa) : assembly from [INSDC](http://www.insdc.org) and is linked to the assembly accession [GCA_900412535.3](http://www.ebi.ac.uk/ena/data/view/GCA_900412535.3) and annotation from [Genoscope](https://www.genoscope.cns.fr/externe/plants/). It has been added as a [cultivar](https://plants.ensembl.org/Brassica_rapa_ro18/Info/Cultivars?db=core). 
+    
+    - [Marchantia polymorpha](/Marchantia polymorpha) : assembly from [INSDC](http://www.insdc.org) and is linked to the assembly accession [GCA_039105155.1](http://www.ebi.ac.uk/ena/data/view/GCA_039105155.1) and annotation from [National Institute of Genetics](https://www.nig.ac.jp/nig/).
+    
+    - [Triticum aestivum Paragon](/Triticum aestivum Paragon) : assembly from [INSDC](http://www.insdc.org) and is linked to the assembly accession [GCA_949126075.1](https://www.ebi.ac.uk/ena/browser/view/GCA_949126075.1) and annotation from [Earlham Institute](https://opendata.earlham.ac.uk/).
 
 
 Check which features are supported on each species [here](/species.html); if you would like to request a new species please email [Helpdesk](http://plants.ensembl.org/Help/Contact).
