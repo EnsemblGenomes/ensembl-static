@@ -66,3 +66,6 @@
 
 14. [Exome sequencing highlights the role of wild-relative introgression in shaping the adaptive landscape of the wheat genome](https://www.nature.com/articles/s41588-019-0382-2).\
 	Fei He, Raj Pasam, Fan Shi, Surya Kant et al. 2019. Nature Genetics 51, 896-904 
+
+15. [Harnessing landrace diversity empowers wheat breeding](https://www.nature.com/articles/s41586-024-07682-9#data-availability).\
+	Cheng, S., Feng, C., Wingen, L.U. et al. 2024. Nature 632, 823–831.
