@@ -8,7 +8,7 @@
 
 - Updated genomes
 
-    - [Brassica rapa](/Brassica_rapa) : assembly from [INSDC](http://www.insdc.org) and is linked to the assembly accession [GCA_900412535.3](http://www.ebi.ac.uk/ena/data/view/GCA_900412535.3) and annotation from [Genoscope](https://www.genoscope.cns.fr/externe/plants/). It has been added as a [cultivar](https://plants.ensembl.org/Brassica_rapa_ro18/Info/Cultivars?db=core). 
+    - [Brassica rapa Z1](/Brassica_rapa_z1) : assembly from [INSDC](http://www.insdc.org) and is linked to the assembly accession [GCA_900412535.3](http://www.ebi.ac.uk/ena/data/view/GCA_900412535.3) and annotation from [Genoscope](https://www.genoscope.cns.fr/externe/plants/). It has been added as a [cultivar](https://plants.ensembl.org/Brassica_rapa_ro18/Info/Cultivars?db=core). 
     
     - [Marchantia polymorpha](/Marchantia_polymorpha) : assembly from [INSDC](http://www.insdc.org) and is linked to the assembly accession [GCA_039105155.1](http://www.ebi.ac.uk/ena/data/view/GCA_039105155.1) and annotation from [National Institute of Genetics](https://www.nig.ac.jp/nig/).
     
