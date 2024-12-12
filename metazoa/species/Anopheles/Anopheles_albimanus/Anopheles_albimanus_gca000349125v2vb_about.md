@@ -6,7 +6,8 @@ Mexico. It is a generalist species and capable of wide dispersion. A.
 albimanus is a common malaria vector.
 
 
-Picture credit: [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Anopheles_albimanus_mosquito.jpg)
+Picture credit:
+James Gathany, CDC [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Anopheles_albimanus_mosquito.jpg)
 Taxonomy ID [7167](https://www.uniprot.org/taxonomy/7167)
 
 (Text from [Wikipedia](https://en.wikipedia.org/).)
