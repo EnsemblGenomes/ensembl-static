@@ -49,4 +49,4 @@ addition of the mitochondrial genome (L20934, 16,655 bp) which includes
 13 protein-coding and 24 ncRNAs (22 tRNA and 2 rRNA genes).**
 
 Source:
-[VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000005575.2)
+[VEuPathDB VectorBase](https://veupathdb.org/veupathdb/app/search/dataset/AllDatasets/result?filterTerm=GCA_000005575.2)
