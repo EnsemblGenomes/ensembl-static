@@ -1,9 +1,8 @@
 **Annotation**
 ----------
 
-metazoa displaying genes imported from GenBank entry linked to the assembly with accession [GCA\_004136515.2](http://www.ebi.ac.uk/ena/data/view/GCA_004136515.2).
+Annotation of the AcolN1 assembly was carried out by VEuPathDB VectorBase. The set
+of gene models presented (genebuild AcolN1.1, released September 2021)
+combines manual annotation, data provided by the research community, and
+gene prediction using the Ensembl system.
 
-Genomic annotation was deposited along with initial assembly submission by ["Pacific Biosciences"](URL_GOES_HERE).
-
-Small RNA features, protein features, BLAST hits and cross-references have been
-computed by [metazoa](https://metazoa.ensembl.org/info/genome/annotation/index.html).
