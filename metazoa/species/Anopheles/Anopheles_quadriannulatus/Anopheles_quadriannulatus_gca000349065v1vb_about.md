@@ -5,7 +5,8 @@ in Sub-Saharan Africa with the exception of West Africa and
 Madagascar. The species is a vector of malaria.
 
 
-Picture credit: [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Anopheles-quadriannulatus.png)
+Picture credit: 
+James Gathany, CDC [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Anopheles-quadriannulatus.png)
 Taxonomy ID [34691](https://www.uniprot.org/taxonomy/34691)
 
 (Text from [Wikipedia](https://en.wikipedia.org/).)
