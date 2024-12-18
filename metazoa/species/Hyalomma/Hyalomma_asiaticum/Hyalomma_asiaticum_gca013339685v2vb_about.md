@@ -1,19 +1,15 @@
-**About *Hyalomma asiaticum***
+**About *Hyalomma asiaticum**
 -------------------------
-Ticks are parasitic arachnids of the order Ixodida. They are part of 
-the mite superorder Parasitiformes. Adult ticks are approximately 3 to 
-5 mm in length depending on age, sex, species, and "fullness". Ticks 
-are external parasites, living by feeding on the blood of mammals, 
-birds, and sometimes reptiles and amphibians. The timing of the origin 
-of ticks is uncertain, though the oldest known tick fossils are from 
-the Cretaceous period, around 100 million years old. Ticks are widely 
-distributed around the world, especially in warm, humid climates.
 
+_Hyalomma_ is a genus of hard-bodied ticks common in Asia, Europe, and North Africa. They are also found in Southern Africa. The name is derived from Greek: hyalos crystal, glass; and omma eye.
 
-Picture credit: [Creative Commons Attribution-Share Alike 2.5](https://creativecommons.org/licenses/by-sa/2.5) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Ixodus_ricinus_5x.jpg)
+Hyalomma species are difficult to identify due to their hybridization and genetic and morphological variations, caused by harsh environmental conditions and lack of food sources. Hyalomma species are the only ticks to live in such harsh desert conditions. With few hosts available, they are required to be active as soon as a potential host is sensed.
+
+Adult Hyalomma can bite humans and transmit serious pathogens. Immature (nymph) Hyalomma usually feed on birds, rodents, and hares and can be the cause of viral disease and rickettsias. Nymphs are often transmitted from one place to another by migrating birds. Hyalomma species can transmit *rickettsias*, *Crimean-Congo hemorrhagic fever*, *Boutonneuse fever*, and *Q fever*.
+
 Taxonomy ID [266040](https://www.uniprot.org/taxonomy/266040)
 
-(Text from [Wikipedia](https://en.wikipedia.org/).)
+([Text](https://en.wikipedia.org/wiki/Hyalomma) from
+[Wikipedia](https://en.wikipedia.org/), the free encyclopedia [1].)
 
-**More information**
-General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Tick)
+
