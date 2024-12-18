@@ -1,4 +1,4 @@
-**About *Platynereis dumerilii***
+**About *Platynereis dumerilii* **
 -------------------------
 *Platynereis dumerilii* is a species of annelid polychaete worm. It 
 was originally placed into the genus Nereis and later reassigned to 
@@ -12,7 +12,7 @@ important lab animal, it is considered a living fossil, and it is used
 in many phylogenetic studies as a model organism.
 
 
-Picture credit: [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0) via Wikimedia Commons [(Image source)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/PlatynereisDumeriliiFemaleEpitoke.tif/lossy-page1-PlatynereisDumeriliiFemaleEpitoke.tif.jpg)
+Picture credit: Martin Gühmann [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:PlatynereisDumeriliiAtoke.tif)
 Taxonomy ID [6359](https://www.uniprot.org/taxonomy/6359)
 
 (Text from [Wikipedia](https://en.wikipedia.org/).)

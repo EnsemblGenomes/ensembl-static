@@ -1,9 +1,13 @@
 **Annotation**
 ----------
 
-metazoa displaying genes imported from GenBank entry linked to the assembly with accession [GCA\_026936325.1](http://www.ebi.ac.uk/ena/data/view/GCA_026936325.1).
+Annotation of the EMBL\_pdum\_1.0 assembly was carried out by ["The Platynereis Community"](https://platynereis.com/resources/community/)
+at the [EMBL Developmental Biology unit](https://www.embl.org/research/units/developmental-biology/).
 
-Genomic annotation was deposited along with initial assembly submission by ["The Platynereis Community"](URL_GOES_HERE).
+The set
+of gene models presented (genebuild EMBLpdum1v0.0, released September 2024)
+are provided by the research community.
 
 Small RNA features, protein features, BLAST hits and cross-references have been
 computed by [metazoa](https://metazoa.ensembl.org/info/genome/annotation/index.html).
+
