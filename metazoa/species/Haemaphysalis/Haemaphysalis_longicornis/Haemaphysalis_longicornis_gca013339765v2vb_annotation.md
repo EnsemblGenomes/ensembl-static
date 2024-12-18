@@ -1,9 +1,8 @@
 **Annotation**
 ----------
 
-metazoa displaying genes imported from GenBank entry linked to the assembly with accession [GCA\_013339765.2](http://www.ebi.ac.uk/ena/data/view/GCA_013339765.2).
+Annotation of the GCA013339765v2 (BIME\_HaeL\_1.3) assembly was carried out by VEuPathDB VectorBase. The set
+of gene models presented (genebuild VEuPathDB-2022-11-01, released November 2022)
+combines manual annotation, data provided by the research community, and
+gene prediction using the Ensembl system.
 
-Genomic annotation was deposited along with initial assembly submission by ["TIGMIC Group"](URL_GOES_HERE).
-
-Small RNA features, protein features, BLAST hits and cross-references have been
-computed by [metazoa](https://metazoa.ensembl.org/info/genome/annotation/index.html).
