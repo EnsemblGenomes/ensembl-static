@@ -10,7 +10,7 @@ Infection occurs after the human host scratches the bite area, thus
 transferring parasites into the bite wound.
 
 Picture credit [Public domain](https://commons.wikimedia.org/wiki/Main_Page): [Dr. Erwin
-Huebner via Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Rhodnius_prolixus70-300.jpg)
+Huebner via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rhodnius_prolixus70-300.jpg)
 2009\
 
 Taxonomy ID [13249](https://www.uniprot.org/taxonomy/13249)
