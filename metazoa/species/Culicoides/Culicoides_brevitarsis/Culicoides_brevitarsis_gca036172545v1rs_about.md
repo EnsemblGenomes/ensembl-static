@@ -10,7 +10,9 @@ more than 150,000 species including horse-flies, crane flies,
 hoverflies, mosquitoes and others.
 
 
-Picture credit: [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Six_Diptera.jpg)
+https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_1791_SEM_of_a_biting_midge_Culicoides_brevitarsis.jpg
+
+Picture credit: Electron Microscopy Unit, AAHL, CSIRO [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/deed.en) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_1791_SEM_of_a_biting_midge_Culicoides_brevitarsis.jpg) (extended to be square and resized)
 Taxonomy ID [469753](https://www.uniprot.org/taxonomy/469753)
 
 (Text from [Wikipedia](https://en.wikipedia.org/).)
