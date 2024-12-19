@@ -9,7 +9,8 @@ but it has also been found to populate in areas affected by
 deforestation and environment changes due to humans.
 
 
-Picture credit: [Creative Commons Attribution-Share Alike 4.0](https://creativecommons.org/licenses/by-sa/4.0) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Bioswiki.jpg)
+Picture credit (public domain): James Gathany, CDC [Wikimedia
+Commons](http://commons.wikimedia.org/wiki/File:Anophelesdarlingi.jpg)
 Taxonomy ID [43151](https://www.uniprot.org/taxonomy/43151)
 
 (Text from [Wikipedia](https://en.wikipedia.org/).)

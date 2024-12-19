@@ -13,7 +13,7 @@ species of Bombyx, are not as commercially viable in the production of
 silk.
 
 
-Picture credit: [Creative Commons Attribution-Share Alike 2.5](https://creativecommons.org/licenses/by-sa/2.5) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Pairedmoths.jpg)
+Picture credit: [Creative Commons Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) via Wikimedia Commons [(Image source)](http://commons.wikimedia.org/wiki/File:Silkworms3000px.jpg)
 Taxonomy ID [7091](https://www.uniprot.org/taxonomy/7091)
 
 (Text from [Wikipedia](https://en.wikipedia.org/).)

@@ -10,7 +10,7 @@ mosquito additionally transmits Wuchereria bancrofti which causes
 lymphatic filariasis, a symptom of which is elephantiasis.
 
 
-Picture credit: [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:AnophelesGambiaemosquito.jpg)
+Picture credit: James D. Gathany, CDC [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:AnophelesGambiaemosquito.jpg)
 Taxonomy ID [7165](https://www.uniprot.org/taxonomy/7165)
 
 (Text from [Wikipedia](https://en.wikipedia.org/).)
