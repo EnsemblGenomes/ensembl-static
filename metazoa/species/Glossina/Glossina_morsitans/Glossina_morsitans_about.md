@@ -23,6 +23,8 @@ Mozambique, Zimbabwe, Zambia and Malawi. The boundary separating the two
 subspecies *G. morsitans centralis* and *G. morsitans morsitans*
 corresponds roughly with the Atlantic/Indian Ocean watershed.
 
+Taxonomy ID [37546](https://www.uniprot.org/taxonomy/37546)
+
 *Yale* strain
 -------------
 
