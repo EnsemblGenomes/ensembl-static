@@ -11,7 +11,9 @@ commercial significance for wine and table grape production.
 Picture credit: [Creative Commons Attribution-Share Alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Cabernet_Sauvignon_Gaillac.jpg)
 Taxonomy ID [29760](https://www.uniprot.org/taxonomy/29760)
 
-(Text from [Wikipedia](https://en.wikipedia.org/).)
-
 **More information**
 General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Vitis_vinifera)
+
+### References
+
+- Shi, X., Cao, S., Wang, X., Huang, S., Wang, Y., Liu, Z., Liu, W., Leng, X., Peng, Y., Wang, N., et al. (2023) The complete reference genome for grapevine (*Vitis vinifera L.*) genetics and breeding. Horticulture Research, Volume 10, Issue 5, uhad061.(https://doi.org/10.1093/hr/uhad061).

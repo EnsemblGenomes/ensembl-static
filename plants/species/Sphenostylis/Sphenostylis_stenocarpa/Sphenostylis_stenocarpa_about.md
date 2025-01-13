@@ -10,7 +10,9 @@ Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
 
 Taxonomy ID [92480](https://www.uniprot.org/taxonomy/92480)
 
-(Text from [Wikipedia](https://en.wikipedia.org/).)
-
 **More information**
 General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Sphenostylis_stenocarpa)
+
+### References
+
+- Waweru, B. et al. (2024) Chromosome-scale assembly of the African Yam Bean Genome, Nature News. Available at: https://www.nature.com/articles/s41597-024-04210-2.
