@@ -1,4 +1,4 @@
-About *Hordeum vulgare*
+About *Hordeum vulgare *
 -----------------------
 
 *Hordeum vulgare* (barley) is the world\'s fourth most important cereal
