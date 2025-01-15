@@ -7,4 +7,4 @@ The annotation presented is derived from annotation submitted to
 The annotation presented is derived from genes imported from the community GFF3 with the assembly accession GCA_030704535.1.
 
 Small RNA features, protein features, BLAST hits and cross-references have been
-computed by [ensembl-plants](https://plants.ensembl.org/info/genome/annotation/index.html).
+computed by [Ensembl-plants](https://plants.ensembl.org/info/genome/annotation/index.html).
