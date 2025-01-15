@@ -12,4 +12,4 @@ General information about this species can be found in [Wikipedia](https://en.wi
 
 ### References
 
-- Waweru, B. et al. (2024) Chromosome-scale assembly of the African Yam Bean Genome, Nature News. Available at: https://www.nature.com/articles/s41597-024-04210-2.
+- Waweru, B., Njaci, I., Paliwal, R. et al. Chromosome-scale assembly of the African yam bean genome. Sci Data 11, 1384 (2024). https://doi.org/10.1038/s41597-024-04210-2.
