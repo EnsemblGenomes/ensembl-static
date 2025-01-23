@@ -18,7 +18,7 @@
 
 - **Assembly and gene set data updated**
   - _Aedes albopictus_ (Asian tiger mosquito, GCA\_035046485.1)
-  - _Bombus terrestris_ (Buff-tailed bumble-bee) - Compara reference genome (Metazoa & Protostome protein trees) updated to newer GCA\_910591885.2 assembly (The older GCA\_000214255.1 was removed).
+  - _Bombus terrestris_ (Buff-tailed bumble-bee, GCA\_910591885.2)
   - _Haemaphysalis longicornis_ (Longhorned tick, GCA\_013339765.2)
   - _Hyalomma asiaticum_ (Tick, GCA\_013339685.2)
   - _Ixodes persulcatus_ (Taiga tick, GCA\_013358835.2)
@@ -37,9 +37,23 @@
   - _Platynereis dumerilii_ (Dumeril's clam worm, GCA\_026936325.1)
 
 - **Other updates**
-  - _Bombus terrestris_ (Buff-tailed bumble-bee) - the older GCA\_000214255.1 was removed
+  - _Anopheles coluzzi_ (Mosquito) - Older GCA\_000150765.1 genome now removed
+  - _Aedes albopictus_ (Asian tiger mosquito) -  Older GCA\_001444175.1 now removed
+  - _Bombus terrestris_ (Buff-tailed bumble-bee) - Compara reference genome updated to GCA\_910591885.2 (Metazoa & Protostome protein trees), older GCA\_000214255.1 now removed.
+  - _Haemaphysalis longicornis_ (Longhorned tick) -  Older GCA\_013339765.1 now removed
 
-- **Planned updates**
+- **Planned updates:**
+    - Release 62:
+      - Compara _Drosophila_ pangenome:
+        - Existing pangenome species will be updated to latest references where available. 
+        - Replaced older references will be dropped.
+        - Additional species to be added:
+           - _Drosophila montana_
+           - _Drosophila nasuta_
+           - _Drosophila novamexicana_
+           - _Drosophila serrata_
+           - _Drosophila sulfurigaster albostrigata_
+           - _Drosophila tropicalis_
 
 - **Updated BioMarts for all gene and variation data**
 - **Updated pan-taxonomic gene trees and homologies**
