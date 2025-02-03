@@ -76,7 +76,7 @@
     - Hordeum vulgare zdm01467: assembly from NCBI [GCA_949783235.1](http://www.ebi.ac.uk/ena/data/view/GCA_949783235.1) and annotation from [Leibniz Institute of Plant Genetics and Crop Plant Research](https://www.ipk-gatersleben.de/en/).
     - Hordeum vulgare zdm02064: assembly from NCBI [GCA_949783195.1](http://www.ebi.ac.uk/ena/data/view/GCA_949783195.1) and annotation from [Leibniz Institute of Plant Genetics and Crop Plant Research](https://www.ipk-gatersleben.de/en/).
     - Sphenostylis stenocarpa: assembly from NCBI [GCA_963425845.1](http://www.ebi.ac.uk/ena/data/view/GCA_963425845.1) and annotation from [International Livestock Research Institute](https://www.ilri.org/).
-    - Triticum aestivum alchemy from NCBI [GCA_951799155.1](http://www.ebi.ac.uk/ena/data/view/GCA_951799155.1) and annotation from [NIAB](https://www.niab.com/).
-    - Vitis vinifera from NCBI [GCA_030704535.1](http://www.ebi.ac.uk/ena/data/view/GCA_030704535.1) and annotation from from [Agricultural Genomics Institute at Shenzhen](https://agis.caas.cn/en/).
+    - Triticum aestivum alchemy: assembly from NCBI [GCA_951799155.1](http://www.ebi.ac.uk/ena/data/view/GCA_951799155.1) and annotation from [NIAB](https://www.niab.com/).
+    - Vitis vinifera: assembly from NCBI [GCA_030704535.1](http://www.ebi.ac.uk/ena/data/view/GCA_030704535.1) and annotation from from [Agricultural Genomics Institute at Shenzhen](https://agis.caas.cn/en/).
 
 Check which features are supported on each species [here](/species.html); if you would like to request a new species please email [Helpdesk](http://plants.ensembl.org/Help/Contact).
