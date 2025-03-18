@@ -22,5 +22,5 @@ For each gene up to three alignments are displayed, compromising 196,243
 alignments of which 90,686 are protein coding.
 
 Each high confidence coding gene is externally linked to
-[KnetMiner](https://knetminer.rothamsted.ac.uk/KnetMiner) [7] and
+[KnetMiner](https://app.knetminer.com/resources/) [7] and
 [WheatExpression](http://www.wheat-expression.com) [8,9].
