@@ -1,33 +1,9 @@
+
 - Genomes
-        - EnsemblProtists has 241 genomes
+	- EnsemblProtists has 237 genomes in total
 
-- In release 114, the following genomes were updated with data from [VEuPathDB](https://veupathdb.org/veupathdb/app)
-        - [*Acanthamoeba castellanii*](https://protists.ensembl.org/acanthamoeba_castellanii_str_neff_gca_000313135/Info/Index)              (GCA_000313135.1)
-        - [*Aphanomyces astaci_gca000520075*](https://protists.ensembl.org/aphanomyces_astaci_gca_000520075/Info/Index)       (GCA_000520075.1)
-        - [*Aphanomyces invadans_gca000520115*](https://protists.ensembl.org/aphanomyces_invadans_gca_000520115/Info/Index)     (GCA_000520115.1)
-        - [*Babesia bovis*](https://protists.ensembl.org/babesia_bovis_gca_000165395/Info/Index)                         (GCA_000165395.2)
-        - [*Eimeria mitis*](https://protists.ensembl.org/eimeria_mitis_gca_000499745/Info/Index)                         (GCA_000499745.2)
-        - [*Giardia intestinalis gca000002435v2*](https://protists.ensembl.org/giardia_lamblia/Info/Index)   (GCA_000002435.2 Previously known as _Giardia lamblia_)
-        - [*Globisporangium ultimum*](https://protists.ensembl.org/Pythium_ultimum/Info/Index)              (GCA_000143045.1)
-        - [*Plasmodium berghei*](https://protists.ensembl.org/plasmodium_berghei/Info/Index)                    (GCA_900002375.2)
-        - [*Plasmodium falciparum*](https://protists.ensembl.org/plasmodium_falciparum/Info/Index)                 (GCA_000002765.3)
-        - [*Plasmodium knowlesi*](https://protists.ensembl.org/plasmodium_knowlesi/Info/Index)                   (GCA_000006355.3)
-        - [*Plasmodium sp gca900257145*](https://protists.ensembl.org/plasmodium_sp_drc_itaito_gca_900257145/Info/Index)            (GCA_900257145.2)
-        - [*Plasmodium vivax*](https://protists.ensembl.org/plasmodium_vivax/Info/Index)                      (GCA_900093555.2)
-        - [*Plasmodium yoelii*](https://protists.ensembl.org/plasmodium_yoelii_gca_900002385/Info/Index)                     (GCA_900002385.2)
-        - [*Spironucleus salmonicida*](https://protists.ensembl.org/spironucleus_salmonicida_gca_000497125/Info/Index)              (GCA_000497125.2)
-        - [*Theileria orientalis_gca003072535*](https://protists.ensembl.org/theileria_orientalis_gca_003072535/Info/Index)     (GCA_003072535.3)
-        - [*Theileria orientalis_gca003072545*](https://protists.ensembl.org/theileria_orientalis_gca_003072545/Info/Index)     (GCA_003072545.3)
-        - [*Toxoplasma gondii*](https://protists.ensembl.org/toxoplasma_gondii/Info/Index)                     (GCA_000006565.2)
-        - [*Trypanosoma brucei*](https://protists.ensembl.org/trypanosoma_brucei/Info/Index)                    (GCA_000002445.1)
-
-- New genome
-        - [*Globisporangium ultimum var. sporangiiferum BR650*](), is a plant pathogen. It causes damping off and root rot diseases of hundreds of diverse plant hosts including maize, soybean, potato, wheat, fir, and many ornamental species.
-
-- Other data
-        - Updated BioMarts for gene and variation data
-        - Updated pan-taxonomic gene trees and homologies
-        - Updated annotation of molecular interactions involving protist genes
-        - Updated protist gene trees and homologies
-        - Updated protein features for all species using [InterProScan](https://www.ebi.ac.uk/interpro/)
-        - Updated taxonomic classification of various species to reflect the latest changes from [NCBI](https://www.ncbi.nlm.nih.gov/taxonomy)
+- Updated data
+	- Updated annotation of molecular interactions involving protist genes
+	- Updated protein features for all species using [InterProScan](https://www.ebi.ac.uk/interpro/)
+	- Updated BioMarts for gene and variation data
+	- Updated pan-taxonomic gene trees and homologies

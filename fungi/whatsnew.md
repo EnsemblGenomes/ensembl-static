@@ -1,21 +1,8 @@
 - Genomes
-        - EnsemblFungi has 1504 genomes
+    - EnsemblFungi has 1505 genomes in total
 
-- In release 114, the following genomes were updated with data from [VEuPathDB](https://veupathdb.org/veupathdb/app)
-        - [*Aspergillus fischeri*](https://fungi.ensembl.org/Neosartorya_fischeri/Info/Index)   (GCA_000149645.4 Previously known as _Neosartorya fischeri_)
-        - [*Aspergillus flavus*](https://fungi.ensembl.org/aspergillus_flavus/Info/Index)    (GCA_000006275.3)
-        - [*Aspergillus fumigatus*](https://fungi.ensembl.org/aspergillus_fumigatus/Info/Index) (GCA_000002655.1)
-        - [*Aspergillus lentulus*](https://fungi.ensembl.org/aspergillus_lentulus_gca_001445615/Info/Index)  (GCA_001445615.2)
-        - [*Fusarium graminearum*](https://fungi.ensembl.org/fusarium_graminearum/Info/Index)  (GCA_900044135.1)
-        - [*Mucor lusitanicus*](https://fungi.ensembl.org/mucor_lusitanicus_cbs_277_49_gca_001638945/Info/Index)     (GCA_001638945.1)
-        - [*Puccinia triticina*](https://fungi.ensembl.org/puccinia_triticina/Info/Index)    (GCA_000151525.2)
-        - [*Schizophyllum commune*](https://fungi.ensembl.org/schizophyllum_commune_h4_8_gca_000143185/Info/Index) (GCA_000143185.2)
-        - [*Trichoderma reesei*](https://fungi.ensembl.org/trichoderma_reesei/Info/Index)    (GCA_000167675.2)
-
-- Other data
-        - Updated BioMarts for gene and variation data
-        - Updated pan-taxonomic gene trees and homologies
-        - Updated fungal gene trees and homologies
-        - Updated annotation of molecular interactions involving fungal genes
-        - Updated protein features for all species using [InterProScan](https://www.ebi.ac.uk/interpro/)
-        - Updated taxonomic classification of various species to reflect the latest changes from [NCBI](https://www.ncbi.nlm.nih.gov/taxonomy)
+- Updated data 
+    - Updated annotation of molecular interactions involving fungal genes
+    - Updated protein features for all species using [InterProScan](http://www.ebi.ac.uk/interpro/search/sequence-search)
+    - Updated BioMarts for all gene and variation data
+    - Updated pan-taxonomic gene trees and homologies
