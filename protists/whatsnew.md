@@ -1,7 +1,7 @@
 - Genomes
   - EnsemblProtists has 241 genomes
 
-- In release 114, the following genomes were updated with data from [VEuPathDB](https://veupathdb.org/veupathdb/app)
+- In release 61, the following genomes were updated with data from [VEuPathDB](https://veupathdb.org/veupathdb/app)
   - [*Acanthamoeba castellanii*](https://protists.ensembl.org/Acanthamoeba_castellanii) (GCA_000313135.1)
   - [*Aphanomyces astaci*](https://protists.ensembl.org/Aphanomyces_astaci_gca_000520075) (GCA_000520075.1)
   - [*Aphanomyces invadans*](https://protists.ensembl.org/Aphanomyces_invadans_gca_000520115) (GCA_000520115.1)
