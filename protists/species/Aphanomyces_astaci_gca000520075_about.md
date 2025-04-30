@@ -1,9 +1,7 @@
 About *Aphanomyces astaci str. APO3* 
 ------------------------------------
 
-
-
-**Crayfish plague**, ***Aphanomyces astaci***, is a water mold that
+Crayfish plague, *Aphanomyces astaci*, is a water mold that
 infects crayfish, most notably the European *Astacus* which dies within
 a few weeks of being infected. When experimentally tested, species from
 Australia, New Guinea and Japan were also found to be susceptible to the
