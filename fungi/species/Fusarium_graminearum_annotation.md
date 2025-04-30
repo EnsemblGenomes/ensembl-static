@@ -20,10 +20,6 @@ assembly or within the mitochrondrial sequence. The remaining unlocated
 supercontigs have been identified as repeat sequences, with all but one
 matched in part to the repeat sequence at the 3' end of chromosome 4
 (which has not been counted in the estimate of the total genome length).
-In addition to the chromosomal updates, a revised mitochondrial sequence
-has also been produced.
 
-Non coding RNA genes have been annotated using tRNAScan-SE (Lowe, T.M.
-and Eddy, S.R. 1997), RFAM (Griffiths-Jones et al 2005), and RNAmmer
-(Lagesen K.,et al 2007); additional analysis tools have also been
-applied.
+The annotation presented here has been synchronised with the data for this genome in [VEuPathDB](https://veupathdb.org/).
+
