@@ -1,7 +1,3 @@
+### Annotation 
 
-
-Date sources
-------------
-
-The assembly presented is imported from 
-[INSDC](http://www.insdc.org) and the annotation from [VEuPathDB](https://veupathdb.org/).
+The annotation has been imported from [VEuPathDB](https://veupathdb.org/). 
