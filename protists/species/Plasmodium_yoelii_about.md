@@ -1,7 +1,4 @@
 About *Plasmodium yoelii* 
 -------------------------
 
-
-
-([Text](http://en.wikipedia.org/wiki/Plasmodium_yoelii) from
-[Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
+*Plasmodium yoelii* is a rodent parasite commonly used as a model to study malaria infection.
