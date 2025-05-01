@@ -1,8 +1,6 @@
 About *Babesia bovis* 
 ---------------------
 
-
-
 ***Babesia bovis*** is a single-celled protozoan parasite of cattle
 which occasionally infects humans. It is a member of the phylum
 Apicomplexa, which also includes the malaria parasite. The disease it
