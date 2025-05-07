@@ -3,7 +3,7 @@
 The hard clam, also known as the round clam, hard-shell clam, or the 
 quahog, is an edible marine bivalve mollusk that is native to the 
 eastern shores of North America and Central America from Prince Edward 
-Island to the Yucat�n Peninsula. It is one of many unrelated edible 
+Island to the Yucatan Peninsula. It is one of many unrelated edible 
 bivalves that in the United States are frequently referred to simply 
 as clams. Older literature sources may use the systematic name Venus 
 mercenaria; this species is in the family Veneridae, the venus clams.

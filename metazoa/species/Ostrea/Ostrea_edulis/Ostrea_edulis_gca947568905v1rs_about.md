@@ -3,7 +3,7 @@
 *Ostrea edulis*, commonly known as the European flat oyster, is a 
 species of oyster native to Europe. In Great Britain and Ireland, 
 localized names include Colchester native oyster, mud oyster, or 
-edible oyster. In France, Ostrea edulis are known as huîtres plates 
+edible oyster. In France, *Ostrea edulis* are known as huitres plates 
 except for those that come from the Belon River estuary in Brittany, 
 France, which are known as Belons.
 

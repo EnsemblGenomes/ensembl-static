@@ -2,7 +2,7 @@
 -------------------------
 *Sarcoptes scabiei* or the itch mite is a parasitic mite found in all 
 parts of the world that burrows into skin and causes scabies. Humans 
-become infested by Sarcoptes scabiei var. hominis; other mammals can 
+become infested by *Sarcoptes scabiei* var. hominis; other mammals can 
 be infested with different varieties of the mite. They include wild 
 and domesticated dogs and cats, ungulates, wild boars, bovids, 
 wombats, koalas, and great apes.

@@ -6,7 +6,7 @@ flat worms. Being acoelomates, and having no specialised circulatory
 and respiratory organs, they are restricted to having flattened shapes 
 that allow oxygen and nutrients to pass through their bodies by 
 diffusion. The digestive cavity has only one opening for both 
-ingestion and egestion ; as a result, the food can not be processed 
+ingestion and egestion; as a result, the food can not be processed 
 continuously.
 
 
