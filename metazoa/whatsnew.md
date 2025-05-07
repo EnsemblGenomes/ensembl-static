@@ -1,59 +1,75 @@
 - **Updated gene sets**
-  - _Drosophila melanogaster_ (Fruit fly,  GCA\_000001215.4) - New annotation (Flybase Release 6.54) of assembly GCA\_000001215.4 
-  - _Anopheles albimanus_ (Mosquito, GCA\_000349125.2)
-  - _Anopheles gambiae_ (African malaria mosquito, GCA\_000005575.1)
-  - _Anopheles quadriannulatus_ (Mosquito, GCA\_000349065.1) (previously existing geneset preseved under the original name)
-  - _Glossina morsitans morsitans_ (Tsetse fly, GCA\_001077435.1)
-  - _Rhodnius prolixus_ (Kissing bug, GCA\_000181055.3)
-  - _Schistosoma haematobium_ (Flatworms, GCA\_000699445.3)
-
-- **New assembly for existing species**
-  - _Anopheles albimanus_ (Mosquitos, GCA\_013758885.1)
-  - _Anopheles coluzzii_ (Mosquito, GCA\_004136515.2)
-  - _Anopheles darlingi_ (American malaria mosquito, GCA\_943734745.1)
-  - _Anopheles gambiae_ (African malaria mosquito, GCA\_943734735.2)
-  - _Biomphalaria glabrata_ (Bloodfluke planorb, GCA\_947242115.1)
-  - _Bombyx mori_ (Silk Moth, GCA\_030269925.2)
-  - _Magallana gigas_ (Bivalves, GCA\_963853765.1) (former _Crassostrea gigas_) - New RefSeq annotation was added for GCA\_902806645.1
-
-- **Assembly and gene set data updated**
-  - _Aedes albopictus_ (Asian tiger mosquito, GCA\_035046485.1)
-  - _Bombus terrestris_ (Buff-tailed bumble-bee, GCA\_910591885.2)
-  - _Haemaphysalis longicornis_ (Longhorned tick, GCA\_013339765.2)
-  - _Hyalomma asiaticum_ (Tick, GCA\_013339685.2)
-  - _Ixodes persulcatus_ (Taiga tick, GCA\_013358835.2)
-
+  - _Stylophora pistillata_ (Hood coral, GCA\_002571385.2)
+- **Dropped**
+  - _Galleria mellonella_ (GCA_003640425.2)
+- **Assembly updated**
+  - _Eufriesea mexicana_ (Mexican orchid bee, GCA\_001483705.1 -> GCA\_001483705.2)
+  - _Myopa tessellatipennis_ (Flies, GCA\_943737955.1 -> GCA\_943737955.2)
 - **New species**
-  - _Argiope bruennichi_ (Spiders, GCA\_947563725.1)
-  - _Chrysoperla carnea_ (Insects, GCA\_905475395.1)
-  - _Culicoides brevitarsis_ (Flies, GCA\_036172545.2)
-  - _Cydia pomonella_ (The codling moth, GCA\_033807575.1)
-  - _Eurytemora carolleeae_ (Crustaceans, GCA\_000591075.2)
-  - _Gordionus sp. m RMFG-2023_ (Horsehair worms, GCA\_954871325.2)
-  - _Halichondria panicea_ (Sponges, GCA\_963675165.1)
-  - _Ischnura elegans_ (Damselflies, GCA\_921293095.1)
-  - _Liolophura japonica_ (Chitons, GCA\_032854445.2)
-  - _Macrobrachium nipponense_ (Crustaceans, GCA\_015104395.2)
-  - _Platynereis dumerilii_ (Dumeril's clam worm, GCA\_026936325.1)
-
-- **Other updates**
-  - _Anopheles coluzzi_ (Mosquito) - Older GCA\_000150765.1 genome now removed
-  - _Aedes albopictus_ (Asian tiger mosquito) -  Older GCA\_001444175.1 now removed
-  - _Bombus terrestris_ (Buff-tailed bumble-bee) - Compara reference genome updated to GCA\_910591885.2 (Metazoa & Protostome protein trees), older GCA\_000214255.1 now removed
-  - _Haemaphysalis longicornis_ (Longhorned tick) -  Older GCA\_013339765.1 now removed
-
-- **Planned updates:**
-    - Release 62:
-      - Compara _Drosophilidae_ pangenome:
-        - Existing pangenome species will be updated to latest references where available
-        - Replaced older references will be dropped
-        - Additional species to be added:
-           - _Drosophila montana_ (GCA\_035044405.1)
-           - _Drosophila nasuta_ (GCA\_023558535.2)
-           - _Drosophila novamexicana_ (GCA\_003285875.3)
-           - _Drosophila serrata_ (GCA\_002093755.2)
-           - _Drosophila sulfurigaster albostrigata_ (GCA\_023558435.2)
-           - _Drosophila tropicalis_ (GCA\_018151085.1)
-
+  - _Amblyomma americanum_ (Lone Star tick, GCA\_030143305.2)
+  - _Bactrocera oleae_ (Olive fruit fly, GCA\_001188975.4)
+  - _Bradysia coprophila_ (Black fungus gnats, GCA\_014529535.1)
+  - _Contarinia nasturtii_ (Swede midge, GCA\_009176525.2)
+  - _Drosophila montana_ (Pomace flies, GCA\_035044405.1)
+  - _Drosophila nasuta_ (Pomace flies, GCA\_023558535.2)
+  - _Drosophila novamexicana_ (Pomace flies, GCA\_003285875.3)
+  - _Drosophila serrata_ (Pomace flies, GCA\_002093755.2)
+  - _Drosophila sulfurigaster albostrigata_ (Flies, GCA\_023558435.2)
+  - _Drosophila tropicalis_ (Pomace flies, GCA\_018151085.1)
+  - _Lucilia sericata_ (Common green bottle fly, GCA\_015586225.1)
+  - _Ornithodoros turicata_ (Softbacked ticks, GCA\_037126465.1)
+  - _Photinus pyralis_ (Common eastern firefly, GCA\_008802855.1)
+  - _Schmidtea mediterranea_ (Freshwater planarian, GCA\_045838255.1)
+  - _Schmidtea mediterranea_ (Freshwater planarian, GCA\_045838265.1)
+  - _Schmidtea nova_ (Freshwater planarian, GCA\_044892505.1)
+  - _Schmidtea polychroa_ (Freshwater planarian, GCA\_044892525.1)
+  - _Steinernema hermaphroditum_ (Nematode, GCA\_030435675.2)
+  - _Tenebrio molitor_ (Darkling ground beetles, GCA\_907166875.3)
+  - _Vespa mandarinia_ (Asian giant hornet, GCA\_014083535.1)
+- **New assembly for existing species**
+  - _Amyelois transitella_ (Moths, GCA\_032362555.1)
+  - _Bactrocera dorsalis_ (Oriental fruit fly, GCA\_023373825.1)
+  - _Bicyclus anynana_ (Squinting bush brown, GCA\_947172395.1)
+  - _Branchiostoma lanceolatum_ (Amphioxus, GCA\_035083965.1)
+  - _Caenorhabditis remanei_ (Nematode, GCA\_010183535.1)
+  - _Danaus plexippus_ (monarch butterfly, GCA\_018135715.1)
+  - _Dendroctonus ponderosae_ (Mountain pine beetle, GCA\_020466585.2)
+  - _Drosophila bipectinata_ (Pomace flies, GCA\_030179905.2)
+  - _Drosophila elegans_ (Pomace flies, GCA\_018152505.1)
+  - _Drosophila kikkawai_ (Pomace flies, GCA\_030179895.2)
+  - _Drosophila suzukii_ (Pomace flies, GCA\_037355615.1)
+  - _Drosophila takahashii_ (Pomace flies, GCA\_030179915.2)
+  - _Drosophila virilis_ (Pomace flies, GCA\_030788295.1)
+  - _Helicoverpa armigera_ (Cotton bollworm, GCA\_030705265.1)
+  - _Hydra vulgaris_ (Swiftwater hydra, GCA\_038396675.1)
+  - _Linepithema humile_ (Argentine ant, GCA\_040581485.1)
+  - _Lytechinus pictus_ (Painted urchin, GCA\_037042905.1)
+  - _Mercenaria mercenaria_ (Northern quahog, GCA\_021730395.1)
+  - _Musca domestica_ (House fly, GCA\_030504385.2)
+  - _Necator americanus_ (New World hookworm, GCA\_031761385.1)
+  - _Nematostella vectensis_ (Starlet sea anemone, GCA\_932526225.1)
+  - _Ostrea edulis_ (Mud oyster, GCA\_947568905.1)
+  - _Sarcoptes scabiei_ (Itch mite, GCA\_020844145.1)
+  - _Stomoxys calcitrans_ (Stable fly, GCA\_963082655.1)
+  - _Tribolium castaneum_ (Red flour beetle, GCA\_031307605.1)
+- **Variation updated**
+  - _Anopheles gambiae_ (GCA_000005575.1) - Fixes known bug reported in Release 61
+- **Compara reference updates**
+  - _Amyelois transitella_ - Updated to GCA_032362555.1, replaces GCA_001186105.1
+  - _Bactrocera dorsalis_ - Updated to GCA_023373825.1, replaces GCA_000789215.2
+  - _Bicyclus anynana_ - Updated to GCA_947172395.1, replaces GCA_900239965.1
+  - _Dendroctonus ponderosae_ - Updated to GCA_020466585.2, replaces GCA_000355655.1
+  - _Drosophila bipectinata_ - Updated to GCA_030179905.2, replaces GCA_000236285.2
+  - _Drosophila elegans_ - Updated to GCA_018152505.1, replaces GCA_000224195.2
+  - _Drosophila kikkawai_ - Updated to GCA_030179895.2, replaces GCA_018152535.1
+  - _Drosophila suzukii_ - Updated to GCA_037355615.1, replaces GCA_013340165.1
+  - _Drosophila takahashii_ - Updated to GCA_030179915.2, replaces GCA_018152695.1
+  - _Drosophila virilis_ - Updated to GCA_030788295.1, replaces GCA_003285735.2
+  - _Helicoverpa armigera_ - Updated to GCA_030705265.1, replaces GCA_023701775.1
+  - _Linepithema humile_ - Updated to GCA_040581485.1, replaces GCA_000217595.1
+  - _Musca domestica_ - Updated to GCA_030504385.2, replaces GCA_000371365.1
+  - _Stomoxys calcitrans_ - Updated to GCA_963082655.1, replaces GCA_001015335.1
+  - _Tribolium castaneum_ - Updated to GCA_031307605.1, replaces GCA_000002335.3
+- **Planned updates**
 - **Updated BioMarts for all gene and variation data**
 - **Updated pan-taxonomic gene trees and homologies**
