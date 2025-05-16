@@ -1,11 +1,12 @@
-About *Komagataella pastoris*
------------------------------
+**About *Komagataella pastoris***
+-------------------------
+!!!!!! PLACEHOLDER SUMMARY. MANUAL EDIT REQUIRED HERE !!!!!!
 
-*Komagataella pastoris* (formerly *Pichia pastoris*) is a methylotrophic
-yeast that has been used as a model organism. *K. pastoris* has been
-widely used as an expression system of proteins due to its high growth
-rate, low cost of growth media and can be grown in much higher cell
-densities.
+Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
 
-Photo credits: Prof. Dr. Nico Callewaert (VIB Department for Molecular
-Biomedical Research, UGent)
+Taxonomy ID [644223](https://www.uniprot.org/taxonomy/644223)
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/komagataella_pastoris)

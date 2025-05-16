@@ -1,17 +1,23 @@
-About the *Sclerotinia sclerotiorum* genome
--------------------------------------------
+**About *Sclerotinia sclerotiorum 1980 UF-70***
+-------------------------
+Sclerotinia sclerotiorum is a plant pathogenic fungus and can cause a 
+disease called white mold if conditions are conducive. S. sclerotiorum 
+can also be known as cottony rot, watery soft rot, stem rot, drop, 
+crown rot and blossom blight. A key characteristic of this pathogen is 
+its ability to produce black resting structures known as sclerotia and 
+white fuzzy growths of mycelium on the plant it infects. These 
+sclerotia give rise to a fruiting body in the spring that produces 
+spores in a sac which is why fungi in this class are called sac fungi 
+(Ascomycota). This pathogen can occur on many continents and has a 
+wide host range of plants. When S. sclerotiorum is onset in the field 
+by favorable environmental conditions, losses can be great and control 
+measures should be considered.
 
-*Sclerotinia sclerotiorum* is the causal agent of a disease known as
-white mold. This Ascomycete can infect a wide range of plants in any
-stage of growth and is widespread in all continents. Some of the hosts
-are cabbage, common bean, citrus, celery, coriander, melon, squash,
-soybean, tomato, lettuce, and cucumber. This fungus proliferates under
-moist conditions which means that crops more susceptible to this
-pathogen should be planted in well-drained soils.
 
-The genome of the strain 1980 (ATCC18683) of *Sclerotinia sclerotiorum*
-was submitted to DDBJ/EMBL/GenBank in 2005 consisting of an 8X
-whole-genome assembly which encodes about 10,175 protein-coding genes.
+Picture credit: [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Sclerotinia_sclerotiorum.jpg)
+Taxonomy ID [665079](https://www.uniprot.org/taxonomy/665079)
 
-Picture credit:
-[Rasbak](http://en.wikipedia.org/wiki/File:Sclerotinia_sclerotiorum_at_Phaseolus_vulgaris,_scleroti%C3%ABnrot_stamsperzieboon.jpg "Sclerotinia sclerotiorum at Phaseolus vulgaris bushbean")
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Sclerotinia_sclerotiorum)

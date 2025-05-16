@@ -1,10 +1,16 @@
-About the *Neurospora\_crassa* genome
--------------------------------------
+**About *Neurospora crassa***
+-------------------------
+*Neurospora crassa* is a type of red bread mold of the phylum 
+Ascomycota. The genus name, meaning 'nerve spore' in Greek, refers to 
+the characteristic striations on the spores. The first published 
+account of this fungus was from an infestation of French bakeries in 
+1843.
 
-*Neurospora crassa* is a red bread mold of the phylum *Ascomycota* which
-is widely used in genetics as a model organism. The *Neurospora* genome,
-published in 2003, is approximately 40 Mb in size, and encodes about
-10,000 protein-coding genes. The Genome analysis has revealed that
-Neurospora possesses a wide variety of epigenetics mechanisms and
-related genome defence mechanisms, including a process unique to fungi
-called Repeat-Induced Point mutation (RIP).
+
+Picture credit: [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Neurospora_crassahyphae.jpg)
+Taxonomy ID [367110](https://www.uniprot.org/taxonomy/367110)
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Neurospora_crassa)

@@ -1,11 +1,19 @@
-About the *Yarrowia lipolytica* genome
---------------------------------------
+**About *Yarrowia lipolytica CLIB122***
+-------------------------
+Yarrowia is a fungal genus in the family Dipodascaceae. For a while 
+the genus was monotypic, containing the single species Yarrowia 
+lipolytica, a yeast that can use unusual carbon sources, such as 
+hydrocarbons. This has made it of interest for use in industrial 
+microbiology, especially for the production of specialty lipids. 
+Molecular phylogenetics analysis has revealed several other species 
+that have since been added to the genus.
 
-[*Yarrowia lipolytica*](http://genolevures.org/yali.htm) is a yeast
-belonging to the *Ascomycota* which can be found in a range of natural
-environments from foodstuffs to oil fields.
-[*Yarrowia*](http://en.wikipedia.org/wiki/Yarrowia) can use a wide
-variety of carbon sources, and hence has a variety of industrial
-applications.
 
-Picture credit: Dr. Andreas Aurich/UFZ
+Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
+
+Taxonomy ID [284591](https://www.uniprot.org/taxonomy/284591)
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Yarrowia)

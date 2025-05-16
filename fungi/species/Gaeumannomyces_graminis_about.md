@@ -1,16 +1,12 @@
-[]{#about}
+**About *Gaeumannomyces tritici R3-111a-1***
+-------------------------
+!!!!!! PLACEHOLDER SUMMARY. MANUAL EDIT REQUIRED HERE !!!!!!
 
-About the *Gaeumannomyces graminis* genome
-------------------------------------------
+Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
 
-The take-all fungus, *Gaeumannomyces graminis* (ascomycota), is a major
-root-rot pathogen of cereals and grasses. All varieties of wheat and
-barley are susceptible. It is an important disease in winter wheat
-particularly, and is favoured by conditions of intensive production and
-monoculture. It survives in the soil on infected residues of one crop,
-then invades the roots of the following crop, progressively destroying
-the root system. In exceptional cases it can kill the whole crop; hence
-the name \"take-all\".
+Taxonomy ID [644352](https://www.uniprot.org/taxonomy/644352)
 
-Picture credit: Richard Gutteridge - [Rothamsted
-Research](http://www.rothamsted.ac.uk)
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/gaeumannomyces_tritici_r3-111a-1)

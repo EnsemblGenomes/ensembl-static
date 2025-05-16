@@ -1,10 +1,13 @@
+**About *Phanerochaete chrysosporium***
+-------------------------
+Phanerochaete is a genus of crust fungi in the family 
+Phanerochaetaceae.
 
-About *Phanerochaete chrysosporium (GCA\_000167175.1)* 
---------------------------------------------------------------
 
-***Phanerochaete chrysosporium*** RP-78 is the model white rot fungus 
-because of its specialized ability to degrade the abundant aromatic 
-polymer lignin, while leaving the white cellulose nearly untouched. 
-The annotation for this has been imported from [FungiDB](https://fungidb.org/fungidb/app/record/dataset/NCBITAXON_273507)
-through the [VEuPathDB project] (https://veupathdb.org/veupathdb/app).
+Picture credit: [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Phanerochaete.velutina2.-.lindsey.jpg)
+Taxonomy ID [273507](https://www.uniprot.org/taxonomy/273507)
 
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Phanerochaete)
