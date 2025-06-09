@@ -1,9 +1,18 @@
 - New genomes
-    - [Sphenostylis stenocarpa](/Sphenostylis_stenocarpa): assembly from NCBI [GCA_963425845.1](http://www.ebi.ac.uk/ena/data/view/GCA_963425845.1) and annotation from [International Livestock Research Institute](https://www.ilri.org/).
-    - [Triticum aestivum Alchemy](/Triticum_aestivum_Alchemy): assembly from NCBI [GCA_951799155.1](http://www.ebi.ac.uk/ena/data/view/GCA_951799155.1) and annotation from [NIAB](https://www.niab.com/).
-    - Barley pangenome (75 cultivars) added [here](https://plants.ensembl.org/Hordeum_vulgare/Info/Cultivars?db=core).
-    
-- Updated genomes
-    - [Vitis vinifera](/Vitis_vinifera): assembly from NCBI [GCA_030704535.1](http://www.ebi.ac.uk/ena/data/view/GCA_030704535.1) and annotation from [Agricultural Genomics Institute at Shenzhen](https://agis.caas.cn/en/).
 
-Check which features are supported on each species [here](https://plants.ensembl.org/species.html); if you would like to request a new species please email [Helpdesk](http://plants.ensembl.org/Help/Contact).
+- [Avena atlantica](/Avena atlantica) : assembly from [INSDC](http://www.insdc.org) and is linked to the assembly accession [GCA_910589765.1](https://www.ebi.ac.uk/ena/browser/view/GCA_910589765.1/) and annotation from [Leibniz Institute of Plant Genetics and Crop Plant Research](https://www.ipk-gatersleben.de/en/).
+    
+- [Avena eriantha](/Avena eriantha) : assembly from [INSDC](http://www.insdc.org) and is linked to the assembly accession [GCA_910589775.1](https://www.ebi.ac.uk/ena/browser/view/GCA_910589775.1/) and annotation from [Leibniz Institute of Plant Genetics and Crop Plant Research](https://www.ipk-gatersleben.de/en/).
+
+- [Avena insularis](/Avena insularis) : assembly from [INSDC](http://www.insdc.org) and is linked to the assembly accession [GCA_910574615.1](https://www.ebi.ac.uk/ena/browser/view/GCA_910574615.1/) and annotation from [Leibniz Institute of Plant Genetics and Crop Plant Research](https://www.ipk-gatersleben.de/en/).
+
+- [Avena longiglumis](/Avena longiglumis) : assembly from [INSDC](http://www.insdc.org) and is linked to the assembly accession [GCA_910589755.1](https://www.ebi.ac.uk/ena/browser/view/GCA_910589755.1/) and annotation from [Leibniz Institute of Plant Genetics and Crop Plant Research](https://www.ipk-gatersleben.de/en/).
+
+- [Lablab purpureus](/Lablab purpureus) : assembly from [INSDC](http://www.insdc.org) and is linked to the assembly accession [GCA_030347555.1](https://www.ebi.ac.uk/ena/browser/view/GCA_030347555.1/) and annotation from [John Innes Centre](https://www.jic.ac.uk/).
+
+- [Pisum sativum JI2822](/Pisum sativum JI2822) : assembly from [INSDC](http://www.insdc.org) and is linked to the assembly accession [GCA_964186695.1](https://www.ebi.ac.uk/ena/browser/view/GCA_964186695.1/) and annotation from [John Innes Centre](https://www.jic.ac.uk/).
+
+- [Pisum sativum Zhongwan6](/Pisum sativum Zhongwan6) : assembly from [INSDC](http://www.insdc.org) and is linked to the assembly accession [GCA_024323335.2](https://www.ebi.ac.uk/ena/browser/view/GCA_024323335.2/) and annotation from [ Institute of Microbiology, Chinese Academy of Sciences](https://english.im.cas.cn).
+
+
+Check which features are supported on each species [here](/species.html); if you would like to request a new species please email [Helpdesk](http://plants.ensembl.org/Help/Contact).
