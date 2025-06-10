@@ -1,4 +1,4 @@
-**About *Hordeum vulgare 10tj18***
+**About *Hordeum vulgare Goldenmelon***
 -------------------------
 Taxonomy ID [4513](https://www.uniprot.org/taxonomy/4513)
 
