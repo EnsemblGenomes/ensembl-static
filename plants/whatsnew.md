@@ -15,4 +15,4 @@
 - [Pisum sativum Zhongwan6](/Pisum sativum Zhongwan6) : assembly from [INSDC](http://www.insdc.org) and is linked to the assembly accession [GCA_024323335.2](https://www.ebi.ac.uk/ena/browser/view/GCA_024323335.2/) and annotation from [ Institute of Microbiology, Chinese Academy of Sciences](https://english.im.cas.cn).
 
 
-Check which features are supported on each species [here](/species.html); if you would like to request a new species please email [Helpdesk](http://plants.ensembl.org/Help/Contact).
+Check which features are supported on each species [here](https://plants.ensembl.org/species.html); if you would like to request a new species please email [Helpdesk](http://plants.ensembl.org/Help/Contact).
