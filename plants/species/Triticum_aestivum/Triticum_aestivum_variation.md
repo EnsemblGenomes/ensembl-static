@@ -3,6 +3,9 @@
 **Watkins Collection**
 ~90 million variants were loaded from the the Watkins Landrace Wheat Collection which is a diverse assortment of heritage wheat varieties from the 1930s, preserved for its unique genetic potential in modern breeding [15]
 
+**Triticum aestivum Next Generation (TaNG)**
+39,632 variants were loaded from the TaNG array derived from 204 elite wheat lines and 111 wheat landraces from the Watkins 'Core Collection' [16]
+
 **Exome Capture Watkins**
 4,493,110 markers were loaded from 103 accessions of the Watkins landrace collection [13]
 

@@ -3,7 +3,7 @@
 Variation data from six different large scale studies are available:
 
 1.  ~ 62 million variants were loaded from the [3000 Rice Genome
-    Project](http://iric.irri.org/resources/3000-genomes-project)
+    Project](https://iric.irri.org/projects/3000-rice-genomes-project)
     ([2015](http://europepmc.org/abstract/MED/24872877)), an
     international effort to sequence the genomes of 3,024 rice varieties
     from 89 countries.
