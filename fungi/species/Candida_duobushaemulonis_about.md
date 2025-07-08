@@ -1,13 +1,12 @@
+**About *Candida duobushaemulonis***
+-------------------------
+!!!!!! PLACEHOLDER SUMMARY. MANUAL EDIT REQUIRED HERE !!!!!!
 
-About *Candida duobushaemulonis strain B09383 (GCA\_002926085.1)* 
------------------------------------------------------------------
+Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
 
-***Candida duobushaemulonii*** has been classified as part of the 
-C. haemulonii complex that also comprises C. haemulonii and 
-C. haemulonii var. vulnera. The yeast has been linked to deep cutaneous 
-infections, vulvovaginal candidiasis, and candidemia. C. duobushaemulonii 
-is often resistant to amphotericin B and fluconazole. 
-The annotation for this has been imported from [FungiDB](https://fungidb.org/fungidb/app/record/dataset/TMPTX_cduoB09383)
-through the [VEuPathDB project] (https://veupathdb.org/veupathdb/app).
+Taxonomy ID [1231522](https://www.uniprot.org/taxonomy/1231522)
 
+(Text from [Wikipedia](https://en.wikipedia.org/).)
 
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/candida_duobushaemulonis)

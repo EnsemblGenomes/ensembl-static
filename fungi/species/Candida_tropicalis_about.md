@@ -1,9 +1,16 @@
+**About *Candida tropicalis***
+-------------------------
+*Candida tropicalis* is a species of yeast in the genus Candida. It is 
+a common pathogen in neutropenic hosts, in whom it may spread through 
+the bloodstream to peripheral organs. For invasive disease, treatments 
+include amphotericin B, echinocandins, or extended-spectrum triazole 
+antifungals.
 
-About *Candida tropicalis (GCA\_000006335.3)* 
---------------------------------------------------------------
 
-***Candida tropicalis*** is a species of yeast in the genus Candida. 
-It is a common pathogen in neutropenic hosts, in whom it may spread 
-through the bloodstream to peripheral organs. 
-The annotation for this has been imported from [FungiDB](https://fungidb.org/fungidb/app/record/dataset/NCBITAXON_294747)
-through the [VEuPathDB project] (https://veupathdb.org/veupathdb/app).
+Picture credit: [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:C_tropicalis_YC466.png)
+Taxonomy ID [294747](https://www.uniprot.org/taxonomy/294747)
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Candida_tropicalis)

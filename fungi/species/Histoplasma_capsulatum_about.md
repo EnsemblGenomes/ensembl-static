@@ -1,8 +1,14 @@
+**About *Histoplasma capsulatum***
+-------------------------
+*Histoplasma capsulatum* is a species of dimorphic fungus. Its sexual 
+form is called Ajellomyces capsulatus. It can cause pulmonary and 
+disseminated histoplasmosis.
 
-About *Histoplasma capsulatum (GCA\_000170615.1)* 
---------------------------------------------------------------
 
-***Histoplasma capsulatum G217b*** is a species of dimorphic fungus. 
-It can cause pulmonary and disseminated histoplasmosis.
-The annotation for this has been imported from [FungiDB](https://fungidb.org/fungidb/app/record/dataset/NCBITAXON_447094)
-through the [VEuPathDB project] (https://veupathdb.org/veupathdb/app).
+Picture credit: [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Histopathology_of_histoplasma%2C_HE_stain.png)
+Taxonomy ID [2902605](https://www.uniprot.org/taxonomy/2902605)
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Histoplasma_capsulatum)
