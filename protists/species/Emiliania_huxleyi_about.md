@@ -1,8 +1,7 @@
 **About *Emiliania huxleyi CCMP1516***
 -------------------------
-!!!!!! PLACEHOLDER SUMMARY. MANUAL EDIT REQUIRED HERE !!!!!!
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
+Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/Gephyrocapsa_huxleyi#/media/File:Emiliania_huxleyi.jpg)
 
 Taxonomy ID [280463](https://www.uniprot.org/taxonomy/280463)
 

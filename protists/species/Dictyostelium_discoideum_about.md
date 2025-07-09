@@ -2,7 +2,7 @@
 -------------------------
 !!!!!! PLACEHOLDER SUMMARY. MANUAL EDIT REQUIRED HERE !!!!!!
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
+Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/Dictyostelium_discoideum#/media/File:Dictyostelium_Fruiting_Bodies.JPG)
 
 Taxonomy ID [352472](https://www.uniprot.org/taxonomy/352472)
 

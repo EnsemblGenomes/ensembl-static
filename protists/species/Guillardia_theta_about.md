@@ -1,8 +1,6 @@
 **About *Guillardia theta CCMP2712***
 -------------------------
-!!!!!! PLACEHOLDER SUMMARY. MANUAL EDIT REQUIRED HERE !!!!!!
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
 
 Taxonomy ID [905079](https://www.uniprot.org/taxonomy/905079)
 

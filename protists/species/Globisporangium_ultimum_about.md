@@ -1,8 +1,6 @@
 **About *Globisporangium ultimum DAOM BR144***
 -------------------------
-!!!!!! PLACEHOLDER SUMMARY. MANUAL EDIT REQUIRED HERE !!!!!!
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
 
 Taxonomy ID [431595](https://www.uniprot.org/taxonomy/431595)
 

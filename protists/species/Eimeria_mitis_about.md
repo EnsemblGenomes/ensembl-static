@@ -1,8 +1,5 @@
 **About *Eimeria mitis***
 -------------------------
-!!!!!! PLACEHOLDER SUMMARY. MANUAL EDIT REQUIRED HERE !!!!!!
-
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
 
 Taxonomy ID [44415](https://www.uniprot.org/taxonomy/44415)
 

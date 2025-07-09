@@ -1,12 +1,12 @@
 **About *Plasmodium sp. DRC-Itaito***
 -------------------------
-!!!!!! PLACEHOLDER SUMMARY. MANUAL EDIT REQUIRED HERE !!!!!!
+Plasmodium billcollinsi is a species of the genus Plasmodium subgenus Laverania.
+It is a parasitic protozoan found in chimpanzees in Central Africa. The parasite is named in honour of the malariologist William E. Collins.
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
 
 Taxonomy ID [720590](https://www.uniprot.org/taxonomy/720590)
 
 (Text from [Wikipedia](https://en.wikipedia.org/).)
 
 **More information**
-General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/plasmodium_sp._drc-itaito)
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Plasmodium_billcollinsi)
