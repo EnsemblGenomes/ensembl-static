@@ -5,8 +5,6 @@ And is widely distribute in soil, grain and canned food world wide. In
 the other hand Aspergillus fischeri is a BSL-1 plant pathogen.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
-
 Taxonomy ID [331117](https://www.uniprot.org/taxonomy/331117)
 
 (Text from [Wikipedia](https://en.wikipedia.org/).)

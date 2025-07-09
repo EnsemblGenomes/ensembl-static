@@ -9,5 +9,5 @@ prevalent in the Ohio and Mississippi river valleys. It was discovered
 by Samuel Taylor Darling in 1906.
 
 ([Text](https://en.wikipedia.org/wiki/Histoplasma_) and
-[image](https://commons.wikimedia.org/wiki/File:Histoplasma_pas-d.jpg)
+[image](https://en.wikipedia.org/wiki/Histoplasma_capsulatum#/media/File:Histoplasma_pas-d.jpg)
 from [Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
