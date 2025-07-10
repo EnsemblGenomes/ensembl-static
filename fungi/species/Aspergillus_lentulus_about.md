@@ -2,8 +2,8 @@
 -------------------------
 *Aspergillus lentulus* is a species of Aspergillus fungus. It is a 
 close relative of Aspergillus fumigatus. It has smaller conidial heads 
-with diminutive vesicles compared to A.�fumigatus, and cannot survive 
-at 48��C (118��F). It also has decreased in vitro susceptibilities to 
+with diminutive vesicles compared to A.fumigatus, and cannot survive 
+at 48°C (118°F). It also has decreased in vitro susceptibilities to 
 multiple antifungals, including amphotericin B, itraconazole, 
 voriconazole, and caspofungin. Aspergillus lentulus is an 
 opportunistic human pathogen that causes invasive aspergillosis with 
