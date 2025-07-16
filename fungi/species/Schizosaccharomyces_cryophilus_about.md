@@ -1,12 +1,10 @@
 **About *Schizosaccharomyces cryophilus OY26***
 -------------------------
-!!!!!! PLACEHOLDER SUMMARY. MANUAL EDIT REQUIRED HERE !!!!!!
+Schizosaccharomyces cryophilus is an ascomycetae closely related to the model organism S. pombe. The name is derived from its tolerance of colder temperatures.
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
 
 Taxonomy ID [653667](https://www.uniprot.org/taxonomy/653667)
 
-(Text from [Wikipedia](https://en.wikipedia.org/).)
 
 **More information**
-General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/schizosaccharomyces_cryophilus_oy26)
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Schizosaccharomyces)

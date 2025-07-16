@@ -1,8 +1,6 @@
 About *Spironucleus salmonicida* 
 --------------------------------
 
-
-
 ***Spironucleus salmonicida*** is a species of fish parasite. It is a
 flagellate adapted to micro-aerobic environments that causes systemic
 infections in salmonid fish. The species creates foul-smelling,

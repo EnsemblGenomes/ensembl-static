@@ -1,12 +1,9 @@
-**About *[Candida] pseudohaemulonii***
--------------------------
-!!!!!! PLACEHOLDER SUMMARY. MANUAL EDIT REQUIRED HERE !!!!!!
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
+About *[Candida] pseudohaemulonii (GCA\_003013735.1)* 
+--------------------------------------------------------------
 
-Taxonomy ID [418784](https://www.uniprot.org/taxonomy/418784)
-
-(Text from [Wikipedia](https://en.wikipedia.org/).)
-
-**More information**
-General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/candida_pseudohaemulonii)
+***Candida pseudohaemulonii strain B12108*** was isolated from blood of a 
+Venezuelan patient. The strain was demonstrated to have elevated MICs 
+of amphotericin B and fluconazole.
+The annotation for this has been imported from [FungiDB](https://fungidb.org/fungidb/app/record/dataset/TMPTX_cpseB12108)
+through the [VEuPathDB project] (https://veupathdb.org/veupathdb/app).
