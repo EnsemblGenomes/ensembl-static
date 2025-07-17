@@ -13,7 +13,6 @@ characteristics. One of the only differences between the two species
 is that F. pseudograminearum lacks its sexual stage on the wheat host.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
 
 Taxonomy ID [1028729](https://www.uniprot.org/taxonomy/1028729)
 

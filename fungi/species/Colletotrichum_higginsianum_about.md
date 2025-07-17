@@ -6,7 +6,6 @@ Arabidopsis thaliana and many cultivated forms of Brassica and
 Raphanus.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
 
 Taxonomy ID [80884](https://www.uniprot.org/taxonomy/80884)
 

@@ -9,7 +9,6 @@ Molecular phylogenetics analysis has revealed several other species
 that have since been added to the genus.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
 
 Taxonomy ID [284591](https://www.uniprot.org/taxonomy/284591)
 

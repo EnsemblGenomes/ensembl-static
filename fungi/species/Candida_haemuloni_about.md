@@ -6,7 +6,6 @@ settings. Infections are difficult to treat because the fungus has resistance to
 agents. Since its emergence, little research has been conducted on this fungus. However, in 
 recent years, research has been conducted to help identify the various properties of *C. haemulonii*.
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
 
 Taxonomy ID [45357](https://www.uniprot.org/taxonomy/45357)
 

@@ -10,7 +10,6 @@ although small signs can appear at any time but are not noticeable
 because the turfgrass can recover quickly.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
 
 Taxonomy ID [644358](https://www.uniprot.org/taxonomy/644358)
 

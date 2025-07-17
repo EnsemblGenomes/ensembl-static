@@ -13,7 +13,6 @@ fungicide, and crop resistance are all used to manage blackleg. The
 fungus is an important pathogen of Brassica napus (canola) crops.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
 
 Taxonomy ID [985895](https://www.uniprot.org/taxonomy/985895)
 

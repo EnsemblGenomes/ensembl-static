@@ -19,7 +19,6 @@ and fluconazole are often used in the treatment of C. parapsilosis
 infection.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
 
 Taxonomy ID [5480](https://www.uniprot.org/taxonomy/5480)
 

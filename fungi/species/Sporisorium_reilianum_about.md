@@ -6,7 +6,6 @@ biotrophic fungus in the family Ustilaginaceae. It is a plant pathogen
 that infects maize and sorghum.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
 
 Taxonomy ID [999809](https://www.uniprot.org/taxonomy/999809)
 

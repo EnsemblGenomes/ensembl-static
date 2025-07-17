@@ -6,7 +6,6 @@ agricultural crops such as barley. Toxins include aspergillomarasmine
 A and related compounds.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
 
 Taxonomy ID [861557](https://www.uniprot.org/taxonomy/861557)
 

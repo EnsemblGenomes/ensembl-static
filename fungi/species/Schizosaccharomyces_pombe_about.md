@@ -10,7 +10,7 @@ base pairs, is estimated to contain 4,970 protein-coding genes and at
 least 450 non-coding RNAs.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Fission_yeast.jpg/320px-Fission_yeast.jpg)
+Picture credit: [(Image source)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Fission_yeast.jpg/320px-Fission_yeast.jpg)
 
 Taxonomy ID [4896](https://www.uniprot.org/taxonomy/4896)
 

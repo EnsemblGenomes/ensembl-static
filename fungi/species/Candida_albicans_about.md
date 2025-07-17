@@ -22,7 +22,7 @@ the true extent of damage this organism causes, given studies
 indicating that C. albicans can cross the blood–brain barrier in mice.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:SEM_of_C_albicans.tif)
+Picture credit: [(Image source)](https://commons.wikimedia.org/wiki/File:SEM_of_C_albicans.tif)
 Taxonomy ID [237561](https://www.uniprot.org/taxonomy/237561)
 (Text from [Wikipedia](https://en.wikipedia.org/).)
 

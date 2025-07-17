@@ -7,7 +7,6 @@ Australia. Crop infections can cause losses of up to 40%, and the
 fungus will infect both winter wheat and spring wheat.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
 
 Taxonomy ID [875184](https://www.uniprot.org/taxonomy/875184)
 
