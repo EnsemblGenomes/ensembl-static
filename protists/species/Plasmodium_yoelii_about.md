@@ -5,7 +5,6 @@ Vinckeia. As in all Plasmodium species, P. yoelii has both vertebrate
 and insect hosts. The vertebrate hosts for this parasite are mammals.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
 
 Taxonomy ID [5861](https://www.uniprot.org/taxonomy/5861)
 

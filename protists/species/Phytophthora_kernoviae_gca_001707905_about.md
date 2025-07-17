@@ -14,4 +14,4 @@ recorded in New Zealand in 1950, was caused by *P. kernoviae*.
 
 ([Text](http://en.wikipedia.org/wiki/Phytophthora_kernoviae) from
 [Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/Phytophthora_kernoviae#/media/File:Phytophthora_kernoviae_-_Beech_tree_infection_cropped.jpg)
+Picture credit: [(Image source)](https://en.wikipedia.org/wiki/Phytophthora_kernoviae#/media/File:Phytophthora_kernoviae_-_Beech_tree_infection_cropped.jpg)

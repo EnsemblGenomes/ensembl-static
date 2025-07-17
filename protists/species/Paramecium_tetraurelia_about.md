@@ -1,7 +1,7 @@
 **About *Paramecium tetraurelia***
 -------------------------
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/Paramecium#/media/File:Paramecium.jpg)
+Picture credit: [(Image source)](https://en.wikipedia.org/wiki/Paramecium#/media/File:Paramecium.jpg)
 
 Taxonomy ID [5888](https://www.uniprot.org/taxonomy/5888)
 

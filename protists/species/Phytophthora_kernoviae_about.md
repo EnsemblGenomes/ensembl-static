@@ -10,7 +10,7 @@ Molecular analysis has revealed that an infection on *Pinus radiata*,
 recorded in New Zealand in 1950, was caused by *P. kernoviae*.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/Phytophthora_kernoviae#/media/File:Phytophthora_kernoviae_-_Beech_tree_infection_cropped.jpg)
+Picture credit: [(Image source)](https://en.wikipedia.org/wiki/Phytophthora_kernoviae#/media/File:Phytophthora_kernoviae_-_Beech_tree_infection_cropped.jpg)
 
 Taxonomy ID [1284355](https://www.uniprot.org/taxonomy/1284355)
 

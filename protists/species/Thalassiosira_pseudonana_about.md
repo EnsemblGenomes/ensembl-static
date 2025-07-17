@@ -4,7 +4,7 @@ Thalassiosira pseudonana is a species of marine centric Bulka diatoms. It was ch
 
 Taxonomy ID [296543](https://www.uniprot.org/taxonomy/296543)
 (Text from [Wikipedia](https://en.wikipedia.org/).)
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/Thalassiosira_pseudonana#/media/File:Oogonium_--_3_(34809275943).jpg)
+Picture credit: [(Image source)](https://en.wikipedia.org/wiki/Thalassiosira_pseudonana#/media/File:Oogonium_--_3_(34809275943).jpg)
 
 **More information**
 General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Thalassiosira_pseudonana)

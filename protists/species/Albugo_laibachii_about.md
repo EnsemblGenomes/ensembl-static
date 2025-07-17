@@ -7,7 +7,6 @@ susceptible to other parasites, when it normally would be more
 resistant, wearing down the host plant's immune system.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
 
 Taxonomy ID [](https://www.uniprot.org/taxonomy/)
 

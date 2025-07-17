@@ -13,7 +13,6 @@ conditions are favourable. Oospores may also be spread by animals or
 machinery.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
 
 Taxonomy ID [67593](https://www.uniprot.org/taxonomy/67593)
 

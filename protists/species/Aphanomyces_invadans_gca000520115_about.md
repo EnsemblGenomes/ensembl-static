@@ -5,7 +5,6 @@ disease, or epizootic ulcerative syndrome (EUS), in many species of
 fish.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)]()
 
 Taxonomy ID [157072](https://www.uniprot.org/taxonomy/157072)
 
