@@ -16,4 +16,4 @@ Taxonomy ID [1284355](https://www.uniprot.org/taxonomy/1284355)
 
 
 **More information**
-General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/phytophthora_kernoviae_00238/432)
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Phytophthora_kernoviae)
