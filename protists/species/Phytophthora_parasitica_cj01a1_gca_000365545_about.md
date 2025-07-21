@@ -1,9 +1,7 @@
 About *Phytophthora parasitica CJ01A1* 
 --------------------------------------
 
-1.  REDIRECT Phytophthora nicotianae
-
-***Phytophthora nicotianae*** or **Black Shank** is an oomycete
+***Phytophthora nicotianae***, ***Phytophthora parasitica*** or **Black Shank** is an oomycete
 belonging to the order Peronosprales and family Peronosporaceae.
 
 

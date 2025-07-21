@@ -5,7 +5,7 @@ flagellate adapted to micro-aerobic environments that causes systemic
 infections in salmonid fish. The species creates foul-smelling, 
 pus-filled abscesses in muscles and internal organs of aquarium fish. 
 In the late 1980s when the disease was first reported, it was believed 
-to be caused by Spironucleus barkhanus. Anders J�rgensen was the 
+to be caused by Spironucleus barkhanus. Anders Jorgensen was the 
 person that found out what species really caused the disease.
 
 
