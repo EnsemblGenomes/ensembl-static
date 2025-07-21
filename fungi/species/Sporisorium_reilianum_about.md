@@ -1,9 +1,15 @@
-About *Sporisorium reilianum* 
------------------------------
+**About *Sporisorium reilianum SRZ2***
+-------------------------
+Sporisorium reilianum Langdon & Full., (1978), previously known as 
+Sphacelotheca reiliana, and Sporisorium reilianum, is a species of 
+biotrophic fungus in the family Ustilaginaceae. It is a plant pathogen 
+that infects maize and sorghum.
 
-*Sporisorium reilianum* is the causal agent of maize head smut. This
-disease, that starts the infection process by invading the roots during
-the early seedling stage, is responsible for important crop losses.
 
-[Picture credit: Dr. Amadej
-Trnkoczy](http://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0710+2106)
+
+Taxonomy ID [999809](https://www.uniprot.org/taxonomy/999809)
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Sporisorium_reilianum)

@@ -1,20 +1,24 @@
-About the *Magnaporthe oryzae* genome
--------------------------------------
+**About *Magnaporthe oryzae 70-15***
+-------------------------
+Magnaporthe grisea, also known as rice blast fungus, rice rotten neck, 
+rice seedling blight, blast of rice, oval leaf spot of graminea, 
+pitting disease, ryegrass blast, Johnson spot, neck blast, wheat blast 
+and Imochi (稲熱), is a plant-pathogenic fungus and model organism that 
+causes a serious disease affecting rice. It is now known that M. 
+grisea consists of a cryptic species complex containing at least two 
+biological species that have clear genetic differences and do not 
+interbreed. Complex members isolated from Digitaria have been more 
+narrowly defined as M. grisea. The remaining members of the complex 
+isolated from rice and a variety of other hosts have been renamed 
+Magnaporthe oryzae, within the same M. grisea complex. Confusion on 
+which of these two names to use for the rice blast pathogen remains, 
+as both are now used by different authors.
 
-*Magnaporthe oryzae* (anamorph: *Pyricularia grisea*) also known as rice
-blast fungus is an important plant pathogen isolated from rice and a
-variety of other rice field weeds. It affects all growth stages of the
-plant with severe damage during the seedling stage. This fungi generates
-spores that can easily be dispersed by wind and splashing rain. The
-spores can spend the Winter in rice grains and rice stubble and can
-infect new crops the following year. Infection is more likely over long
-periods of rain or high humidity. There are known strains of rice
-resistant to this disease that may be helpful for it control.
-*Magnaporthe oryzae* is the most important rice pathogen worldwide known
-to occur in 85 countries. Every year, the losses in crops due to rice
-blast could feed 60 million people. The *Magnaporthe oryzae* genome was
-release as part of the *Magnaporthe* comparative database, it as size of
-41.03 Mb and encodes about 12,593 protein-coding genes.
 
-Picture credit: [Donald
-Groth](http://en.wikipedia.org/wiki/File:Rice_blast_spores.jpg)
+Picture credit: [Creative Commons Attribution 2.5](https://creativecommons.org/licenses/by/2.5) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Magnaporthe_grisea.jpg)
+Taxonomy ID [242507](https://www.uniprot.org/taxonomy/242507)
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Magnaporthe_grisea)

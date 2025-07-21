@@ -1,16 +1,10 @@
-[]{#about}
+**About *Gaeumannomyces tritici R3-111a-1***
+-------------------------
+Take-all is a plant disease affecting the roots of grass and cereal plants in temperate climates caused by the fungus Gaeumannomyces tritici (previously known as Gaeumannomyces graminis var. tritici). All varieties of wheat and barley are susceptible. It is an important disease in winter wheat in Western Europe particularly, and is favoured by conditions of intensive production and monoculture.
 
-About the *Gaeumannomyces graminis* genome
-------------------------------------------
+Taxonomy ID [644352](https://www.uniprot.org/taxonomy/644352)
 
-The take-all fungus, *Gaeumannomyces graminis* (ascomycota), is a major
-root-rot pathogen of cereals and grasses. All varieties of wheat and
-barley are susceptible. It is an important disease in winter wheat
-particularly, and is favoured by conditions of intensive production and
-monoculture. It survives in the soil on infected residues of one crop,
-then invades the roots of the following crop, progressively destroying
-the root system. In exceptional cases it can kill the whole crop; hence
-the name \"take-all\".
+(Text from [Wikipedia](https://en.wikipedia.org/).)
 
-Picture credit: Richard Gutteridge - [Rothamsted
-Research](http://www.rothamsted.ac.uk)
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Take-all)

@@ -1,20 +1,15 @@
-About the *Fusarium oxysporum f.sp. lycopersici* genome
--------------------------------------------------------
+**About *Fusarium oxysporum f. sp. lycopersici***
+-------------------------
+Fusarium oxysporum, an ascomycete fungus, comprises all the species, 
+varieties and forms recognized by Wollenweber and Reinking within an 
+infrageneric grouping called section Elegans. It is part of the family 
+Nectriaceae.
 
-*Fusarium oxysporum* comprises a group of soil inhabitants that can
-exist as saprophytes in the soil debris but also as pervasive plant
-endophytes colonizing the plant roots. Many strains of these species are
-pathogenic to plant crops. One of these strains, *Fusarium oxysporum
-f.sp. lycopersici*, is the causal agent of fusarium wilt in tomatoes.
-The first symptoms of the plant are yellowing and weakness in one side
-of the plant and progress with wilting of the leaves and browning of the
-vascular system leading eventually to leaf death and inhability to
-produce fruits.
 
-The genome sequence, assembly and protein coding genes annotation of the
-*Fusarium oxysporum f.sp. lycopersici* (4287) genome have been generated
-by the [Broad Institute](http://www.broadinstitute.org) as part of their
-work on the [*Fusarium* Comparative Sequencing
-Project](http://www.broadinstitute.org/annotation/genome/fusarium_group/MultiHome.html).
-The genome has been sequenced to a coverage of 6x and has a total
-estimated size of 59.9 Mb represented in 114 scaffolds.
+Picture credit: [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:K7725-1-sm.jpg)
+Taxonomy ID [660025](https://www.uniprot.org/taxonomy/660025)
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Fusarium_oxysporum)

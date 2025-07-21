@@ -1,8 +1,15 @@
-About *Pyrenophora teres* 
+**About *Pyrenophora teres f. teres 0-1***
 -------------------------
+Pyrenophora teres is a necrotrophic fungal pathogen of some plant 
+species, the most significant of which are economically important 
+agricultural crops such as barley. Toxins include aspergillomarasmine 
+A and related compounds.
 
-*Pyrenophora teres* is the major cause of \'net blotch\' of barley. It
-exists in two forms, *P. teres f. teres* and *P. teres f. maculata*
-which causes net form net blotch and spot form net blotch respectively.
-This assembly corresponds to the *P. teres. f teres* form of the plant
-pathogen, the one subjected to most studies so far.
+
+
+Taxonomy ID [861557](https://www.uniprot.org/taxonomy/861557)
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Pyrenophora_teres)

@@ -1,0 +1,10 @@
+**About *Globisporangium ultimum DAOM BR144***
+-------------------------
+
+
+Taxonomy ID [431595](https://www.uniprot.org/taxonomy/431595)
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Pythium_ultimum)

@@ -1,12 +1,22 @@
+**About *Candida glabrata***
+-------------------------
+Nakaseomyces glabratus is a species of haploid yeast of the genus 
+Nakaseomyces, previously known as *Candida glabrata*. Despite the fact 
+that no sexual life cycle has been documented for this species, N. 
+glabratus strains of both mating types are commonly found. N. glabrata 
+is generally a commensal of human mucosal tissues, but in today's era 
+of wider human immunodeficiency from various causes, N. glabratus is 
+often the second or third most common cause of candidiasis as an 
+opportunistic pathogen. Infections caused by N. glabratus can affect 
+the urogenital tract or even cause systemic infections by entrance of 
+the fungal cells in the bloodstream (Candidemia), especially prevalent 
+in immunocompromised patients.
 
-About *Candida glabrata CBS138 (GCA\_000002545.2)* 
---------------------------------------------------------------
 
-***Candida glabrata*** is the second most frequent causative agent 
-of human candidiasis, after Candida albicans. C. glabrata is a 
-human commensal yeast in healthy individuals but with widespread 
-use of immunosuppressive therapy and broad-spectrum antimycotic 
-treatments it has been increasingly identified as the causal agent of candidiases. 
-The annotation for this has been imported from [FungiDB](https://fungidb.org/fungidb/app/record/dataset/NCBITAXON_284593)
-through the [VEuPathDB project] (https://veupathdb.org/veupathdb/app).
+Picture credit: [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Glabrata.jpg)
+Taxonomy ID [5478](https://www.uniprot.org/taxonomy/5478)
 
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Nakaseomyces_glabratus)

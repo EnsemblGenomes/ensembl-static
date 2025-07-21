@@ -1,47 +1,18 @@
-About the *Fusarium verticillioides* genome
--------------------------------------------
+**About *Fusarium verticillioides 7600***
+-------------------------
+Fusarium verticillioides is the most commonly reported fungal species 
+infecting maize. Fusarium verticillioides is the accepted name of the 
+species, which was also known as Fusarium moniliforme. The species has 
+also been described as mating population A of the Fusarium fujikuroi 
+species complex. F. verticllioides produces the mutagenic chemical 
+compound fusarin C. F. verticillioides produces a group of 
+disease-causing mycotoxins—fumonisins—on infected kernels.
 
-*Fusarium verticillioides* is a fungal plant pathogen. It causes a
-disease in rice called [bakanae](http://en.wikipedia.org/wiki/Bakanae),
-which is Japanese and means "foolish seedlings". The afflicted plants
-are at best infertile with empty panicles, producing no edible grains;
-at worst, they are incapable of supporting their own weight, topple
-over, and die (hence "foolish
-seedling").
 
-The earliest known report of bakanae is from 1828. Bakanae affects rice
-crops in Asia, Africa, and North America; in 2003, the International
-Rice Research Institute estimated bakanae-related crop losses at between
-20% and 50%.
+Picture credit: [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Fusarium_verticillioides_01.jpg)
+Taxonomy ID [334819](https://www.uniprot.org/taxonomy/334819)
 
-*Fusarium verticillioides* is the causal agent of kernel and ear rot of
-maize. This destructive disease occurs virtually everywhere that maize
-is grown worldwide. In years with high temperatures, drought, and heavy
-insect damage, the disease can significantly diminish crop quality.
+(Text from [Wikipedia](https://en.wikipedia.org/).)
 
-The most significant economic impact of *Fusarium verticillioides* is
-its ability to produce fumonisin mycotoxins. Various diseases caused by
-fumonisins have been reported in animals, such as liver and kidney
-cancer. In 2003, fumonisin B1, the fumonisin produced most abundantly by
-*Gibberella moniliformis*, was added to
-the California Proposition 65 List of Substances Known to Cause
-Cancer.
-
-*Fusarium verticillioides* is also known as *Gibberella moniliformis,* a
-name by which it was previously known in Ensembl Fungi, and is also
-known under many other names. The genus Fusarium collectively represents the most
-important group of fungal plant pathogens, causing various diseases on
-nearly every economically important plant species. Of equal concern is
-the health hazard posed to humans and livestock by the plethora of
-Fusarium mycotoxins. Besides their economic importance, species of
-Fusarium also serve as key model organisms for biological and
-evolutionary research.
-
-In humans with normal immune systems, fusarial infections may occur in
-the nails and in the eye. In humans whose immune systems are weakened in
-a particular way, aggressive fusarial infections penetrating the entire
-body and bloodstream may be caused by members of the Fusarium solani
-complex, Fusarium oxysporum, Fusarium verticillioides, Fusarium
-proliferatum and, rarely, other fusarial species.
-
-Picture credit: CDC/Dr. Libero Ajello (PHIL \#4011), 1978
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Fusarium_verticillioides)

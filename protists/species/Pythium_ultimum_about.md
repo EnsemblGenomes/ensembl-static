@@ -1,15 +1,11 @@
-About the *Pythium ultimum* genome
-----------------------------------
+**About *Pythium ultimum***
+-------------------------
+Pythium ultimum is a plant pathogen. It causes damping off and root rot diseases of hundreds of diverse plant hosts including maize, soybean, potato, wheat, fir, and many ornamental species. P. ultimum belongs to the peronosporalean lineage of oomycetes, along with other important plant pathogens such as Phytophthora spp. and many genera of downy mildews. P. ultimum is a frequent inhabitant of fields, freshwater ponds, and decomposing vegetation in most areas of the world. Contributing to the widespread distribution and persistence of P. ultimum is its ability to grow saprotrophically in soil and plant residue. This trait is also exhibited by most Pythium spp. but not by the related Phytophthora spp., which can only colonize living plant hosts.
 
-*Pythium ultimum* is a ubiquitous oomycete plant pathogen responsible
-for a variety of diseases on a broad range of crop and ornamental
-species. Analysis of the *Pythium ultimum* genome sequence suggests that
-not all oomycete plant pathogens contain a similar 'toolkit' for
-survival and pathogenesis. *Pythium ultimum* has a distinct effector
-repertoire compared to Phytophthora spp. The repertoire of metabolic
-genes within the *Pythium ultimum* genome reflects its pathogenic
-lifestyle. It is an opportunistic pathogen of young seedlings and plant
-roots with little or no cuticle or heavily suberized tissue, consistent
-with lack of cutinase encoding genes. It is a poor competitor against
-secondary invaders of damaged plant tissues and soil organisms with
-better saprobic ability.
+
+Taxonomy ID [431595](https://www.uniprot.org/taxonomy/431595)
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Pythium_ultimum)

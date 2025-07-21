@@ -1,14 +1,11 @@
-About the *Pythium arrhenomanes* Genome
----------------------------------------
+**About *Pythium arrhenomanes ATCC 12531***
+-------------------------
+Pythium arrhenomanes is a plant pathogen.
 
-*Pythium arrhenomanes* is the causal agent of root rot on many Poaceae
-crops. *P. arrhenomanes* is an important seedling rice pathogen. It is
-isolated frequently from corn (*Zea mays*) roots in corn-soybean
-(*Glycine max*) rotation plots and in irrigated plots of continuous
-corn.
 
-It belongs to the group oomycetes which was originally classified among
-the fungi, due to its morphological and functional similarities. They
-are now classifed as protists based on modern insights on phylogentic
-relationship with photosynthetic organisms such as brown algae and
-diatoms.
+
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Pythium_arrhenomanes)
