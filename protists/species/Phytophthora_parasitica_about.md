@@ -1,6 +1,6 @@
 **About *Phytophthora parasitica P1569***
 -------------------------
-Phytophthora nicotianae or black shank is an oomycete belonging to the order Peronosporales and family Peronosporaceae.
+***Phytophthora nicotianae***, ***Phytophthora parasitica*** or **Black Shank** is an oomycete belonging to the order Peronosprales and family Peronosporaceae.
 
 
 Taxonomy ID [1317065](https://www.uniprot.org/taxonomy/1317065)
