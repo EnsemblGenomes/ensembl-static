@@ -32,7 +32,7 @@ individual.
 
 For the alternative haplotype see https://metazoa.ensembl.org/Schmidtea_mediterranea_gca045838265.1cm.
 
-Picture credit: Miquel Vila-Farré, Dept. of Tissue Dynamics and Regeneration, Max Planck Institute for Multidisciplinary Sciences
+Picture credit ([Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/)): Miquel Vila-Farré, Dept. of Tissue Dynamics and Regeneration, Max Planck Institute for Multidisciplinary Sciences
 
 Taxonomy ID [79327](https://www.uniprot.org/taxonomy/79327)
 

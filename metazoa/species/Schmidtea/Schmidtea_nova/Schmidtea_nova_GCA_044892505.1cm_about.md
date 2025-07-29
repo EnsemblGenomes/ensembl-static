@@ -16,9 +16,9 @@ species Schmidtea lugubris. Interestingly, S. nova appears to induce a developme
 in embryos of the frog species Rana temporaria, which it preys upon [5].
 
 The S. nova strain (internal ID: GOE00023) was collected at 51,0717710 and 13,7421400 in
-Dresden, Germany, on 2013-04-14
+Dresden, Germany, on 2013-04-14.
 
-Picture credit: Miquel Vila-Farré, Dept. of Tissue Dynamics and Regeneration, Max Planck Institute for Multidisciplinary Sciences
+Picture credit ([Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/)): Miquel Vila-Farré, Dept. of Tissue Dynamics and Regeneration, Max Planck Institute for Multidisciplinary Sciences
 
 Taxonomy ID [163373](https://www.uniprot.org/taxonomy/163373)
 

@@ -28,7 +28,7 @@ Europe [7]. The species is not fissiparous.
 The S. polychroa strain (internal ID: GOE00227) was collected at 43.71249; 16.72605 near the
 Village of Gala, Croatia.
 
-Picture credit: Miquel Vila-Farré, Dept. of Tissue Dynamics and Regeneration, Max Planck Institute for Multidisciplinary Sciences
+Picture credit ([Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/)): Miquel Vila-Farré, Dept. of Tissue Dynamics and Regeneration, Max Planck Institute for Multidisciplinary Sciences
 
 Taxonomy ID [50054](https://www.uniprot.org/taxonomy/50054)
 
