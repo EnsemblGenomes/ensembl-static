@@ -1,4 +1,4 @@
-**References**
+### References
 
 1. Baguñà J, Saló E, Auladell C. 1989. [Regeneration and pattern formation in planarians: III. Evidence that neoblasts are totipotent stem cells and the source of blastema cells](https://journals.biologists.com/dev/article/107/1/77/36410/Regeneration-and-pattern-formation-in-planarians). Development 1 September 1989; 107 (1): 77–86. doi: https://doi.org/10.1242/dev.107.1.77.
 

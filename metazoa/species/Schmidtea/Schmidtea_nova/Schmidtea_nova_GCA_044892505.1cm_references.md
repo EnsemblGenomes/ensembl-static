@@ -1,4 +1,5 @@
-**References**
+### References
+
 1. Grohme M. A., S. Schloissnig, A. Rozanski, M. Pippel, G. R. Young, S. Winkler, H. Brandl, I. Henry, A. Dahl, S. Powell, M.
 Hiller, E. Myers, and J. C. Rink. 2018. [The genome of Schmidtea mediterranea and the evolution of core cellular
 mechanisms](https://europepmc.org/article/MED/29364871). Nature 554:56–61.
