@@ -1,7 +1,7 @@
 **Annotation**
 ----------
 
-Genomic annotation was produced by ["Max Planck Institute for Multidisciplinary Sciences"](https://www.mpinat.mpg.de/rink).
+Genomic annotation was provided by ["Max Planck Institute for Multidisciplinary Sciences"](https://www.mpinat.mpg.de/rink).
 
 The genome was annotated using a hybrid genome-guided transcriptome approach. As input
 RNAseq data, we combined Nanopore direct RNA-seq of pooled whole animals at various
