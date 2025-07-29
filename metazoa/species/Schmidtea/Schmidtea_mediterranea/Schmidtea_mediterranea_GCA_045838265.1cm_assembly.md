@@ -14,7 +14,7 @@ scaffolding errors were manually curated based on the interaction frequency indi
 intensity of Hi-C signals.
 
 The assembly was produced by ["Max Planck Institute for Multidisciplinary Sciences"](https://www.mpinat.mpg.de/rink)
-and reported in [7].
+and reported in [8].
 
 The total length of the assembly is 840173815 bp contained within 662 scaffolds.
 The scaffold N50 value is 270168396, the scaffold L50 value is 2.
