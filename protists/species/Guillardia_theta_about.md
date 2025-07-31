@@ -1,8 +1,10 @@
-About *Guillardia theta*
-------------------------
+**About *Guillardia theta CCMP2712***
+-------------------------
 
-*Guillardia theta* is a cryptomonad alga, it is an example of a
-cell-within-a-cell, being composed of a flagellate host cell, complete
-with mitochondria and nucleus, surrounding a plastid lying within a
-reduced cytoplasmic compartment that contains a vestigial nucleus (or
-nucleomorph). Nucleomorphs are the highly reduced nuclei of 'endosymbiotic' algal cells.
+
+Taxonomy ID [905079](https://www.uniprot.org/taxonomy/905079)
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Guillardia)

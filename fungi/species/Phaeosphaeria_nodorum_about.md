@@ -1,27 +1,15 @@
-About the *Phaeosphaeria nodorum* genome
-----------------------------------------
+**About *Phaeosphaeria nodorum SN15***
+-------------------------
+Phaeosphaeria nodorum is a major fungal pathogen of wheat, causing the 
+disease Septoria nodorum blotch. It is a member of the 
+Dothideomycetes, a large fungal taxon that includes many important 
+plant pathogens affecting all major crop plant families.
 
-*Phaeosphaeria nodorum* is a major fungal pathogen of wheat (*Triticum
-aestivum*) and a member of the Dothideomycetes, a large fungal taxon
-that includes many important plant pathogens affecting all major crop
-plant families.
 
-The Dothideomycetes is a newly recognised major class of filamentous
-fungi that replaces the long-recognized loculoascomycetes. It includes
-the causal organisms of many economically important plant diseases.
+Picture credit: [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Stagonospora-nodorum-wheat.jpg)
+Taxonomy ID [321614](https://www.uniprot.org/taxonomy/321614)
 
-The infection occurs in repeated cycles of both asexual and sexual
-infection throughout the growing season. New rounds of infection are
-initiated by rain-splash or wind dispersal of spores. Infection begins
-when spores land on leaf tissue. The spores rapidly germinate to produce
-long, branching threadlike structures, called hyphae. The hyphae invade
-the leaf, using specialised branches to gain entry to the outermost
-layer of cells on the leaves. They can also grow directly through pores
-in the leaves. The hyphae rapidly colonize the leaves and begin to
-produce asexual fruiting bodies.
+(Text from [Wikipedia](https://en.wikipedia.org/).)
 
-*Phaeosphaeria nodorum* is an experimentally tractable organism, which
-is easily handled in defined media. It was one of the first fungal
-pathogens to be genetically manipulated. *Phaeosphaeria nodorum* has
-been a model for fungicide development and emerged as a model for
-dothideomycete pathology.
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Phaeosphaeria_nodorum)

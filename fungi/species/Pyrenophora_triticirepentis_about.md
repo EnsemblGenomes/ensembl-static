@@ -1,19 +1,19 @@
-About *Pyrenophora tritici-repentis*
-------------------------------------
+**About *Pyrenophora tritici-repentis Pt-1C-BFP***
+-------------------------
+Pyrenophora tritici-repentis (teleomorph) and Drechslera 
+tritici-repentis (anamorph) is a necrotrophic plant pathogen of fungal 
+origin, phylum Ascomycota. The pathogen causes a disease originally 
+named yellow spot but now commonly called tan spot, yellow leaf spot, 
+yellow leaf blotch or helminthosporiosis. At least eight races of the 
+pathogen are known to occur based on their virulence on a wheat 
+differential set.
 
-*Pyrenophora triciti-repentis* is the causal agent of \'tan spot\', a
-major disease in most of common wheat varieties. It can be identified by
-looking at the leaves for dark oval shaped necrotic tissue with a yellow
-border.
 
--   Birren B., Lander E., Galagan J., Nusbaum C., Devon K., Ma L.-J.,
-    Jaffe D., Butler J., Alvarez P., Gnerre S., Grabherr M., Kleber M.,
-    Mauceli E., Brockman W., MacCallum I.A., Young S., LaButti K.,
-    DeCaprio D., Crawford M., Koehrsen M., Engels R., Montgomery P.,
-    Pearson M., Howarth C., Larson L., White J., Yandava C., Kodira C.,
-    Zeng Q., O\'Leary S., Alvarado L., Ciuffetti L., Pandelova I., Broad
-    Institute of Harvard and MIT.
+Picture credit: [Creative Commons Attribution 3.0 us](https://creativecommons.org/licenses/by/3.0/us/deed.en) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Drechslera_tritici-repentis_(01).jpg)
+Taxonomy ID [426418](https://www.uniprot.org/taxonomy/426418)
 
-Picture credits: [ACNFP](http://acnfp.curtin.edu.au)(Australian Centre
-for Necrotrophic Fungal Pathogens), Curtin University, Western
-Australia. Taken by Kasia Clarke and Caroline Moffat.
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Pyrenophora_tritici-repentis)
+

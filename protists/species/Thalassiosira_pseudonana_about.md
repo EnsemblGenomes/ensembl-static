@@ -1,10 +1,10 @@
-About the *Thalassiosira pseudonana* genome
--------------------------------------------
+**About *Thalassiosira pseudonana CCMP1335***
+-------------------------
+Thalassiosira pseudonana is a species of marine centric Bulka diatoms. It was chosen as the first eukaryotic marine phytoplankton for whole genome sequencing. T. pseudonana was selected for this study because it is a model for diatom physiology studies, belongs to a genus widely distributed throughout the world's oceans, and has a relatively small genome at 34 mega base pairs. Scientists are researching on diatom light absorption, using the marine diatom of Thalassiosira. The diatom requires a high enough concentration of CO2 in order to utilize C4 metabolism (Clement et al. 2015).
 
-*Thalassiosira pseudonana*is a centric diatom that belongs to the
-diverse algal group, likely arose from a common secondary endosymbiotic
-event, involving at least five different genomes. Diatoms are involved
-in various biogeochemical cycles most notably involving carbon, nitrogen
-and silicon, and contribute 30% to 40% of marine primary productivity.
-Consequently, they are responsible for approximately one fifth of the
-oxygen that is generated each year through global photosynthesis.
+Taxonomy ID [296543](https://www.uniprot.org/taxonomy/296543)
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+Picture credit: [(Image source)](https://en.wikipedia.org/wiki/Thalassiosira_pseudonana#/media/File:Oogonium_--_3_(34809275943).jpg)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Thalassiosira_pseudonana)
