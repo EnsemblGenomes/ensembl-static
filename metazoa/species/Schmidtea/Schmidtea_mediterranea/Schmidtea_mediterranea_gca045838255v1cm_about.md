@@ -30,7 +30,8 @@ in Sardinia that was extensively inbred over 16 generations to a total of 18 inb
 generations total, including 2 rounds of regeneration-induced self-fertilization of the same
 individual.
 
-For the alternative haplotype see https://metazoa.ensembl.org/Schmidtea_mediterranea_GCA_045838265.1cm.
+For the alternative haplotype see
+[schMedS3h1](https://metazoa.ensembl.org/Schmidtea_mediterranea_GCA_045838265.1cm/Info/Index).
 
 Picture credit ([Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/)): Miquel Vila-Farré, Dept. of Tissue Dynamics and Regeneration, Max Planck Institute for Multidisciplinary Sciences
 
