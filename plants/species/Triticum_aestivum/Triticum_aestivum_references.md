@@ -69,3 +69,5 @@
 
 15. [Harnessing landrace diversity empowers wheat breeding](https://www.nature.com/articles/s41586-024-07682-9#data-availability).\
 	Cheng, S., Feng, C., Wingen, L.U. et al. 2024. Nature 632, 823–831.
+16. [Development of a next generation SNP genotyping array for wheat](https://doi.org/10.1111/pbi.14341).\
+	Burridge, A.J., Winfield, M., Przewieslik-Allen, A., Edwards, K.J., Siddique, I., Barral-Arca, R., Griffiths, S., Cheng, S., Huang, Z., Feng, C., Dreisigacker, S., Bentley, A.R., Brown-Guedira, G. and Barker, G.L. 2024. Plant Biotechnol. J, 22: 2235-2247. 

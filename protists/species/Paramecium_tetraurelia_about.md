@@ -1,8 +1,11 @@
-About *Paramecium tetraurelia* 
-------------------------------
+**About *Paramecium tetraurelia***
+-------------------------
 
-*Paramecium tetraurelia* is a unicellular ciliate, which is a model
-organism for the study of many biological processes. The *Paramecium*
-genome has diploid micronuclei and highly polyploid macronuclei (exact
-number unknown), is approximately 87Mbp in size, and has gone through at
-least three successive whole genome duplications.
+Picture credit: [(Image source)](https://en.wikipedia.org/wiki/Paramecium#/media/File:Paramecium.jpg)
+
+Taxonomy ID [5888](https://www.uniprot.org/taxonomy/5888)
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Paramecium)

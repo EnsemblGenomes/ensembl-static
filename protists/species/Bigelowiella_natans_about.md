@@ -1,10 +1,13 @@
-About the *Bigelowiella natans* genome
---------------------------------------
+**About *Bigelowiella natans CCMP2755***
+-------------------------
+Bigelowiella natans is a species of Chlorarachniophyte alga that is a model organism for the Rhizaria.
 
-*Bigelowiella natans* belongs to the eukaryotic \'supergroup\' Rhizaria
-and it is a chlorarachniophyte alga. The chlorarachniophyte alga still
-possess the nucleomorph, nucleus from the endosymbiotic event in a
-highly reduced and simplified form. Proteins that function in the
-plastid of Bigelowiella natans are encoded in 3 separate genomes: the
-nucleus, the nucleomorph, and the plastid itself. The *B.natans* genome
-help in better understanding of the secondary endosymbiotic event.
+Chlorarachniophyte are unicellular marine algae with plastids of secondary endosymbiotic origin. Bigelowiella natans are a key resource for studying the supergroup of mostly unicellular eukaryotes.
+
+
+Taxonomy ID [753081](https://www.uniprot.org/taxonomy/753081)
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Bigelowiella_natans)

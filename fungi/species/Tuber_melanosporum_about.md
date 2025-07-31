@@ -1,18 +1,15 @@
-About *Tuber melansoporum* 
---------------------------
+**About *Tuber melanosporum Mel28***
+-------------------------
+Tuber melanosporum, called the black truffle, P�rigord truffle or 
+French black truffle, is a species of truffle native to Southern 
+Europe. It is one of the most expensive edible fungi in the world. In 
+2013, the truffle cost between 1,000 and 2,000 euros per kilogram.
 
-*Tuber melanosporum*, commonly known as Périgord black truffle, and the
-Piedmont white truffle dominate today\'s truffle market. It is named
-after the Périgord region in France and grows only with the roots of oak
-trees. The underground fruiting body of *Tuber melanosporum* is a
-gastronomic delicacy produced by a symbiont native to chalky soils in
-southern Europe. The worldwide demand for this truffle has fuelled
-intense efforts at cultivation. By sequencing and analysing the genome
-scientists hope to identify processes that condition and trigger fruit
-body and symbiosis formation, ultimately leading to efficient crop
-production. Production is almost exclusively European. In 1900, France
-produced around 1,000 metric tonnes of *Tuber melanosporum*. Production
-has considerably diminished in the past century, and is now around 20
-metric tonnes per year, with peaks at 46 metric tonnes in the best
-years. As of December 2009, black truffles were sold for about €1,000
-per kilo in a farmer\'s market and €3,940 per kilo in a retail saler.
+
+Picture credit: [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Truffe_nature.JPG)
+Taxonomy ID [39416](https://www.uniprot.org/taxonomy/39416)
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Tuber_melanosporum)

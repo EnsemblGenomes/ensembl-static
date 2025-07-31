@@ -1,13 +1,19 @@
+**About *Candida auris***
+-------------------------
+*Candida auris* is a species of fungus that grows as yeast. It is one 
+of the few species of the genus Candida which cause candidiasis in 
+humans. Often, candidiasis is acquired in hospitals by patients with 
+weakened immune systems. C. auris can cause invasive candidiasis 
+(fungemia) in which the bloodstream, the central nervous system, and 
+internal organs are infected. It has attracted widespread attention 
+because of its multiple drug resistance. Treatment is also complicated 
+because it is easily misidentified as other Candida species.
 
-About *Candida auris strain B8441 (GCA\_002759435.2)* 
------------------------------------------
 
-***Candida auris*** is a pathogenic yeast that was first described in 2009 in Japan. 
-Now C. auris presents a global health threat and outbreaks have been reported in 
-several countries. C. auris is often resistant to multiple drugs on 
-the market and causes invasive infections.
-The annotation for this has been imported from [FungiDB](https://fungidb.org/fungidb/app/record/dataset/TMPTX_caurB8441)
-through the [VEuPathDB project] (https://veupathdb.org/veupathdb/app).
+Picture credit: [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Candida-auris_2016-250px.jpg)
+Taxonomy ID [498019](https://www.uniprot.org/taxonomy/498019)
 
+(Text from [Wikipedia](https://en.wikipedia.org/).)
 
-
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Candida_auris)

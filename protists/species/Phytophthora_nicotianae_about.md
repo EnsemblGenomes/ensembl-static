@@ -1,7 +1,8 @@
 About *Phytophthora nicotianae* 
 -------------------------------
-
+Phytophthora nicotianae has a broad host range comprising 255 genera from 90 families. Hosts include tobacco, onion, tomato, ornamentals, cotton, pepper, and citrus plants. This pathogen can cause root rot, crown rot, fruit rot, leaf infection, and stem infection. Root rot symptoms are observed on tobacco, poinsettia, tomato, pineapple, watermelon, and as well as African violet. Fruit rots occur on tomato, papaya, and eggplant. Onion shows a leaf and stem infection. In tobacco black shank affects the roots and basal stem area, but all parts of the plant can become infected. Damping off symptoms can be observed in young seedlings. The first above ground symptom that will be observed is the wilting of plants, which leads to stunting. Roots will be blackened and decayed. In final stages of the disease the stem begins to turn black, hence the name black shank. As this happens, tobacco leaves turn brown and become not marketable. Another symptom is disk-like appearance of the pith, although this is not a definitive symptom as it may also be the result of lightning strikes. On onion it causes the disease known as Phytophthora neck and bulb rot. Different stages of onion may be affected. Initially, tips of newly infected plants start to yellow and dry followed by softening of the "neck" of the plants that eventually fall over. Infected leaves may show grey lesions. Roots may become necrotic in late disease.
 
 
 ([Text](http://en.wikipedia.org/wiki/Phytophthora_nicotianae) from
 [Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
+

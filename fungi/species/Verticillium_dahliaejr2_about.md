@@ -1,12 +1,15 @@
-About the *Verticillium dahliae* JR2 genome
--------------------------------------------
+**About *Verticillium dahliae JR2***
+-------------------------
+Verticillium dahliae is a fungal plant pathogen. It causes 
+verticillium wilt in many plant species, causing leaves to curl and 
+discolor. It may cause death in some plants. Over 400 plant species 
+are affected by Verticillium complex.
 
-*Verticillium dahliae* is one of the causal agent of vascular wilt in
-numerous economically important plants causing wilting of all or only
-parts of the host. The most common hosts are trees and shrubs, including
-olive and maple, and vegetables, including cotton, tomatoes and potatoes
-and also ornamentals. This soilborn fungus persists in the soil for many
-years under the form of tiny and black resting bodies called
-microsclerotia. These germinate in the presence of the host plant roots
-when the external conditions are beneficial. The resulting hyphae
-invades the plant roots into the the vascular tissue.
+
+Picture credit: [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Verticillium_dahliae.jpg)
+Taxonomy ID [1202531](https://www.uniprot.org/taxonomy/1202531)
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Verticillium_dahliae)

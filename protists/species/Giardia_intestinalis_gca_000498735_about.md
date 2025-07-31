@@ -1,8 +1,6 @@
 About *Giardia intestinalis str. GS* 
 ------------------------------------
 
-
-
 ***Giardia lamblia***, also known as ***Giardia intestinalis***, is a
 flagellated parasitic microorganism, that colonizes and reproduces in
 the small intestine, causing giardiasis. The parasite attaches to the

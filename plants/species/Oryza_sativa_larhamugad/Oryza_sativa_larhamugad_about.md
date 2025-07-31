@@ -6,3 +6,5 @@ Asian cultivated rice is a staple food for half of the world population. With a 
 Notes for subpopulations: cA = circum-Aus; cB = circum-Basmati; GJ= Geng-japonica where trop = tropical, subtrp = subtropical; XI = Xian-indica
 
 More information can be found on the [IRRI website](https://gringlobal.irri.org/gringlobal/accessiondetail?id=125619).
+
+Picture credit: Keerthana Manickam, Rod Wing, Yong Zhou, KAUST, 2023.

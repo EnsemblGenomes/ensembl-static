@@ -1,15 +1,15 @@
-About the *Aspergillus clavatus* genome
----------------------------------------
+**About *Aspergillus clavatus NRRL 1***
+-------------------------
+Aspergillus clavatus is a species of fungus in the genus Aspergillus 
+with conidia dimensions 3–4.5 x 2.5–4.5 μm. It is found in soil and 
+animal manure. The fungus was first described scientifically in 1834 
+by the French mycologist John Baptiste Henri Joseph Desmazières.
 
-<div>
 
-*Aspergillus clavatus* is a species of Aspergillus with conidia
-dimensions 3--4.5 x 2.5--4.5 μms. It is found in soil and animal manure.
-The fungus can produce the toxin patulin, which may be associated with
-disease in humans and animals. This species is only occasionally
-pathogenic.
+Picture credit: [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Aspergillus_clavatus.jpg)
+Taxonomy ID [344612](https://www.uniprot.org/taxonomy/344612)
 
-</div>
+(Text from [Wikipedia](https://en.wikipedia.org/).)
 
-Picture credit: [Aspergillus/Aspergillosis Website owned by the Fungal
-Research Trust](http://www.aspergillus.org.uk)
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Aspergillus_clavatus)

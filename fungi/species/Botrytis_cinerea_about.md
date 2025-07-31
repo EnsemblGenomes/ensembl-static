@@ -1,14 +1,15 @@
-About the *Botrytis cinerea* genome
------------------------------------
+**About *Botrytis cinerea B05.10***
+-------------------------
+Botrytis cinerea is a necrotrophic fungus that affects many plant 
+species, although its most notable hosts may be wine grapes. In 
+viticulture, it is commonly known as "botrytis bunch rot"; in 
+horticulture, it is usually called "grey mould" or "gray mold".
 
-*Botrytis cinerea* is the causal agent of the grey mold disease.
-Similarly to *Sclerotinia sclerotiorum*, this Ascomycete can infect a
-wide range of plants in any stage of growth and is widespread in all
-continents. The most notable host is the wine grape where it not only
-causes detrimental bunch rot but, under favourable conditions, is able
-to cause a benevolent form of berry colonization called "noble rot".
-Grapes infected with noble rot have been used for centuries in the
-production of sweet dessert wines. *Botrytis cinerea* can lead to
-important economic losses in many dozens of crops and harvested
-commodities, including vegetables (lettuce, tomato), fruit (berries,
-kiwifruit) and ornamentals (rose).
+
+Picture credit: [Creative Commons Attribution-Share Alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Aardbei_Lambada_vruchtrot_Botrytis_cinerea.jpg)
+Taxonomy ID [332648](https://www.uniprot.org/taxonomy/332648)
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Botrytis_cinerea)

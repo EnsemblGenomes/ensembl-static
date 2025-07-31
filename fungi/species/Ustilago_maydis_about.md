@@ -1,12 +1,18 @@
-About the *Ustilago maydis* genome
-----------------------------------
+**About *Mycosarcoma maydis***
+-------------------------
+Corn smut is a plant disease caused by the pathogenic fungus 
+*Mycosarcoma maydis*, synonym Ustilago maydis. One of several cereal 
+crop pathogens called smut, the fungus forms galls on all above-ground 
+parts of corn species such as maize and teosinte. The infected corn is 
+edible; in Mexico, it is considered a delicacy, called huitlacoche, 
+often eaten as a filling in quesadillas and other tortilla-based 
+dishes, as well as in soups.
 
-*Ustilago maydis* is the causal agent of the corn smut crop disease.
-This basidiomycete can infect any part of the plant but usually it
-reaches the ovaries which causes the kernels to grow into large greyish
-tumors. The infected kernels are known as \"huitlacoche\" in Mexico and
-are used in the preparation of meals. This species is one of the most
-well studied plant pathogens and an important model organism for
-studying plant-pathogen interactions. The *Ustilago maydis* genome was
-released in June 2003 consisting of a 10X whole-genome shotgun assembly
-with a size of 19.68 Mb and encodes about 6500 protein-coding genes.
+
+Picture credit: [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Ustilago_maydis_diploid_teleospores_160X.png)
+Taxonomy ID [5270](https://www.uniprot.org/taxonomy/5270)
+
+(Text from [Wikipedia](https://en.wikipedia.org/).)
+
+**More information**
+General information about this species can be found in [Wikipedia](https://en.wikipedia.org/wiki/Corn_smut)
