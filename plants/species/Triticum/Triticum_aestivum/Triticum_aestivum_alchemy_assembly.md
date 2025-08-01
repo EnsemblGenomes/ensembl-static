@@ -1,8 +1,8 @@
 **Assembly**
 --------
 
-The assembly presented here has been imported from [INSDC](http://www.insdc.org) and is linked to the assembly accession [[GCA\_951799155.1](http://www.ebi.ac.uk/ena/data/view/GCA_951799155.1)].
+The assembly presented here has been imported from INSDC and is linked to the assembly accession [GCA_951799155.1](https://www.ncbi.nlm.nih.gov/assembly/GCA_951799155.1). The total length of the assembly is 15.3 Gb contained within 121 scaffolds. The scaffold N50 value is 502,756,319, the scaffold L50 value is 13. The GC% content of the assembly is 46.0%. The scaffolds were generated using the W2RAP pipeline (Clavijo, B.J. et al. 2017) and assembled into contigs with w2rap-contigger (k=200, default parameters). Mate-pair libraries were prepared, filtered, and used for scaffolding with the W2RAP version of the SOAP scaffolder (K=71), prioritizing paired-end libraries followed by mate-pairs ordered by insert size. Scaffolds shorter than 500 bp were removed.
 
-The total length of the assembly is 15334867051 bp contained within 121 scaffolds.
-The scaffold N50 value is 502756319, the scaffold L50 value is 13.
-The GC% content of the assembly is 46.0%.
+Reference-guided pseudomolecules were constructed with a modified TRITEX pipeline (Monat et al. 2019), generating a guide map derived from the chromosome-scale sequence of the ‘winter’ German bread wheat cv. Julius (Walkowiak et al. 2020). Single-copy regions were extracted from the Julius assembly using BBDuk (Bushnell et al. 2017) and aligned to the W2RAP assemblies using Minimap2 (Li, 2018). Contigs longer than 300 kb, with sufficient single-copy alignments, were ordered and oriented based on majority rule, and assembled into pseudomolecules using TRITEX tools.
+
+Hi-C reads were aligned to the WR2AP contigs using the TRITEX pipeline using tools Minimap2 for alignment, Novosort for sorting, SAMtools (Danecek et al. 2021), and BEDTools (Quinlan & Hall, 2010) for aggregation of information. Hi-C contact maps at 1 Mb resolution arranged according to the chromosomal AGP files were plotted with TRITEX functions and manually inspected for off-diagonal signals to spot large structural variants between the assembled genomes and the Julius guide genome.
