@@ -4,7 +4,8 @@ Bread wheat, also known as common wheat (*Triticum aestivum*), is a cultivated w
 
 "Alchemy" is a bread wheat cultivar and one of eight UK wheat varieties that were used to establish the "NIAB Elite MAGIC" multi-founder inter-cross population.
 
-Picture credit: [Creative Commons Attribution 2.0](https://creativecommons.org/licenses/by/2.0) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Bl%C3%A9_tendre_(GRAPELLI)_AO-5-cliche_Jean_Weber_(5)_%2823975019962%29.jpg)
+Picture credit: [Creative Commons Attribution 2.0](https://creativecommons.org/licenses/by/2.0) BY Richard Horsnell, Niab.
+
 Taxonomy ID [4565](https://www.uniprot.org/taxonomy/4565)
 
 (Text from [Wikipedia](https://en.wikipedia.org/).)
