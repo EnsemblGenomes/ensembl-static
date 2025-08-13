@@ -1,4 +1,5 @@
-**References
+**References**
+--------------
 
 1. Rayner, T. et al. (2024). A reference-grade genome for pea (Pisum sativum) cultivar JI2822 and functional insights from fast neutron mutants. Journal of Experimental Botany. https://doi.org/10.1093/jxb/erae518
 
