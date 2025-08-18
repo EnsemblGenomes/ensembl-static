@@ -1,3 +1,6 @@
+**References**
+--------------
+
 <!-- list of PMC identifiers -->
 
 1.  [A reference genome for pea provides insight into legume genome evolution](https://www.nature.com/articles/s41588-019-0480-1).\
