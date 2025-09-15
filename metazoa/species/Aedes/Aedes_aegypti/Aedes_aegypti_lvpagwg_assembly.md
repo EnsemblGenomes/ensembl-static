@@ -21,7 +21,4 @@ of 409.8 Mb.
 
 The assembly effectively supercedes the AaegL3 assembly, and is the
 supported assembly for the
-[EnsemblMetazoa](http://metazoa.ensembl.org/). The previous assembly for
-the *Aedes aegypti* Liverpool (LVP) strain (AaegL3) is deprecated, but
-can be found on [EnsemblMetazoa
-archive](http://eg45-metazoa.ensembl.org/).
+[EnsemblMetazoa](http://metazoa.ensembl.org/).
