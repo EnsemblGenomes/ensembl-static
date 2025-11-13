@@ -2,7 +2,7 @@
 
 1.  [The map-based sequence of the rice
     genome](http://europepmc.org/abstract/MED/16100779).\
-    2005. Nature. 436:793-800.
+    International Rice Genome Sequencing Project., Sasaki, T. 2005. Nature 436, 793-800.
 2.  [Improvement of the Oryza sativa Nipponbare reference genome using
     next generation sequence and optical map
     data](http://www.thericejournal.com/content/6/1/4).\
@@ -13,18 +13,16 @@
     interactive database for rice
     genomics](http://europepmc.org/abstract/MED/23299411).\
     Sakai H, Lee SS, Tanaka T, Numa H, Kim J, Kawahara Y, Wakimoto H,
-    Yang CC, Iwamoto M, Abe T et al. 2013. Plant Cell Physiol.. 54:e6.
+    Yang CC, Iwamoto M, Abe T et al. Plant & Cell Physiology. 2013 Feb;54(2):e6.
 4.  [The TIGR Rice Genome Annotation Resource: improvements and new
     features](http://europepmc.org/abstract/MED/17145706).\
-    Ouyang S, Zhu W, Hamilton J, Lin H, Campbell M, Childs K,
-    Thibaud-Nissen F, Malek RL, Lee Y, Zheng L et al. 2007. Nucleic
-    Acids Res.. 35:D883-7.
+    Ouyang S, Zhu W, Hamilton J, et al. Nucleic Acids Research. 2007 Jan;35(Database issue):D883-7.
 5.  [Global analysis of gene expression using GeneChip
     microarrays](http://europepmc.org/abstract/MED/12972041).\
-    Zhu T. 2003. Curr. Opin. Plant Biol.. 6:418-425.
+    Zhu T. Current Opinion in Plant Biology. 2003 Oct;6(5):418-425.
 6.  [The 3,000 rice genomes
     project](http://europepmc.org/abstract/MED/24872877).\
-    2014. Gigascience. 3:7.
+    3,000 rice genomes project. Gigascience. 2014 ;3:7.
 7.  [Whole genome sequencing of elite rice cultivars as a comprehensive
     information resource for marker assisted
     selection](http://europepmc.org/abstract/MED/25923345).\
