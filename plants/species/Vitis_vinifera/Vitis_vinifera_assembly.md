@@ -1,10 +1,8 @@
-### Assembly
+**Assembly**
+--------
 
-This release is based on a 12x whole genome shotgun sequence assembly
-and the V1 annotation of the *Vitis vinifera* genome. These data were
-prepared by a French-Italian [Public Consortium for Grapevine Genome
-Characterisation](http://europepmc.org/abstract/MED/17721507) under the
-auspices of the [International Grape Genome Program
-(IGGP)](https://www6.inrae.fr/iggp). Further details of the sequencing and
-assembly are available from
-[Genoscope](http://www.genoscope.cns.fr/spip/Vitis-vinifera-whole-genome.html).
+The assembly presented here has been imported from [INSDC](http://www.insdc.org) and is linked to the assembly accession [[GCA\_030704535.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_030704535.1/)].
+
+The total length of the assembly is 494873210 bp contained within 19 scaffolds.
+The scaffold N50 value is 26899771, the scaffold L50 value is 9.
+The GC% content of the assembly is 35.0%.
