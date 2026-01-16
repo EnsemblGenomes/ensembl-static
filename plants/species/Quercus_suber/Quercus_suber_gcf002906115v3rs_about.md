@@ -1,0 +1,3 @@
+**About *Quercus suber***
+-------------------------
+*Quercus suber*, commonly called the cork oak, is a medium-sized, evergreen oak tree in the section Quercus sect. Cerris. It is the primary source of cork for wine bottle stoppers and other uses, such as cork flooring and as the cores of cricket balls. It is native to southwest Europe and northwest Africa. In the Mediterranean basin the tree is an ancient species with fossil remnants dating back to the Tertiary period. It can survive for as long as two centuries. Typically, once it reaches 25 years old, its thick bark can be harvested for cork every 9 to 12 years without causing harm to the tree.
