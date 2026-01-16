@@ -3,7 +3,7 @@
 Ensembl Plants hosts the [RefSeq v1.0 assembly](http://plants.ensembl.org/Wheat) from the IWGSC, including:
 
 - The IWGSC RefSeq v1.1 gene annotation, with links to [wheat expression browser](http://www.wheat-expression.com) and [KnetMiner](https://app.knetminer.com/resources/plants-lite/)
-- [17 wheat cultivars](/Triticum_aestivum/Info/Strains?db=core) from the [10+ genome project](http://www.10wheatgenomes.com) and other sources including comparative analysis across the different lines
+- [19 wheat cultivars](/Triticum_aestivum/Info/Strains?db=core) from the [10+ genome project](http://www.10wheatgenomes.com) and other sources including comparative analysis across the different lines
 - ~90 million variants from the [Watkins Landrace Wheat Collection](https://www.jic.ac.uk/blog/the-a-e-watkins-landrace-collection-of-bread-wheat-who-was-ae-watkins/)
 - Variants were loaded from the *Triticum aestivum* Next Generation[TaNG](https://doi.org/10.1111/pbi.14341) array derived from 204 elite wheat lines and 111 wheat landraces from the Watkins 'Core Collection'
 - Axiom 35K, 820K SNP arrays from [CerealsDB](https://www.cerealsdb.uk.net/cerealgenomics/CerealsDB/index.php), including QTL links in selected cases and Linkage Disequilibrium display - see QTL example [here](https://plants.ensembl.org/Triticum_aestivum/Variation/Explore?r=5A:438266461-438267461;v=BA00617086;vdb=variation;vf=264386). 820K variants have been lifted over to the chromosomal level 10+ wheat cultivars
