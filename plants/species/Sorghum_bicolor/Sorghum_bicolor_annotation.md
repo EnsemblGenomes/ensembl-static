@@ -7,7 +7,7 @@ set) with new geneAtlas RNA-seq data. Read more at
 [Phytozome](https://phytozome.jgi.doe.gov/pz/portal.html#!info?alias=Org_Sbicolor).
 
 Repeats were annotated with the [Ensembl Genomes repeat feature
-pipeline](http://plants.ensembl.org/info/genome/annotation/repeat_features.html). There
+pipeline](https://plants.ensembl.org/info/genome/annotation/repeat_features.html). There
 are: six classes of repeats loaded from (ENA); 685,783 Low complexity
 (Dust) features, covering 29 Mb (4.0% of the genome); 455,749
 RepeatMasker features (with the RepBase library), covering 451 Mb (62.1%

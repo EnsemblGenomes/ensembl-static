@@ -11,4 +11,4 @@ and maize pan-genome anchor markers. The 26 lines were also annotated with a com
 The current assembly is named Zm-B73-REFERENCE-NAM-5.0 and was aligned to the previous 
 B73_RefGen_v4 version with software ATAC/A2Amapper [5], obtaining 96.76% mapped positions. 
 Those mappings can be used to translate coordinates across with the 
-[Assembly Converter](http://plants.ensembl.org/Oryza_sativa/Tools/AssemblyConverter).
+[Assembly Converter](https://plants.ensembl.org/Oryza_sativa/Tools/AssemblyConverter).

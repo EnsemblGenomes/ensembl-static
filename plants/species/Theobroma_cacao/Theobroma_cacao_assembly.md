@@ -8,4 +8,4 @@ scaffolds. This assembly is primarily composed of Roche 454 Titanium STD
 reads, augmented by six recombination paired Titanium libraries, three
 fosmid packaged Sanger sequenced libraries, and three Sanger sequenced
 BAC Ends libraries. This genome assembly was produced by the [Cacao
-Genome Consortium](http://europepmc.org/abstract/MED/23731509).
+Genome Consortium](https://europepmc.org/abstract/MED/23731509).

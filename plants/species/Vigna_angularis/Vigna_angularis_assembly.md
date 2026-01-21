@@ -1,7 +1,7 @@
 ### Assembly
 
 This assembly comes from the [Beijing University of
-Agriculture](http://europepmc.org/abstract/MED/25626881). Paired-end
+Agriculture](https://europepmc.org/abstract/MED/25626881). Paired-end
 (180 bp) and mate-pair (5 and 10 kb) libraries were prepared using 100
 bp short reads (Illumina HiSeq 2000) and were combined with a single
 unpaired library of average read length of 458 bp (Roche GS-FLX+) for a

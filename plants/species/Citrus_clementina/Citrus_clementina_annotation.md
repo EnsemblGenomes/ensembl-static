@@ -7,7 +7,7 @@ predictions made with FGenesH+, exonerate and GenomeScan. This produced
 an annotation 25,000 protein coding loci.
 
 Repeats were annotated with the [Ensembl Genomes repeat feature
-pipeline](http://plants.ensembl.org/info/genome/annotation/repeat_features.html). There
+pipeline](https://plants.ensembl.org/info/genome/annotation/repeat_features.html). There
 are: 644239 Low complexity (Dust) features, covering 29 Mb (9.6% of the
 genome); 133691 RepeatMasker features (with the REdat library), covering
 45 Mb (14.9% of the genome); 3453 RepeatMasker features (with the

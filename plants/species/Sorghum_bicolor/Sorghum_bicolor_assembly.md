@@ -1,10 +1,10 @@
 ### Assembly
 
 The first genome assembly of *Sorghum bicolor* cv. Moench was [published
-in 2009](http://europepmc.org/abstract/MED/19189423). Sequencing by the
+in 2009](https://europepmc.org/abstract/MED/19189423). Sequencing by the
 US department of Energy Joint Genome Institute (JGI) [Community
-Sequencing Program](http://www.jgi.doe.gov/CSP/) in collaboration with
-the [Plant Genome Mapping Laboratory](http://www.plantgenome.uga.edu/)
+Sequencing Program](https://www.jgi.doe.gov/CSP/) in collaboration with
+the [Plant Genome Mapping Laboratory](https://www.plantgenome.uga.edu/)
 followed a whole genome shotgun strategy reaching 8x coverage with
 scaffolds, where possible, being assigned to the genetic map. Since then
 JGI made two rounds of improvements. The most recent update of release

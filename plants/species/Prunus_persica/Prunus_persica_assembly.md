@@ -1,9 +1,9 @@
 ### Assembly
 
-[JGI](http://europepmc.org/abstract/MED/23525075) performed the initial
+[JGI](https://europepmc.org/abstract/MED/23525075) performed the initial
 assembly using Sanger sequence reads representing 8.5-fold coverage of a
 double haploid genotype of cv. Lovell using
-[Arachne](http://www.broadinstitute.org/crd/wiki/index.php/Arachne_Main_Page).
+[Arachne](https://www.broadinstitute.org/crd/wiki/index.php/Arachne_Main_Page).
 The resulting contigs and scaffolds were filtered to give 234 scaffolds
 covering 224.6 Mb of the peach genome (Peach v1.0) with scaffold and
 contig N50/L50 values of 4 Mb/26.8 Mb and 294 kb/214.2 kb, respectively

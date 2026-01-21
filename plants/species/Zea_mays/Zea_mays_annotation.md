@@ -6,7 +6,7 @@ Gene models were filtered by conservation and Maker Annotation Edit Distance (AE
 and then classified into protein_coding and misc_non-coding sets.
 
 Gene models from version B73_RefGen_v4 have been mapped to the current Zm-B73-REFERENCE-NAM-5.0 and can be retrieved with the
-[ID History Converter](http://plants.ensembl.org/Oryza_sativa/Tools/IDMapper)
+[ID History Converter](https://plants.ensembl.org/Oryza_sativa/Tools/IDMapper)
 
 Evidence-based predictions were directly inferred from assembled transcripts, which were generated using five different genome-guided transcript assembly programs and processed using Mikado to pick the optimal set of transcripts for each locus. To generate assembled transcripts, quality inspected RNA-seq reads were mapped to the genome. In order to pick the final transcripts, Mikado uses assembled transcripts combined with high-confidence splice junctions with the mapped reads as input, predicted ORFs for the assembled transcripts generated and homology results of transcripts to SwissProt (Viridiplantae) sequences.
 

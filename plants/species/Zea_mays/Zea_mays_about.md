@@ -2,7 +2,7 @@ About *Zea mays*
 ----------------
 
 Maize or *Zea mays* had the highest world-wide production 
-of all grain crops in [2019](http://faostat.fao.org).
+of all grain crops in [2019](https://faostat.fao.org).
 Although a food staple in many regions of the world, most is used for
 animal feed and ethanol fuel. Maize was domesticated from wild teosinte
 in Central America and its cultivation spread throughout the Americas by

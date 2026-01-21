@@ -1,7 +1,7 @@
 ### References
 
 1.  [The Chlamydomonas genome reveals the evolution of key animal and
-    plant functions](http://europepmc.org/abstract/MED/17932292).\
+    plant functions](https://europepmc.org/abstract/MED/17932292).\
     Merchant SS, Prochnik SE, Vallon O, Harris EH, Karpowicz SJ, Witman
     GB, Terry A, Salamov A, Fritz-Laylin LK, Marchal-Drouard L et
     al. 2007. Science. 318:245-250.

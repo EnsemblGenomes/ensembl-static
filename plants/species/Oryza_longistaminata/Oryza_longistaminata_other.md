@@ -1,4 +1,4 @@
 ### Links
 
 -   [International Rice Genome Sequencing Consortium
-    (IRGSP)](http://rgp.dna.affrc.go.jp/E/IRGSP/index.html)
+    (IRGSP)](https://rgp.dna.affrc.go.jp/E/IRGSP/index.html)
