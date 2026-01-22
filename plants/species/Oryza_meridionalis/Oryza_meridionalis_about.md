@@ -8,5 +8,5 @@ cytometry). It is found at edges of freshwater lagoons, temporary pools,
 and swamps in 15-20 cm of water and grows in black, clay soil in open
 habitats. This work was part of the Oryza Genome Evolution project
 funded by NSF Award \#1026200 and in collaboration with [Olivier
-Panaud](http://lgdp.univ-perp.fr/index.php?page=equipe-5_2) and [Robert
+Panaud](https://lgdp.univ-perp.fr/index.php?page=equipe-5_2) and [Robert
 Henry](https://qaafi.uq.edu.au/profile/180/robert-henry).

@@ -3,9 +3,9 @@ About *Brassica napus*
 
 Oilseed rape (*Brassica napus*) was formed \~7,500 years ago by
 hybridisation between [*B.
-rapa*](http://plants.ensembl.org/Brassica_rapa/Info/Annotation/) and
+rapa*](https://plants.ensembl.org/Brassica_rapa/Info/Annotation/) and
 [*B.
-oleracea*](http://plants.ensembl.org/Brassica_oleracea/Info/Annotation/),
+oleracea*](https://plants.ensembl.org/Brassica_oleracea/Info/Annotation/),
 followed by chromosome doubling, a process known as allopolyploidy.
 Together with more ancient polyploidsations, this conferred an aggregate
 72-fold genome multiplication since the origin of angiosperms and high

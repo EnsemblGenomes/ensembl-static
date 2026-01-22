@@ -12,7 +12,7 @@ transposable element, or an FPKM of 0 across the RNA-Seq libraries.
 concatenated unanchored scaffolds.
 
 Repeats were annotated with the [Ensembl Genomes repeat feature
-pipeline](http://plants.ensembl.org/info/genome/annotation/repeat_features.html). There
+pipeline](https://plants.ensembl.org/info/genome/annotation/repeat_features.html). There
 are: 902670 Low complexity (Dust) features, covering 57 Mb (12.3% of the
 genome); 191219 RepeatMasker features (with the REdat library), covering
 48 Mb (10.3% of the genome); 24460 RepeatMasker features (with the

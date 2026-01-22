@@ -2,7 +2,7 @@
 
 The sequencing of the genome of *N. attenuata* was done by the [Max
 Planck Institute for Chemical
-Ecology](http://europepmc.org/abstract/MED/28536194), using 30× Illumina
+Ecology](https://europepmc.org/abstract/MED/28536194), using 30× Illumina
 short reads, 4.5x 454 reads, and 10x PacBio single-molecule long reads.
 It was then assembled into 2.37 Gb of sequences representing 92% of the
 expected genome size. From this was generated a 50x optical map and a

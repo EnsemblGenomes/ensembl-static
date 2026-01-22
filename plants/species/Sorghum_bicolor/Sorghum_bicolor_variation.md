@@ -1,7 +1,7 @@
 ### Variation
 
 -   [The **Morris *et al***.
-    set](http://europepmc.org/abstract/MED/23267105) is from a 2013
+    set](https://europepmc.org/abstract/MED/23267105) is from a 2013
     study of agroclimatic traits in *Sorghum*. In this study,
     approximately 265,000 single nucleotide polymorphisms (SNPs) were
     characterised from 971 worldwide accessions, combining three
@@ -13,7 +13,7 @@
     lines. The data presented here represents the genotype information
     of the 378 SAP lines provided by the author.
 -   [The **Mace *et al*.** SNPs
-    set](http://europepmc.org/abstract/MED/23982223) corresponds to
+    set](https://europepmc.org/abstract/MED/23982223) corresponds to
     6,578,420 SNPs (SNPs mapping to supercontigs were removed) genotyped
     in 45 *Sorghum bicolor* lines including the BTx623 reference genome
     plus 2 *S. propinquum* lines. The data was obtained by resequencing
@@ -23,7 +23,7 @@
     bicolor*, landraces, improved inbreds, progenitors, wild and weedy),
     and the first resequenced genome of *S. propinquum*, all of which
     were mapped to the BTx623 S. *bicolor* reference genome.
--   The [Jiao EMS dataset](http://europepmc.org/abstract/MED/27354556)
+-   The [Jiao EMS dataset](https://europepmc.org/abstract/MED/27354556)
     includes \~1.8 millions ethyl methane sulphonate (EMS)-induced G/C
     to A/T transition mutations annotated from 252 M3 families selected
     from the 6,400 sorghum mutant library in BTx623 background. Genomic
@@ -32,6 +32,6 @@
 ### Structural Variation
 
 Data for structural variation in sorghum has been imported from the
-[Database of Genomic Variants archive](http://www.ebi.ac.uk/dgva/)
+[Database of Genomic Variants archive](https://www.ebi.ac.uk/dgva/)
 (dGVA) from a single study containing around [32 thousand structural
-variations](http://europepmc.org/abstract/MED/22104744).
+variations](https://europepmc.org/abstract/MED/22104744).

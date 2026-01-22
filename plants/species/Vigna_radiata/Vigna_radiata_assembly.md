@@ -2,7 +2,7 @@
 
 The pure line VC1973A of *Vigna radiata* var. radiata was used for
 genome sequencing by [Seoul National
-University](http://europepmc.org/articles/PMC4241982). Paired-end 180-bp
+University](https://europepmc.org/articles/PMC4241982). Paired-end 180-bp
 and 500-bp libraries, and mate-pair 5-, 10- and 40-kb libraries were
 prepared and sequenced by Illumina HiSeq2000. These libraries provided a
 physical coverage of 320-fold of the estimated genome size. In addition,

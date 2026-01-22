@@ -3,7 +3,7 @@
 #### *Brachypodium* variation data
 
 Approximately [394,000 genetic
-variants](http://europepmc.org/articles/PMC4105277) have been identified
+variants](https://europepmc.org/articles/PMC4105277) have been identified
 by the alignment of transcriptome assemblies from three slender false
 brome (*Brachypodium sylvaticum*) populations. Two populations come from
 *B. sylvaticum*\'s native range (Greece and Spain) and one comes from

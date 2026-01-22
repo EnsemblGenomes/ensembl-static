@@ -7,4 +7,4 @@ sequence. The final assembly of 849.7 Mb was obtained using SOAP and
 Newbler, with 89% nongapped sequence. The assembly covers \~79% of the
 1,130 Mb genome and includes 95.6% of *Brassica* expressed sequence tags
 (ESTs) and was [produced by
-GSC](http://europepmc.org/abstract/MED/25146293).
+GSC](https://europepmc.org/abstract/MED/25146293).

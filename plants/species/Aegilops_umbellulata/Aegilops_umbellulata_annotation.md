@@ -6,4 +6,4 @@ For the gene lifting, gene models of hexaploid wheat line Chinese Spring, *Ae ta
 
 All the output gff files from the lifting and genome-guided approaches were merged and filtered to retain transcripts with start and stop codons. In total, 36,268 gene models were predicted for which the putative functional annotations were assigned using a protein comparison against the UniProt database using [DIAMOND](https://www.nature.com/articles/nmeth.3176). PFAM domain signatures and GO were assigned using [InterproScan](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1160203/).
 
-Repeated sequences were called with the Repeat Detector, which is part of the [Ensembl Genomes repeat feature pipelines](http://plants.ensembl.org/info/genome/annotation/repeat_features.html). Repeats length: 3514124750 - Repeats content: 82.7%
+Repeated sequences were called with the Repeat Detector, which is part of the [Ensembl Genomes repeat feature pipelines](https://plants.ensembl.org/info/genome/annotation/repeat_features.html). Repeats length: 3514124750 - Repeats content: 82.7%

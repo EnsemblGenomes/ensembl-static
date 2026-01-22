@@ -7,7 +7,7 @@ iterations of the MAKER software, near 56K gene models were obtained
 with an average size of 1,424 bp and 93.4% of the complete BUSCO genes.
 
 Repeats were annotated with the [Ensembl Genomes repeat feature
-pipeline](http://plants.ensembl.org/info/genome/annotation/repeat_features.html). There
+pipeline](https://plants.ensembl.org/info/genome/annotation/repeat_features.html). There
 are: 703004 Low complexity (Dust) features, covering 18 Mb (3.0% of the
 genome); 279122 RepeatMasker features (with the REdat library), covering
 102 Mb (16.9% of the genome); 5846 RepeatMasker features (with the

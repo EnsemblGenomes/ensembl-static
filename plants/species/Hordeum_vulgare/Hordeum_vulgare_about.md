@@ -15,7 +15,7 @@ source in several parts of the world.
 Barley is a diploid member of the grass family (2n=14), 
 making it a natural model for the genetics and genomics of
 the Triticeae tribe, including polyploid
-[wheat](http://plants.ensembl.org/Triticum_aestivum)
+[wheat](https://plants.ensembl.org/Triticum_aestivum)
 and rye. With a haploid genome size of \~5.3 Gb in seven chromosomes, it
 is one of the largest diploid genomes sequenced to date.
 
