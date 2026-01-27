@@ -2,7 +2,7 @@
 
 1.  [Evolution of red algal plastid genomes: ancient architectures,
     introns, horizontal gene transfer, and taxonomic utility of plastid
-    markers](http://europepmc.org/abstract/MED/23536846).\
+    markers](https://europepmc.org/abstract/MED/23536846).\
     Janoukovec J, Liu SL, Martone PT, Carr W, Leblanc C, Colln J,
     Keeling PJ. 2013. PLoS ONE. 8:e59001.
 

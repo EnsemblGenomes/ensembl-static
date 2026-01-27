@@ -13,7 +13,7 @@
     Res. 42(6):e46.
 3.  [Genome assembly and annotation of Arabidopsis halleri, a model for
     heavy metal hyperaccumulation and evolutionary
-    ecology](http://europepmc.org/abstract/MED/27671113).\
+    ecology](https://europepmc.org/abstract/MED/27671113).\
     Briskine RV, Paape T, Shimizu-Inatsugi R, Nishiyama T, Akama S, Sese
     J, Shimizu KK. 2017. Mol Ecol Resour. 17(5):1025-1036.
 

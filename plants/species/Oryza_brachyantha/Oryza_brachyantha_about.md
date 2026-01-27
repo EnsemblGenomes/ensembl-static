@@ -10,12 +10,12 @@ assigned to the F-genome type. An annual or weekly perennial tufted
 grass, it is distributed in west and central Africa, and grows in open
 wetland habitats. It has potentially useful traits for rice breeding,
 including resistance/tolerance to [yellow stem
-borer](http://www.knowledgebank.irri.org/ipm/stem-borer/stem-borer-species/yellow-stem-borer.html),
-[leaffolder](http://www.knowledgebank.irri.org/RiceDoctor/information-sheets-mainmenu-2730/pests-mainmenu-2737/rice-leaffolder-mainmenu-2816.html),
+borer](https://www.knowledgebank.irri.org/ipm/stem-borer/stem-borer-species/yellow-stem-borer.html),
+[leaffolder](https://www.knowledgebank.irri.org/RiceDoctor/information-sheets-mainmenu-2730/pests-mainmenu-2737/rice-leaffolder-mainmenu-2816.html),
 [whorl
-maggot](http://www.knowledgebank.irri.org/RiceDoctor/information-sheets-mainmenu-2730/pests-mainmenu-2737/rice-whorl-maggot-mainmenu-2819.html)
+maggot](https://www.knowledgebank.irri.org/RiceDoctor/information-sheets-mainmenu-2730/pests-mainmenu-2737/rice-whorl-maggot-mainmenu-2819.html)
 and [bacterial
-blight](http://www.knowledgebank.irri.org/RiceDoctor/information-sheets-mainmenu-2730/diseases-mainmenu-2735.html).
+blight](https://www.knowledgebank.irri.org/RiceDoctor/information-sheets-mainmenu-2730/diseases-mainmenu-2735.html).
 The *O. brachyantha* genome provides an important resource for
 functional and evolutionary studies in the genus Oryza. Its nuclear
 genome is diploid (2n = 24) and \~362 Mb.

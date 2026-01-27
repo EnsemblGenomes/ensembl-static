@@ -8,7 +8,7 @@ several conserved core gene sets are encoded by the genome, indicating
 its suitability for genomic and comparative analyses.
 
 Repeats were annotated with the [Ensembl Genomes repeat feature
-pipeline](http://plants.ensembl.org/info/genome/annotation/repeat_features.html). There
+pipeline](https://plants.ensembl.org/info/genome/annotation/repeat_features.html). There
 are: 3043731 Low complexity (Dust) features, covering 436 Mb (24.9% of
 the genome); 817800 RepeatMasker features (with the REdat library),
 covering 126 Mb (7.2% of the genome); 207059 RepeatMasker features (with

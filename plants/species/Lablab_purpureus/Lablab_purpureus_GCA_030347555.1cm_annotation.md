@@ -1,7 +1,7 @@
 **Annotation**
 ----------
 
-The annotation presented is derived from genes imported from the community GFF3 with the assembly accession [GCA\_030347555.1](http://www.ebi.ac.uk/ena/data/view/GCA_030347555.1).
+The annotation presented is derived from genes imported from the community GFF3 with the assembly accession [GCA\_030347555.1](https://www.ebi.ac.uk/ena/data/view/GCA_030347555.1).
 
 Genomic annotation was deposited along with initial assembly submission by Lablab Genome Sequencing Consortium.
 

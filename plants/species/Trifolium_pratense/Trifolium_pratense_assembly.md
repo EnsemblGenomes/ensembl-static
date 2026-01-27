@@ -1,7 +1,7 @@
 ### Assembly
 
 This assembly from the [Earlham
-Institute](http://europepmc.org/abstract/MED/26617401) provides a
+Institute](https://europepmc.org/abstract/MED/26617401) provides a
 chromosome-scale reference draft genome for a red clover genotype of the
 variety Milvus (Milvus B) by integration of Whole Genome Sequencing
 (WGS) of short-length reads, Sanger-based bacterial artificial

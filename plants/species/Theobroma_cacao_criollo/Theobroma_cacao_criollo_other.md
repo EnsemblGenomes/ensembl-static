@@ -1,3 +1,3 @@
 ### Links
 
--   <http://cocoa-genome-hub.southgreen.fr>
+-   <https://cocoa-genome-hub.southgreen.fr>

@@ -1,7 +1,7 @@
 ### Annotation
 
 The [Cucumber Genome
-Initiative](http://europepmc.org/abstract/MED/19881527) predicted
+Initiative](https://europepmc.org/abstract/MED/19881527) predicted
 protein coding genes using three methods (cDNA-EST, homology based and
 *ab initio*) and a consensus gene set was built by merging all of the
 results. A total of 26,682 genes were predicted, with a mean coding
@@ -16,4 +16,4 @@ homologues in the TrEMBL protein database, and 66% can be classified by
 InterPro. In total, 82% of the genes have either known homologues or can
 be functionally classified.
 
-Repeated sequences were called with the Repeat Detector, which is part of the [Ensembl Genomes repeat feature pipelines](http://plants.ensembl.org/info/genome/annotation/repeat_features.html). Repeats length: 93375853 - Repeats content: 48.2%
+Repeated sequences were called with the Repeat Detector, which is part of the [Ensembl Genomes repeat feature pipelines](https://plants.ensembl.org/info/genome/annotation/repeat_features.html). Repeats length: 93375853 - Repeats content: 48.2%

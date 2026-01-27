@@ -10,4 +10,4 @@ assembly V1 to 554 in V2 while the scaffold N50 size increased from 0.47
 Mb in V1 to 6.5 Mb. A total of 96.7% of the assembly was anchored to the
 10 chromosomes. Unknown sites (Ns) were reduced from 10.8% to 5.7%. This
 assembly was produced by the [Cocoa Genome
-Hub](http://cocoa-genome-hub.southgreen.fr).
+Hub](https://cocoa-genome-hub.southgreen.fr).

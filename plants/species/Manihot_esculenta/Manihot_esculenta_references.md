@@ -1,7 +1,7 @@
 ### References
 
 1.  [The Cassava Genome: Current Progress, Future
-    Directions](http://dx.doi.org/10.1007/s12042-011-9088-z).\
+    Directions](https://dx.doi.org/10.1007/s12042-011-9088-z).\
     Simon Prochnik, Pradeep Reddy Marri, Brian Desany, Pablo D.
     Rabinowicz, Chinnappa Kodira, Mohammed Mohiuddin, Fausto Rodriguez,
     Claude Fauquet, Joseph Tohme, Timothy Harkins et al. 2012. Tropical

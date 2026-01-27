@@ -1,6 +1,6 @@
 ### References
 
-1.  [The genome of Theobroma cacao](http://dx.doi.org/10.1038/ng.736).\
+1.  [The genome of Theobroma cacao](https://dx.doi.org/10.1038/ng.736).\
     X Argout, J Salse, JM Aury et al. 2011. Nature Genetics. 43:101108.
 
 2. * PMC6191438

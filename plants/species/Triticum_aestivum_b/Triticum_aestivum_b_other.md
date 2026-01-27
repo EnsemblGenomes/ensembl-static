@@ -17,32 +17,32 @@ the Location view of the *Brachypodium distachyon* and *Hordeum vulgare*
 genomes, as additional tracks under the \"Wheat SNPs and alignments\"
 section of the \"Configure This page\" menu. [Click here for a
 *Brachypodium*
-example](http://test.plants.ensembl.org/Brachypodium_distachyon/Location/View?db=core;r=5:2580560-2583709;contigviewbottom=Lastz_Wheat_A_subsequences_alignments=normal,Lastz_Wheat_B_subsequences_alignments=normal,Lastz_Wheat_D_subsequences_alignments=normal,Lastz_Wheat_X_subsequences_alignments=normal,simple_core_wheat_snp_a=normal,simple_core_wheat_snp_b=normal "Example wheat gene alignments and homoeologous SNPs").
+example](https://test.plants.ensembl.org/Brachypodium_distachyon/Location/View?db=core;r=5:2580560-2583709;contigviewbottom=Lastz_Wheat_A_subsequences_alignments=normal,Lastz_Wheat_B_subsequences_alignments=normal,Lastz_Wheat_D_subsequences_alignments=normal,Lastz_Wheat_X_subsequences_alignments=normal,simple_core_wheat_snp_a=normal,simple_core_wheat_snp_b=normal "Example wheat gene alignments and homoeologous SNPs").
 [Click here for a barley
-example](http://test.plants.ensembl.org/Hordeum_vulgare/Location/View?db=core;r=1:279279843-279283843;contigviewbottom=Lastz_Wheat_A_subsequences_alignments=normal,Lastz_Wheat_B_subsequences_alignments=normal,Lastz_Wheat_D_subsequences_alignments=normal,Lastz_Wheat_X_subsequences_alignments=normal,simple_core_wheat_snp_a=normal,simple_core_wheat_snp_b=normal).
+example](https://test.plants.ensembl.org/Hordeum_vulgare/Location/View?db=core;r=1:279279843-279283843;contigviewbottom=Lastz_Wheat_A_subsequences_alignments=normal,Lastz_Wheat_B_subsequences_alignments=normal,Lastz_Wheat_D_subsequences_alignments=normal,Lastz_Wheat_X_subsequences_alignments=normal,simple_core_wheat_snp_a=normal,simple_core_wheat_snp_b=normal).
 
 Wheat RNA-Seq, EST and Unigene datasets have also been aligned:
 
 -   454 RNA-seq data, from the study,
-    [ERP001415](http://www.ebi.ac.uk/ena/data/view/ERP001415), were
+    [ERP001415](https://www.ebi.ac.uk/ena/data/view/ERP001415), were
     aligned using
-    [GMAP](http://www.molecularevolution.org/software/genomics/gmap).
+    [GMAP](https://www.molecularevolution.org/software/genomics/gmap).
     [Click here for a *Brachypodium*
-    example](http://test.plants.ensembl.org/Brachypodium_distachyon/Location/View?db=core;r=1:21899572-21905500;contigviewbottom=Gmap_Wheat_ERR125556=normal,Gmap_Wheat_ERR125557=normal).
+    example](https://test.plants.ensembl.org/Brachypodium_distachyon/Location/View?db=core;r=1:21899572-21905500;contigviewbottom=Gmap_Wheat_ERR125556=normal,Gmap_Wheat_ERR125557=normal).
     [Click here for a barley
-    example](http://test.plants.ensembl.org/Hordeum_vulgare/Location/View?db=core;r=1:279279843-279283843;contigviewbottom=Gmap_Wheat_ERR125556=normal,Gmap_Wheat_ERR125557=normal).
+    example](https://test.plants.ensembl.org/Hordeum_vulgare/Location/View?db=core;r=1:279279843-279283843;contigviewbottom=Gmap_Wheat_ERR125556=normal,Gmap_Wheat_ERR125557=normal).
 -   All publically available EST data in ENA were aligned using
-    [Exonerate](http://www.ebi.ac.uk/%7Eguy/exonerate/), following the
+    [Exonerate](https://www.ebi.ac.uk/%7Eguy/exonerate/), following the
     standard Ensembl pipeline. [Click here for a *Brachypodium*
-    example](http://test.plants.ensembl.org/Brachypodium_distachyon/Location/View?db=core;r=1:21899572-21905500;contigviewbottom=dna_align_otherfeatures_wheat_est_exonerate=normal).
+    example](https://test.plants.ensembl.org/Brachypodium_distachyon/Location/View?db=core;r=1:21899572-21905500;contigviewbottom=dna_align_otherfeatures_wheat_est_exonerate=normal).
     [Click here for a barley
-    example](http://test.plants.ensembl.org/Hordeum_vulgare/Location/View?db=core;r=1:279279843-279283843;contigviewbottom=dna_align_otherfeatures_wheat_est_exonerate=normal).
+    example](https://test.plants.ensembl.org/Hordeum_vulgare/Location/View?db=core;r=1:279279843-279283843;contigviewbottom=dna_align_otherfeatures_wheat_est_exonerate=normal).
 -   Unigene cluster sequence data were aligned using
-    [Exonerate](http://www.ebi.ac.uk/%7Eguy/exonerate/), following the
+    [Exonerate](https://www.ebi.ac.uk/%7Eguy/exonerate/), following the
     standard Ensembl pipeline. [Click here for *Brachypodium*
-    example](http://test.plants.ensembl.org/Brachypodium_distachyon/Location/View?db=core;r=1:21899572-21905500;contigviewbottom=dna_align_otherfeatures_wheat_unigene_exonerate=normal).
+    example](https://test.plants.ensembl.org/Brachypodium_distachyon/Location/View?db=core;r=1:21899572-21905500;contigviewbottom=dna_align_otherfeatures_wheat_unigene_exonerate=normal).
     [Click here for a barley
-    example](http://test.plants.ensembl.org/Hordeum_vulgare/Location/View?db=core;r=1:279279843-279283843;contigviewbottom=dna_align_otherfeatures_wheat_unigene_exonerate=normal).
+    example](https://test.plants.ensembl.org/Hordeum_vulgare/Location/View?db=core;r=1:279279843-279283843;contigviewbottom=dna_align_otherfeatures_wheat_unigene_exonerate=normal).
 
 These data will also be aligned to the IWGSC chromosome survey sequences
 in the next release (release 21).
@@ -54,37 +54,37 @@ The [wheat sequence search](/Triticum_aestivum/Info/WheatSearch) allows
 you to find alignments between your favourite genes and all the publicly
 available bread wheat genome sequences. Wherever possible the results
 are placed in the syntenic context of *[Hordeum
-vulgare](http://test.plants.ensembl.org/Hordeum_vulgare "Hordeum vulgare genome in Ensembl Plants")*
+vulgare](https://test.plants.ensembl.org/Hordeum_vulgare "Hordeum vulgare genome in Ensembl Plants")*
 and *[Brachypodium
-distachyon](http://test.plants.ensembl.org/Brachypodium_distachyon "Brachypodium distachyon genome in Ensembl Plants")*.
+distachyon](https://test.plants.ensembl.org/Brachypodium_distachyon "Brachypodium distachyon genome in Ensembl Plants")*.
 
 Search is performed via the ENA search service, and currently includes:
 
 -   The [5x 454 whole genome
-    assembly](http://europepmc.org/abstract/MED/23192148 "Analysis of the bread wheat genome using whole-genome shotgun sequencing"),
+    assembly](https://europepmc.org/abstract/MED/23192148 "Analysis of the bread wheat genome using whole-genome shotgun sequencing"),
 -   \~1.3 million [wheat EST
-    sequences](http://www.ebi.ac.uk/ena/data/warehouse/search?query=%22dataclass=%22EST%22%20AND%20tax_eq%284565%29%22&domain=sequence),
+    sequences](https://www.ebi.ac.uk/ena/data/warehouse/search?query=%22dataclass=%22EST%22%20AND%20tax_eq%284565%29%22&domain=sequence),
     and
 -   \~57,000 [wheat Unigene cluster
-    sequences](http://www.ncbi.nlm.nih.gov/unigene/?term=txid4565%5BOrganism%3Anoexp%5D).
+    sequences](https://www.ncbi.nlm.nih.gov/unigene/?term=txid4565%5BOrganism%3Anoexp%5D).
 
 Links
 -----
 
 -   [International Wheat Genome Sequencing Consortium
-    (IWGSC)](http://www.wheatgenome.org/)
--   [URGI Wheat Portal](http://wheat-urgi.versailles.inra.fr/)
+    (IWGSC)](https://www.wheatgenome.org/)
+-   [URGI Wheat Portal](https://wheat-urgi.versailles.inra.fr/)
 -   [MIPS Wheat Genome
-    Database](http://mips.helmholtz-muenchen.de/plant/wheat/uk454survey/index.jsp)
--   [Triticeae-CAP](http://maswheat.ucdavis.edu/Transcriptome/)
--   ENA study [ERP000319](http://www.ebi.ac.uk/ena/data/view/ERP000319):
+    Database](https://mips.helmholtz-muenchen.de/plant/wheat/uk454survey/index.jsp)
+-   [Triticeae-CAP](https://maswheat.ucdavis.edu/Transcriptome/)
+-   ENA study [ERP000319](https://www.ebi.ac.uk/ena/data/view/ERP000319):
     454 pyrosequencing of the *Triticum aestivum* (bread wheat) genome
     to 5X coverage
--   ENA study [ERP001415](http://www.ebi.ac.uk/ena/data/view/ERP001415):
+-   ENA study [ERP001415](https://www.ebi.ac.uk/ena/data/view/ERP001415):
     454 sequencing of *Triticum aestivum* (bread wheat) cv. Chinese
     spring cDNA samples from a pool of tissues, from plants under
     drought stress and from circadian-sampled leaves
 -   *Triticum aestivum* ESTs at
-    [ENA](http://www.ebi.ac.uk/ena/data/warehouse/search?query=%22dataclass=%22EST%22%20AND%20tax_eq%284565%29%22&domain=sequence)
+    [ENA](https://www.ebi.ac.uk/ena/data/warehouse/search?query=%22dataclass=%22EST%22%20AND%20tax_eq%284565%29%22&domain=sequence)
 -   *Triticum aestivum* Unigene cluster sequences at
-    [NCBI](http://www.ncbi.nlm.nih.gov/unigene/?term=txid4565%5BOrganism%3Anoexp%5D)
+    [NCBI](https://www.ncbi.nlm.nih.gov/unigene/?term=txid4565%5BOrganism%3Anoexp%5D)

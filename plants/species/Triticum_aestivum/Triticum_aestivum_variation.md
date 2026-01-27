@@ -9,12 +9,12 @@
 **Exome Capture Watkins**
 4,493,110 markers were loaded from 103 accessions of the Watkins landrace collection [13]
 
-[**Data from CerealsDB**](http://europepmc.org/abstract/MED/27342803)
+[**Data from CerealsDB**](https://europepmc.org/abstract/MED/27342803)
 
 31,779 (out of 35,143) markers from the **35K Axiom SNP array** and
 768,664 (out of 819,570) markers from the **820K Axiom SNP array** were
 aligned to the assembly. This was done by
-[CerealsDB](http://europepmc.org/abstract/MED/27342803) using 101bp
+[CerealsDB](https://europepmc.org/abstract/MED/27342803) using 101bp
 sequences with the SNP located centrally at position 51. Blastn E-value
 cutoff was set to 1e-05. The top three hits were parsed and compared to
 genetic map data. In cases where two or more of the top three hits had
@@ -28,14 +28,14 @@ The 35K set includes genotype data from 1,963 samples while the 820K has
 475 samples. In cases where a marker belongs to both sets, genotype data
 from both 820K and 35K samples will be displayed [5].
 
-[**EMS Mutation data**](http://europepmc.org/abstract/MED/28096351)
+[**EMS Mutation data**](https://europepmc.org/abstract/MED/28096351)
 
 EMS-type variants from sequenced tetraploid (cv 'Kronos') and hexaploid (cv 'Cadenza') TILLING populations. Sequencing was performed using exome capture [2] for both varieties and promoter capture [11] only for Kronos. Mutations were called on the IWGSC RefSeq V1.0 assembly using the [Dragen system](https://file.scirp.org/Html/2-1370287_74603.htm) for Cadenza and the MAPS pipeline for Kronos [12].
 
 - 4.8 million Kronos mutations in coding regions and 4.3 million in promoter regions (estimated average error rate lower than 0.7%).
 - 8.2 million Cadenza mutations in coding regions
 
-Researchers and breeders can search this database online, identify mutations in the different copies of their target gene, and request seeds to study gene function or improve wheat varieties. Seeds can be requested from the UK [SeedStor](https://www.seedstor.ac.uk/shopping-cart-tilling.php) or from the US based [Dubcovsky lab](http://dubcovskylab.ucdavis.edu/wheat-tilling). This resource was generated as part of a joint project between the University of California Davis, Rothamsted Research, The Earlham Institute, and the John Innes Centre.
+Researchers and breeders can search this database online, identify mutations in the different copies of their target gene, and request seeds to study gene function or improve wheat varieties. Seeds can be requested from the UK [SeedStor](https://www.seedstor.ac.uk/shopping-cart-tilling.php) or from the US based [Dubcovsky lab](https://dubcovskylab.ucdavis.edu/wheat-tilling). This resource was generated as part of a joint project between the University of California Davis, Rothamsted Research, The Earlham Institute, and the John Innes Centre.
 
 **Inter-Homoeologous Variants**
 
@@ -44,7 +44,7 @@ the A,B and D component genomes where added as SNP markers.
 
 **SIFT scores**
 
-[SIFT](http://sift.bii.a-star.edu.sg/) predicts whether an amino acid
+[SIFT](https://sift.bii.a-star.edu.sg/) predicts whether an amino acid
 substitution affects protein function based on sequence homology and the
 physical properties of amino acids. SIFT can be applied to naturally
 occurring nonsynonymous polymorphisms and laboratory-induced missense
@@ -58,13 +58,13 @@ all bread wheat variation datasets.
 
 KASP markers designed to be genome-specific with PolyMarker [6] are
 displayed for the EMS-type variants. For details on how to interpret the
-annotation and details please visit <http://www.polymarker.info/about>.
+annotation and details please visit <https://www.polymarker.info/about>.
 
 In addition to the EMS-type variants, there are additional KASP markers from the Nottingham BBSRC Wheat Research Centre ([WRC](https://www.nottingham.ac.uk/wrc/germplasm-resources/genotyping.aspx)).
 These 710 KASP markers were developed from SNPs between wheat and ten wild relative species (Ambylopyrum muticum, Aegilops caudata, Aegilops speltoides, Secale cereale, Thinopyrum bessarabicum, Thinopyrum intermedium, Thinopyrum elongatum, Thinopyrum ponticum, Triticum timopheevii and Triticum urartu). These SNPs were aligned to the assembly by the WRC using the marker sequences and Blastn E-value cutoff value of 1e-05. Of these, 620 markers are genome-specific in design and thus, those SNPs have been aligned to their chromosome of specificity. Where the KASP markers are genome-nonspecific, the top Blast hit was selected for SNP alignment [10].
 
 **Exome Capture Diversity 2019**
-[3,039,822](http://wheatgenomics.plantpath.ksu.edu/1000EC/) markers were loaded from 890 diverse wheat landraces and cultivars [14]
+[3,039,822](https://wheatgenomics.plantpath.ksu.edu/1000EC/) markers were loaded from 890 diverse wheat landraces and cultivars [14]
 
 **Linkage Disequilibrium (LD) data**
 

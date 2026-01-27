@@ -1,3 +1,3 @@
 ### Links {#links dir="ltr"}
 
--   [[http://coffee-genome.org]{.underline}](http://coffee-genome.org/coffeacanephora)
+-   [[https://coffee-genome.org]{.underline}](https://coffee-genome.org/coffeacanephora)
