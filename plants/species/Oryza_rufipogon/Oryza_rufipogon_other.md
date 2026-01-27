@@ -7,7 +7,7 @@ project include:
     example](/Oryza_rufipogon/Gene/Compara_Tree?g=ORUFI01G00010;r=1:4806-7125).
 -   Mapping to the genome of multiple sequence-based feature sets using
     [gramene blat
-    pipeline](http://docs.gramene.org/Blat_pipeline:_sequence_mapping_analysis),
+    pipeline](https://docs.gramene.org/Blat_pipeline:_sequence_mapping_analysis),
     [see example](/Oryza_rufipogon/Location/View?r=1:8001-18000).
 -   Identification of various repeat features by programs such as
     RepeatMasker with MIPS and AGI repeat libraries, and Dust, TRF.
@@ -15,4 +15,4 @@ project include:
 #### Links
 
 -   [International Rice Genome Sequencing Consortium
-    (IRGSP)](http://rgp.dna.affrc.go.jp/E/IRGSP/index.html)
+    (IRGSP)](https://rgp.dna.affrc.go.jp/E/IRGSP/index.html)

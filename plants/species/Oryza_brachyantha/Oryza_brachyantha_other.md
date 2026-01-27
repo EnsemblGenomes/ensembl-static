@@ -7,11 +7,11 @@ project include:
 -   LastZ Whole Genome Alignment to *Arabidopsis thaliana*, *Oryza
     sativa* Japonica (IRGSP v1) and other *Oryza* AA genomes.
 -   Orthologue based
-    [DAGchainer](http://www.ncbi.nlm.nih.gov/pubmed/15247098) synteny
+    [DAGchainer](https://www.ncbi.nlm.nih.gov/pubmed/15247098) synteny
     detection against other AA genomes.
 -   Mapping to the genome of multiple sequence-based feature sets using
     [Gramene BLAT
-    pipeline](http://docs.gramene.org/Blat_pipeline:_sequence_mapping_analysis).
+    pipeline](https://docs.gramene.org/Blat_pipeline:_sequence_mapping_analysis).
 -   Identification of various repeat features by programs such as
     RepeatMasker with MIPS and AGI repeat libraries, and Dust, TRF.
 

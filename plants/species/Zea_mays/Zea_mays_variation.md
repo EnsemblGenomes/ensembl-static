@@ -23,4 +23,4 @@ This variation data set consists of 719,472 SNPs (excluding 332 SNPs
 that were removed for mapping to scaffolds) typed in 16,718 maize and
 teosinte lines, and grouped in 14 overlapping populations according to
 the germplasm set in the corresponding [metadata
-table](http://www.panzea.org/dynamic/derivative_data/genotypes/AllZeaGBSv2.7_publicSamples_metadata20140411.xlsx).
+table](https://www.panzea.org/dynamic/derivative_data/genotypes/AllZeaGBSv2.7_publicSamples_metadata20140411.xlsx).

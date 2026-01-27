@@ -2,7 +2,7 @@
 
 1.  [The cacao Criollo genome v2.0: an improved version of the genome
     for genetic and functional genomic
-    studies](http://dx.doi.org/10.1186/s12864-017-4120-9).\
+    studies](https://dx.doi.org/10.1186/s12864-017-4120-9).\
     X Argout, G Martin, G Droc, O Fouet, K Labadie, E Rivals, JM Aury, C
     Lanaud. 2017. BMC Genomics. 18:730.
 

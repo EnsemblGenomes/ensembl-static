@@ -1,7 +1,7 @@
 ### Assembly
 
 The wheat genome was assembled by the [International Wheat Genome
-Sequencing Consortium](http://europepmc.org/abstract/MED/30115783).
+Sequencing Consortium](https://europepmc.org/abstract/MED/30115783).
 Pseudomolecule sequences representing the 21 chromosomes of the bread
 wheat genome were assembled by integrating a draft de novo whole-genome
 assembly, built from Illumina short-read sequences using NRGene

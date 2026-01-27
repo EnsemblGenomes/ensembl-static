@@ -14,6 +14,6 @@ When softened in water it has a sea-like odour and because of the
 abundant cell wall polysaccharides it will form a jelly when boiled,
 containing from 20 to 100 times its weight of water.
 
-([Text](http://en.wikipedia.org/wiki/Chondrus_crispus) and
+([Text](https://en.wikipedia.org/wiki/Chondrus_crispus) and
 [image](https://commons.wikimedia.org/wiki/File:Chondrus_crispus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-034.jpg)
-from [Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
+from [Wikipedia](https://en.wikipedia.org/), the free encyclopaedia.)

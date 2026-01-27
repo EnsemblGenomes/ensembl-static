@@ -2,7 +2,7 @@
 
 The lupin genome assembly was produced by the [Commonwealth Scientific
 and Industrial Research
-Organisation](http://europepmc.org/articles/PMC5316927). The haploid
+Organisation](https://europepmc.org/articles/PMC5316927). The haploid
 genome size for NLL was previously estimated by flow cytometry to be 924
 Mb. K-mer-based estimation of genome size predicted a similar value of
 951 Mb. Initial assembly of the Tanjil genome using only paired-end

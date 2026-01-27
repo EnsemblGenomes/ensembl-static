@@ -12,7 +12,7 @@ known to humans, is the signature compound of the genus Nicotiana
 effective plant defence metabolites, in that it poisons acetylcholine
 receptors and is thereby toxic to all heterotrophs with neuromuscular
 junctions. [Field studies using genetically
-modified](http://europepmc.org/abstract/MED/28536194) *Nicotiana
+modified](https://europepmc.org/abstract/MED/28536194) *Nicotiana
 attenuata* (coyote tobacco) plants, have revealed that this toxin
 fulfills multifaceted ecological functions that contribute to plant
 fitness.

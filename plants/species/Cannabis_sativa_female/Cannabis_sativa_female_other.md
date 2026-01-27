@@ -1,3 +1,3 @@
 ### Links
 
-[cannabisgenome.org](http://cannabisgenome.org)
+[cannabisgenome.org](https://cannabisgenome.org)

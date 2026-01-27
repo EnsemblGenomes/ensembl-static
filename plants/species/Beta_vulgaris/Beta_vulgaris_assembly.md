@@ -1,7 +1,7 @@
 ### Assembly
 
 The double haploid sugar beet line KWS2320 was sequenced by [Dohm *et
-al*](http://europepmc.org/abstract/MED/24352233) (2014) using the
+al*](https://europepmc.org/abstract/MED/24352233) (2014) using the
 Roche/454, Illumina and Sanger sequencing platforms. The initial
 assembly was integrated with genome-wide genetic and physical map
 information, resulting in 225 genetically anchored scaffolds (394.6 Mb),

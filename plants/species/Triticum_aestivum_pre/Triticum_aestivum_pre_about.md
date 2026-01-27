@@ -21,7 +21,7 @@ hybridized again with Aegilops tauschii (the D-genome donor) to produce
 modern bread wheat.
 
 The main Ensembl Plants site
-(<http://plants.ensembl.org/Triticum_aestivum/Info/Index>) contains the
+(<https://plants.ensembl.org/Triticum_aestivum/Info/Index>) contains the
 TGACv1 assembly and will be replaced by IWGSCv1 in the next release
 (July).
 
