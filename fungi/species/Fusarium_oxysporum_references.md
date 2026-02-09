@@ -10,5 +10,5 @@
     analysis](http://europepmc.org/abstract/MED/16480905).\
     Iida Y, Ohara T, Tsuge T. 2006. Fungal Genet. Biol.. 43:179-189.
 
-Picture credit: Picture credit: [Keith
+Picture credit: [Keith
 Weller](http://www.ars.usda.gov/is/graphics/photos/k7725-1.htm)

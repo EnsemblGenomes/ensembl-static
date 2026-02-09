@@ -7,4 +7,4 @@
     Montanini B, Morin E, Noel B, Percudani R et al. 2010. Nature.
     464:1033-1038.
 
-Picture credit: Picture credit: Wazouille
+Picture credit: Wazouille
