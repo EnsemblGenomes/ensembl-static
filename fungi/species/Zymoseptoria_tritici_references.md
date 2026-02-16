@@ -12,5 +12,5 @@
     JK, Foster AJ, Van der Lee TA, Grimwood J, Aerts A et al. 2011. PLoS
     Genet.. 7:e1002070.
 
-Picture credit: Picture credit: Rothamsted Bioimaging Dept, Copyright
+Picture credit: Rothamsted Bioimaging Dept, Copyright
 Rothamsted Research Ltd.

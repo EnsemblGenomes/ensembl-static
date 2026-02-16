@@ -7,4 +7,4 @@
     A, Dominguez V, Anthouard V, Bally P, Bourras S et al. 2011. Nat
     Commun. 2:202.
 
-Picture credit: Picture credit: Dr. H. Brun. INRA
+Picture credit: Dr. H. Brun. INRA

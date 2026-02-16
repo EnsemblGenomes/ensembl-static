@@ -17,7 +17,7 @@ In most areas, M. sexta has about two generations per year
 *M. sexta* is a common model organism, especially in neurobiology, 
 due to its easily accessible nervous system and short life cycle.
 
-Picture credit: [Creative Commons Attribution 2.0](https://creativecommons.org/licenses/by/2.0) via Wikimedia Commons [(Image source)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Manduca_sexta_2.jpg/Manduca_sexta_2.jpg)
+Picture credit: [Creative Commons Attribution 2.0](https://creativecommons.org/licenses/by/2.0) via Wikimedia Commons [(Image source)](https://upload.wikimedia.org/wikipedia/commons/5/50/Manduca_sexta_2.jpg)
 Taxonomy ID [7130](https://www.uniprot.org/taxonomy/7130)
 
 (Text from [Wikipedia](https://en.wikipedia.org/).)

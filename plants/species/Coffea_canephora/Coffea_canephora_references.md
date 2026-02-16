@@ -5,5 +5,5 @@
     Denoeud F, Carretero-Paulet L, Dereeper A et al. . 2014. Science.
     345(6201):1181-1184.
 
-Picture credit: Credit: Jee & Rani Nature Photography (License: CC BY-SA
+Picture credit: Jee & Rani Nature Photography (License: CC BY-SA
 4.0) 2010

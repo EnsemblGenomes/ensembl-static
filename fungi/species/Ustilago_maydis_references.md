@@ -21,5 +21,5 @@
     Kmper J, Kahmann R, Blker M, Ma LJ, Brefort T, Saville BJ, Banuett
     F, Kronstad JW, Gold SE, Mller O et al. 2006. Nature. 444:97-101.
 
-Picture credit: Picture credit:
+Picture credit:
 [Ninjatacoshell](http://en.wikipedia.org/wiki/File:Ustilago_maydis_diploid_teleospores_160X.png)

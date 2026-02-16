@@ -17,7 +17,7 @@ inject a neurotoxin that causes tick paralysis [1].
 
 Picture is of related species *D. occidentalis*.
 
-Picutre credit: [Creative Commons Attribution 2.0](https://creativecommons.org/licenses/by/2.0) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Dermacentor_occidentalis_-Harmony_Headlands_State_Park%2C_California%2C_USA-8.jpg)
+Picture credit: [Creative Commons Attribution 2.0](https://creativecommons.org/licenses/by/2.0) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Dermacentor_occidentalis_-Harmony_Headlands_State_Park%2C_California%2C_USA-8.jpg)
 
 Taxonomy ID [543639](https://www.uniprot.org/taxonomy/543639)
 

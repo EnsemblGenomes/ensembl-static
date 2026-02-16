@@ -14,4 +14,4 @@
     Papasotiriou DG, Zhou S, Seidl MF, Cottam E, Edel D et al. 2017.
     Molecular Plant Pathology. 1:75-89.
 
-Picture credit: ​Picture credit: Ninjatacoshell
+Picture credit: Ninjatacoshell
