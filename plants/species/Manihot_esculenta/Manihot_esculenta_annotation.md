@@ -1,22 +1,5 @@
 ### Annotation
 
-To produce the current [Cassava V6.1 gene
-set](https://phytozome.jgi.doe.gov/pz/portal.html#!info?alias=Org_Mesculenta),
-the homology-based gene prediction programs FgenesH and GenomeScan were
-used, along with the PASA program to integrate expression information
-from cassava ESTs and RNA-Seq.
+The *Manihot esculenta* v8 reference was annotated at DOE-JGI. To produce the current [Cassava V8.1 gene set](https://phytozome-next.jgi.doe.gov/info/Mesculenta_v8_1), the homology-based gene prediction programs FgenesH and GenomeScan were leveraged, along with the PASA program to integrate expression information from cassava ESTs and RNA-Seq.
 
-Transcript data from three sources were integrated. First, RNA-seq root
-and shoot tissues from Albert and Namikonga varieties, with and without
-challenge by CBSV 1x50 (1,055,722,008 initial reads, 895,271,180 reads
-after quality trimming) and 2x100 (340,899,946 initial reads;
-282,586,400 reads after quality trimming) reads were aligned to the
-genome and assembled with phytozome in-house software Pertran. This
-yielded 51,588 and 62,488 transcript assemblies from PE and SE reads
-respectively. These were aligned to the genome with PASA (90% identity
-and 60% coverage cutoffs) to make 69,624 aligned assemblies. In
-addition, ESTs from previous 454 sequencing were assembled with Pertran
-and added to 80,459 ESTs from GenBank and aligned to the genome with
-PASA (95% identity, 60% coverage) to generate 27,470 aligned assembles.
-
-Repeated sequences were called with the Repeat Detector, which is part of the [Ensembl Genomes repeat feature pipelines](https://plants.ensembl.org/info/genome/annotation/repeat_features.html). Repeats length: 245898519 - Repeats content: 42.2%
+Transcript assemblies (TAs) were constructed with PERTRAN from roughly three billion strand-specific and five billion standard paired-end Illumina RNA-seq read pairs and five million LS454 ESTs. Subsequently, 282,674 transcript assemblies were constructed from TAs above and ESTs with PASA. Protein-coding loci were inferred from TA alignments and protein homology to *Hevea brasiliensis*, *Jatropha curcas*, arabidopsis, soybean, poplar, peach, rice, sorghum, foxtail millet, tomato, grape, castor bean, and Swiss-Prot proteins. Gene model prediction leveraged the following homology-based methods: FGENESH+, FGENESH\_EST, and assembly sequence-based open-reading frames inferred by EXONERATE and refined with PASA. The best-scoring predictions for each locus were selected using a heuristic, rule-based method based on multiple positive factors, including EST and peptide coverages, homology scores, and mRNA expression levels. Negative factors included overlap with annotated genomic repeats, presence of known transposable element domains, and minimum single-exon coding sequence length. Filtered gene models were then improved with PASA to refine splice sites and add UTRs and alternative transcripts. This v8.1 annotation represents 32,447 protein-coding gene loci and, using BUSCO v3 benchmarking, is estimated to be 99.2% complete, with only 0.2% of BUSCO genes fragmented and 0.6% missing (eudicotyledons_odb10, N=2,121).

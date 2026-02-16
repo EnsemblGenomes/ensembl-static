@@ -6,4 +6,4 @@
     Twardziok, Karin R. Deal, Naxin Huo, Tingting Zhu, Le Wang, Yi Wang
     et al. 2017. Nature. 551:498502.
 
-Picture credit: Wikimedia Commons, the free media repository
+Picture credit: [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Aegilops_tauschii_ARS-1.jpg)

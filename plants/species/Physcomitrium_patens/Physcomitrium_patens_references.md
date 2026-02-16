@@ -12,5 +12,5 @@
     Rensing SA, Lang D, Zimmer AD, Terry A, Salamov A, Shapiro H,
     Nishiyama T, Perroud PF, Lindquist EA, Kamisugi Y et al. 2008.
     Science. 319:64-69.
-3.  Image credit: Pirex at en.wikipedia \[Public domain\], from
-    Wikimedia Commons.\
+
+Picture credit: By HermannSchachner, [CC0](https://creativecommons.org/publicdomain/zero/1.0/), via Wikimedia Commons[(Image source)](https://commons.wikimedia.org/wiki/File:Physcomitrium_patens_(b,_144719-481022)_7166.JPG)
