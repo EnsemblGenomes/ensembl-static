@@ -8,3 +8,5 @@
     Raz Avni, Moran Nave, Omer Barad, Kobi Baruch, Sven O. Twardziok,
     Heidrun Gundlach, Iago Hale, Martin Mascher, Manuel Spannagl,
     Krystalee Wiebe et al. 2017. Science. 357:93-97.
+
+Picture credit: By Dominique Jacquin, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons[(Image source)](https://commons.wikimedia.org/wiki/File:Dicoccon.jpg)

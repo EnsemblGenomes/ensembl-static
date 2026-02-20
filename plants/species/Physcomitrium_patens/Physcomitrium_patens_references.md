@@ -12,5 +12,5 @@
     Rensing SA, Lang D, Zimmer AD, Terry A, Salamov A, Shapiro H,
     Nishiyama T, Perroud PF, Lindquist EA, Kamisugi Y et al. 2008.
     Science. 319:64-69.
-3.  Image credit: Pirex at en.wikipedia \[Public domain\], from
-    Wikimedia Commons.\
+
+Picture credit: By Pirex, [Public Domain](https://commons.wikimedia.org/wiki/Main_Page), via Wikimedia Commons[(Image source)](https://commons.wikimedia.org/wiki/File:Physcomitrella.jpg)
