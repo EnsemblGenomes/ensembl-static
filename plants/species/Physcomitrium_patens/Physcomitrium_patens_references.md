@@ -13,4 +13,4 @@
     Nishiyama T, Perroud PF, Lindquist EA, Kamisugi Y et al. 2008.
     Science. 319:64-69.
 
-Picture credit: By HermannSchachner, [CC0](https://creativecommons.org/publicdomain/zero/1.0/), via Wikimedia Commons[(Image source)](https://commons.wikimedia.org/wiki/File:Physcomitrium_patens_(b,_144719-481022)_7166.JPG)
+Picture credit: By Pirex, [Public Domain](https://commons.wikimedia.org/wiki/Main_Page), via Wikimedia Commons[(Image source)](https://commons.wikimedia.org/wiki/File:Physcomitrella.jpg)
