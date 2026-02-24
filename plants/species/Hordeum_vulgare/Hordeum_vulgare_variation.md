@@ -17,7 +17,7 @@ The following variation datasets were remapped from assembly IBSC_v2 to MorexV3:
     84 Oregon Wolfe barley
     individuals](https://europepmc.org/abstract/MED/24243933).
 5.  SNPs from the [Illumina iSelect 9k barley SNP
-    chip](https://bioinf.hutton.ac.uk/iselect/app/index.pl). \~2,600
+    chip](https://bioinf.hutton.ac.uk/). \~2,600
     mapped [genetic markers associated with these
     SNPs](https://europepmc.org/abstract/MED/23998490) are also
     displayed.

@@ -64,7 +64,7 @@ In addition to the EMS-type variants, there are additional KASP markers from the
 These 710 KASP markers were developed from SNPs between wheat and ten wild relative species (Ambylopyrum muticum, Aegilops caudata, Aegilops speltoides, Secale cereale, Thinopyrum bessarabicum, Thinopyrum intermedium, Thinopyrum elongatum, Thinopyrum ponticum, Triticum timopheevii and Triticum urartu). These SNPs were aligned to the assembly by the WRC using the marker sequences and Blastn E-value cutoff value of 1e-05. Of these, 620 markers are genome-specific in design and thus, those SNPs have been aligned to their chromosome of specificity. Where the KASP markers are genome-nonspecific, the top Blast hit was selected for SNP alignment [10].
 
 **Exome Capture Diversity 2019**
-[3,039,822](https://wheatgenomics.plantpath.ksu.edu/1000EC/) markers were loaded from 890 diverse wheat landraces and cultivars [14]
+3,039,822 markers were loaded from 890 diverse wheat landraces and cultivars [14]
 
 **Linkage Disequilibrium (LD) data**
 
