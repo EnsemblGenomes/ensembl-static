@@ -10,3 +10,5 @@
     Samuel E. Fox, Justin Preece, Jeffrey A. Kimbrel, Gina L. Marchini,
     Abigail Sage, Ken Youens-Clark, Mitchell B. Cruzan, and Pankaj
     Jaiswal. 2013. Applications in Plant Sciences. 1(3):1200011.
+
+Picture credit: Matt Lavin from Bozeman, Montana, USA, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons

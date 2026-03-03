@@ -3,7 +3,7 @@
 This browser is based on data from
 [Araport11](https://www.araport.org/data/araport11) gene annotation, a
 comprehensive reannotation of the TAIR10 genome, released June, 2016.
-This annotation annotation was constructed using [113 public
+This annotation was constructed using [113 public
 RNA-seq](https://www.araport.org/113-rna-seq-sets-used-araport11) data
 sets along with annotation contributions from NCBI, UniProt, and
 laboratories conducting *Arabidopsis thaliana* research. Details of the

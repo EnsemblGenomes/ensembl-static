@@ -7,3 +7,5 @@
     Pimchanok Satapoomin, Jiaying Huang, Megan Bowman, Marina Iovene,
     Walter Sanseverino, Pablo Cavagnaro et al. 2016. Nature Genetics.
     48:657666.
+
+Picture credit: jules / stone soup, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons
