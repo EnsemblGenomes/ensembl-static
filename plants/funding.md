@@ -12,10 +12,10 @@ ELIXIR implementation study [FONDUE - FAIR-ification of Plant Genotyping Data an
 
 ### Past Funding
 
-[transPLANT](https://transplantdb.eu), funded by the [European Commission](https://ec.europa.eu/index_en.htm) within its [7th Framework Programme](https://cordis.europa.eu/fp7/home_en.html), under the thematic area "Infrastructures", contract number [283496](https://cordis.europa.eu/project/id/283496).
+[transPLANT](https://transplantdb.eu), funded by the [European Commission](https://commission.europa.eu/index_en) within its [7th Framework Programme](https://cordis.europa.eu/fp7/home_en.html), under the thematic area "Infrastructures", contract number [283496](https://cordis.europa.eu/project/id/283496).
 
 <p class="rtecenter"><a href="https://transplantdb.eu/"><img alt="transPLANT logo" src="/img/transPLANT_logo_small.jpg" style="height:80px; vertical-align:middle" /></a> <img alt="The European flag" src="/img/flag_yellow_low.jpg" style="height:60px; vertical-align:middle; width:88px" /></p>
 
-BBSRC funding for wheat ([Triticeae Genomics For Sustainable Agriculture](https://www.wheatgenome.org.uk/)) and barley ([UK barley genome sequencing project](https://www.barleygenome.org.uk)).
+BBSRC funding for wheat ([Triticeae Genomics For Sustainable Agriculture](https://www.wheatgenome.org/)) and barley ([UK barley genome sequencing project](https://barleyhub.org/)).
 
 ELIXIR implementation study [Apple as a Model for Genomic Information Exchange](https://elixir-europe.org/about-us/commissioned-services/apple-genomic-information).

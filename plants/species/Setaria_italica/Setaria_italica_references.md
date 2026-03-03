@@ -10,4 +10,6 @@
     potential](https://europepmc.org/abstract/MED/22580950).\
     Zhang G, Liu X, Quan Z, Cheng S, Xu X, Pan S, Xie M, Zeng P, Yue Z,
     Wang W et al. 2012. Nat. Biotechnol.. 30:549-554.
-3.  Image credit: Markus Hagenlocher, via WikiCommons.\
+
+Picture credit: By Andrea Moro, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Setaria_italica_flower_(04).jpg)
+

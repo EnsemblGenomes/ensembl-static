@@ -1,20 +1,3 @@
 ### Annotation
 
-[JCVI](https://europepmc.org/abstract/MED/24767513) published the current
-gene set in 2014. Altogether, Pseudomolecules and unassigned BACs
-contain a total of 50,444 protein-coding gene loci (\~31,500 high
-confidence genes and \~19,000 low confidence genes). The pseudomolecules
-were annotated by combining Mt3.5 gene models, with predictions from
-[Augustus](https://bioinf.uni-greifswald.de/augustus/) and
-[FGENESH](https://www.molquest.com/help/2.3/programs/Fgenesh/description.html)
-as well as expression data and protein matches primarily using [Evidence
-Modeler (EVM)](https://evidencemodeler.sourceforge.net/). Whenever
-possible, gene identifiers have been preserved between Mt3.5 and Mt4.0.
-
-Additional analysis was carried out in house: non coding RNA genes have
-been annotated using
-[tRNAScan-SE](https://europepmc.org/articles/PMC146525),
-[Rfam](https://europepmc.org/abstract/MED/15608160), and
-[RNAmmer](https://europepmc.org/articles/PMC1888812).
-
-Repeated sequences were called with the Repeat Detector, which is part of the [Ensembl Genomes repeat feature pipelines](https://plants.ensembl.org/info/genome/annotation/repeat_features.html). Repeats length: 134713950 - Repeats content: 32.6%
+Gene models were predicted by the plant genome annotation pipeline [egn-ep](https://eugene.toulouse.inra.fr/) release 1.4. Four protein databases were aligned with blastx to detect the translated regions: TAIR10, Swiss-Prot (October 2016), a plant subset of Uniprot proteins (October 2016) and the proteome of Brachypodium distachyon release 192. Non-coding RNA genes were detected based on the transcriptomic data performed by EuGene and also predicted by tRNAScan-SE, RNAMMER and infernal 1.1.2. Finally, 44,623 protein-coding genes, 974 tRNAs, 62 rRNAs and 5,657 lncRNAs were annotated in the [release 1.6](https://medicago.toulouse.inra.fr/MtrunA17r5.0-ANR/) with 24,645 full-length transposable elements. A putative function was assigned to 31,362 proteins and 13,261 proteins were tagged as ‘hypothetical proteins’.

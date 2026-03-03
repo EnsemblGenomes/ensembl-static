@@ -1,6 +1,6 @@
 ### Annotation
 
-The gene annotations were produced with the CSHL gene pipeline developed under the [NAM project](https://nam-genomes.org). 
+The gene annotations were produced with the CSHL gene pipeline developed under the [NAM project](https://nam-genomes.github.io/). 
 In summary, it is an automated, evidence-based method combining third-party software including Mikado, BRAKER and PASA. 
 Gene models were filtered by conservation and Maker Annotation Edit Distance (AED) score, 
 and then classified into protein_coding and misc_non-coding sets.
