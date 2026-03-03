@@ -8,8 +8,4 @@
     genomes](https://europepmc.org/abstract/MED/17332020).\
     Parra G, Bradnam K, Korf I. 2007. Bioinformatics. 23:1061.
 
-Picture credit: By Luigi Chiesa (Scan by Luigi Chiesa) \[GFDL
-(<https://www.gnu.org/copyleft/fdl.html>), CC-BY-SA-3.0
-(<https://creativecommons.org/licenses/by-sa/3.0/>) or CC BY-SA 2.0 it
-(<https://creativecommons.org/licenses/by-sa/2.0/it/deed.en>)\], via
-Wikimedia Commons
+Picture credit: By Apurv013, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:Corchorus_capsularis_-_white_jute_3.jpg)
