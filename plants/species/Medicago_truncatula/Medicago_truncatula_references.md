@@ -1,12 +1,9 @@
 ### References
 
-1.  [The Medicago genome provides insight into the evolution of
-    rhizobial symbioses](https://europepmc.org/abstract/MED/22089132).\
-    Young N,Debell F,Oldroyd GED,Geurts R, Cannon ED,Udvardi MK,Benedito
-    VA,Mayer KFX,Gouzy J,Schoof H et al. 2011. Nature. 480:520-524.
-2.  [An improved genome release (version Mt4.0) for the model legume
-    Medicago truncatula](https://europepmc.org/abstract/MED/24767513).\
-    Tang H, Krishnakumar V, Bidwell S, Rosen B, Chan A, Zhou S,
-    Gentzbittel L, Childs KL, Yandell M, Gundlach H et al. 2014. BMC
-    Genomics. 15:312.
-3.  Image from WikiCommons.\
+1.  [The Medicago genome provides insight into the evolution of rhizobial symbioses](https://europepmc.org/abstract/MED/22089132).\
+    Young N,Debell F,Oldroyd GED,Geurts R, Cannon ED,Udvardi MK,Benedito VA,Mayer KFX,Gouzy J,Schoof H et al. 2011. Nature.      480:520-524.
+
+2.  [Whole-genome landscape of Medicago truncatula symbiotic genes](https://doi.org/10.1038/s41477-018-0286-7).\
+    Pecrix, Y., Staton, S.E., Sallet, E. et al. *Nature Plants* 4, 1017–1025 (2018). https://doi.org/10.1038/s41477-018-0286-7
+
+Picture credit: By Ninjatacoshell, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons[(Image source)](https://commons.wikimedia.org/wiki/File:Medicago_truncatula_A17_branch.JPG)

@@ -7,6 +7,4 @@
     Nixon J, Krishnakumar V, Bidwell SL et al. 2014. Genome Biol..
     15:R77.
 
-Picture credit: \"Fractal Broccoli\" by Jon Sullivan. Licensed under
-Public domain via [Wikimedia
-Commons](https://commons.wikimedia.org/wiki/).
+Picture credit: "Fractal Broccoli" by Jon Sullivan. Licensed under Public domain via [Wikimedia Commons](https://commons.wikimedia.org/wiki/).
