@@ -19,5 +19,6 @@
     Verena M. Prade, Sara G. Milner et al. 2019. Nature Genetics.
     51:885895.
 
+Picture credit: Aalang, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons
 
 

@@ -5,3 +5,5 @@
     domestication](https://europepmc.org/abstract/MED/24908277).\
     GA Wu, S Prochnik, J Jenkins et al . 2014. Nature Biotechnology.
     32:656662.
+
+Picture credit: fotogoocom, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons
