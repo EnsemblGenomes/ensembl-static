@@ -3,10 +3,7 @@
 #### Links (*Brachypodium distachyon*)
 
 -   [Gramene species page for
-    Brachypodium](https://www.gramene.org/Brachypodium_distachyon/Info/Index)
--   [The International Brachypodium Initiative (IBI) community
-    portal](https://www.brachypodium.org)
--   [The John Innes Centre ModelCrop.org](https://www.modelcrop.org)
+    Brachypodium](http://www.gramene.org/Brachypodium_distachyon/Info/Index)
 -   [MIPS Brachypodium genome
     database](https://mips.helmholtz-muenchen.de/plant/brachypodium/)
 -   [Phytozome entry page for *Brachypodium
