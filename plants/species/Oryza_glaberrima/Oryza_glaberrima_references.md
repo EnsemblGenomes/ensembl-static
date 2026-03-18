@@ -37,3 +37,5 @@
     rices](https://europepmc.org/abstract/MED/20333229).\
     Roulin A, Chaparro C, Pigu B, Jackson S, Panaud O. 2010. Genome Biol
     Evol. 2:132-139.
+
+Picture credit: Superior National Forest, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons

@@ -7,3 +7,5 @@
     Goicoechea J, Liang C et al. 2013. Nat Commun. 4:1595.
 2.  MED/29358651 
 3.  MED/23518283
+
+Picture credit: Superior National Forest, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons

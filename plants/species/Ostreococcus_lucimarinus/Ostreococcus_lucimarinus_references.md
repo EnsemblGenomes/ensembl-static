@@ -6,3 +6,5 @@
     Palenik B, Grimwood J, Aerts A, Rouz P, Salamov A, Putnam N, Dupont
     C, Jorgensen R, Derelle E, Rombauts S et al. 2007. Proc. Natl. Acad.
     Sci. U.S.A.. 104:7705-7710.
+
+Picture credit: Penwills, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
