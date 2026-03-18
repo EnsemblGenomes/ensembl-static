@@ -8,3 +8,5 @@
     Garg, Craig A. Atkins, Philipp E. Bayer, Armando Bravo, Scott
     Bringans, Steven Cannon et al. 2016. Plant Biotechnology Journal.
     15:318-330.
+
+Picture credit: SAplants, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons

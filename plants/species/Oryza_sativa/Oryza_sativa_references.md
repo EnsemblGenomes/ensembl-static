@@ -44,3 +44,5 @@
     duplications](https://europepmc.org/abstract/MED/15685292).\
     Yu J, Wang J, Lin W, Li S, Li H, Zhou J, Ni P, Dong W, Hu S, Zeng C
     et al. 2005. PLoS Biol.. 3:e38.
+
+Picture credit: By Douglas Paul Perkins, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons [(Image_source)](https://commons.wikimedia.org/wiki/File:Rice_plant.jpg)

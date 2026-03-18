@@ -19,3 +19,5 @@
     Raz Avni, Moran Nave, Tamar Eilam, Hanan Sela, Chingiz Alekperov,
     Zvi Peleg, Jan Dvorak, Abraham Korol, Assaf Distelfeld. 2014.
     Molecular Breeding. 34:15491562.
+
+Picture credit: Muséum de Toulouse, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons

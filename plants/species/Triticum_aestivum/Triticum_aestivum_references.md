@@ -71,3 +71,5 @@
 	Cheng, S., Feng, C., Wingen, L.U. et al. 2024. Nature 632, 823–831.
 16. [Development of a next generation SNP genotyping array for wheat](https://doi.org/10.1111/pbi.14341).\
 	Burridge, A.J., Winfield, M., Przewieslik-Allen, A., Edwards, K.J., Siddique, I., Barral-Arca, R., Griffiths, S., Cheng, S., Huang, Z., Feng, C., Dreisigacker, S., Bentley, A.R., Brown-Guedira, G. and Barker, G.L. 2024. Plant Biotechnol. J, 22: 2235-2247. 
+
+Picture credit: Shree Krishna Dhital, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons [(Image_source)](https://commons.wikimedia.org/wiki/File:Wheat_Plants.JPG)
