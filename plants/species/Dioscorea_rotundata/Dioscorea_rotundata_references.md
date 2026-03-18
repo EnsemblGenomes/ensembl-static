@@ -9,3 +9,5 @@
 2. [Genome analyses reveal the hybrid origin of the staple crop white Guinea yam (Dioscorea rotundata).](https://www.pnas.org/doi/full/10.1073/pnas.2015830117)  
 Yu Sugihara, Hiroki Yaegashi, Satoshi Natsume, Motoki Shimizu, Akira Abe, Akiko Hirabuchi, Kazue Ito, Kaori Oikawa, Muluneh Tamiru-Oli, Atsushi Ohta, Ryo Matsumoto, Paterne Agre, David De Koeyer, Babil Pachakkil, Shinsuke Yamanaka, Satoru Muranaka, Hiroko Takagi, Ben White, Robert Asiedu, Hideki Innan, Asrat Asfaw, Patrick Adebola and Ryohei Terauchi
    2020. PNAS, 117 (50) 31987-31992
+
+Picture credit: Akadeby, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons
