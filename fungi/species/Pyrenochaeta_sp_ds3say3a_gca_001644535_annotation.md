@@ -9,4 +9,4 @@ The annotation presented is derived from annotation submitted to
 with additional non-coding genes derived from
 [Rfam](http://rfam.xfam.org/). For more details, please visit [INSDC
 annotation
-import](http://ensemblgenomes.org/info/data/insdc_annotation).
+import](/info/genome/annotation/insdc_annotation/index.html).
