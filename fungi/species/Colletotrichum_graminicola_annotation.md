@@ -7,7 +7,7 @@ The assembly and protein coding gene annotation of the *Colletotrichum*
 EMBL-Bank as the WGS project
 [ACOD00000000](http://www.ebi.ac.uk/ena/data/view/ACOD00000000). Funding
 for the assembly and annotation was provided by the National Institute
-of Food and Agriculture ([NIFA](http://www.nifa.usda.gov/index.html))
+of Food and Agriculture ([NIFA](https://www.nifa.usda.gov/))
 through the NSF/USDA Microbial Genome Sequencing Program.
 
 Non-coding RNA genes have been annotated using tRNAScan-SE (Lowe, T.M.

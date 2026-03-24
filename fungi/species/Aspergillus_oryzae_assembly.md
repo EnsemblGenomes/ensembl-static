@@ -1,5 +1,5 @@
 The [National Institute of Technology and Evaluation (NITE),
-Japan](http://www.bio.nite.go.jp/dogan/MicroTop?GENOME_ID=ao) and the
+Japan](https://www.nite.go.jp/en/nbrc/genome/project/annotation/rib40.html) and the
 [National Institute of Advanced Industrial Science and Technology
 (AIST), Japan](http://www.aist.go.jp/index_en.html), in collaboration
 with other members of the *A. oryzae* Genome Analysis Consortium,

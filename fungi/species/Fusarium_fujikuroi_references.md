@@ -12,6 +12,6 @@ Picture credit: This is image
 [1436003](http://www.ipmimages.org/browse/detail.cfm?imgnum=1436003) at
 [IPM Images](http://www.ipmimages.org/), a image bank operated by the
 [CISEH](http://www.bugwood.org/index.cfm),
-[CSU](http://www.ext.colostate.edu/), [USDA
+[CSU](https://www.colostate.edu/), [USDA
 CSREES](http://www.sripmc.org/) and the [Southern Plant Diagnostic
 Networ](http://www.sepdn.org/DesktopDefault.aspx)k.
