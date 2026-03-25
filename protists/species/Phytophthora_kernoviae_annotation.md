@@ -1,7 +1,6 @@
 Protein coding gene annotation was done by the University of Exeter and
 Science and Advice for Scottish Agriculture (SASA) and the data was
-provided by [Exeter Centre for Emerging Plant
-Disease](http://www.excepd.org/).
+provided by Exeter Centre for Emerging Plant Disease.
 
 Non coding RNA genes have been annotated using tRNAScan-SE (Lowe, T.M.
 and Eddy, S.R. 1997), RFAM (Griffiths-Jones et al 2005), and RNAmmer
