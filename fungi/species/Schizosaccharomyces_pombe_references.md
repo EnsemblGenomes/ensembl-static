@@ -9,5 +9,3 @@
     Jeffares DC, Rallis C, Rieux A, Speed D, Pevorovsk M, Mourier T,
     Marsellach FX, Iqbal Z, Lau W, Cheng TM et al. 2015. Nat. Genet..
     47:235-241.
-
-Picture credit: Picture credit: [Paul Young](http://www.paulgyoung.com)
