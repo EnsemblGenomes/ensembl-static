@@ -1,4 +1,4 @@
-The Department of Energy (DOE) Joint Genome Institute
+The Department of Energy (DOE) [Joint Genome Institute
 (JGI)](http://genome.jgi-psf.org/Aspni1/Aspni1.home.html) sequenced the
 genome of *Aspergillus niger* strain ATCC 1015 at 8.9X coverage using whole genome shotgun
 (WGS) sequencing. The version 3.0 of the assembly (June 30, 2008)

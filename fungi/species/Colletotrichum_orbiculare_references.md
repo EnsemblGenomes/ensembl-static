@@ -11,6 +11,6 @@ This image
 [5076064](http://www.ipmimages.org/browse/detail.cfm?imgnum=5076064) at
 [IPM Images](http://www.ipmimages.org/), a image bank operated by the
 [CISEH](http://www.bugwood.org/index.cfm),
-[CSU](http://www.ext.colostate.edu/), [USDA
+[CSU](https://www.colostate.edu/), [USDA
 CSREES](http://www.sripmc.org/) and the [Southern Plant Diagnostic
 Network](http://www.sepdn.org/DesktopDefault.aspx).
