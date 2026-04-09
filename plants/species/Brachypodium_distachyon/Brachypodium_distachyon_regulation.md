@@ -18,10 +18,10 @@ Wheat RNA-Seq, EST and UniGene datasets have been aligned to the
 -   454 Wheat RNA-seq data, from the study,
     [ERP001415](https://www.ebi.ac.uk/ena/data/view/ERP001415), were
     aligned using
-    [GMAP](https://www.molecularevolution.org/software/genomics/gmap).
+    [GMAP](https://europepmc.org/article/MED/15728110).
 -   All publicly available Wheat EST data were aligned using
-    [Exonerate](https://www.ebi.ac.uk/%7Eguy/exonerate/), following the
+    [Exonerate](https://europepmc.org/article/MED/15713233), following the
     standard Ensembl pipeline.
 -   Wheat UniGene cluster sequence data were aligned using
-    [Exonerate](https://www.ebi.ac.uk/%7Eguy/exonerate/), following the
+    [Exonerate](https://europepmc.org/article/MED/15713233), following the
     standard Ensembl pipeline.

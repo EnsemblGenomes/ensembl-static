@@ -5,9 +5,9 @@
 -   [Gramene species page for
     Brachypodium](https://www.gramene.org/Brachypodium_distachyon/Info/Index)
 -   [MIPS Brachypodium genome
-    database](https://mips.helmholtz-muenchen.de/plant/brachypodium/)
+    database](https://europepmc.org/article/MED/27987163)
 -   [Phytozome entry page for *Brachypodium
-    distachyon*](https://www.phytozome.net/brachy.php)
+    distachyon*](https://phytozome-next.jgi.doe.gov/info/Bdistachyon_v3_1)
 -   [Jaiswal Lab at Oregon State
     University](https://jaiswallab.cgrb.oregonstate.edu/genomics/brasy)
 -   [INSDC project
@@ -15,8 +15,6 @@
 
 #### Links (*Triticum aestivum*)
 
--   [MIPS Wheat Genome
-    Database](https://mips.helmholtz-muenchen.de/plant/wheat/uk454survey/index.jsp)
 -   ENA study [ERP000319](https://www.ebi.ac.uk/ena/data/view/ERP000319):
     454 pyrosequencing of the *Triticum aestivum* (bread wheat) genome
     to 5X coverage
@@ -25,6 +23,6 @@
     spring cDNA samples from a pool of tissues, from plants under
     drought stress and from circadian-sampled leaves
 -   *Triticum aestivum* ESTs at
-    [ENA](https://www.ebi.ac.uk/ena/data/warehouse/search?query=%22dataclass=%22EST%22%20AND%20tax_eq%284565%29%22&domain=sequence)
+    [ENA](https://www.ebi.ac.uk/ena/browser/advanced-search?query=%22dataclass=%22est%22%20AND%20tax_eq%284565%29%22&domain=sequence)
 -   *Triticum aestivum* UniGene cluster sequences at
     [NCBI](https://www.ncbi.nlm.nih.gov/unigene/?term=txid4565%5BOrganism%3Anoexp%5D)
