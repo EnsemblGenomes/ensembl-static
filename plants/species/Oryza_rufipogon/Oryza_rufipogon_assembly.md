@@ -2,4 +2,4 @@
 
 The sequencing and assembly was done by Dr. [Bin
 Han](http://english.cemps.cas.cn/sourcedb/pe/202408/t20240821_683529.html)\'s group in Shanghai
-Institutes for Biological Sciences, CAS.
+Institutes for Biological Sciences, [CAS](https://english.cas.cn/).
