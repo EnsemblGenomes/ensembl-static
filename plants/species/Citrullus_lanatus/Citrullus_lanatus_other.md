@@ -1,3 +1,3 @@
 ### Links
 
-[cucurbitgenomics.org](http://cucurbitgenomics.org/v2/)
+[cucurbitgenomics.org](http://cucurbitgenomics.org)
