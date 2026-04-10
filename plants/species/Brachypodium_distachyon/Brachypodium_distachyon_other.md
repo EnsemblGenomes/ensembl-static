@@ -4,8 +4,6 @@
 
 -   [Gramene species page for
     Brachypodium](https://www.gramene.org/Brachypodium_distachyon/Info/Index)
--   [MIPS Brachypodium genome
-    database](https://europepmc.org/article/MED/27987163)
 -   [Phytozome entry page for *Brachypodium
     distachyon*](https://phytozome-next.jgi.doe.gov/info/Bdistachyon_v3_1)
 -   [Jaiswal Lab at Oregon State
