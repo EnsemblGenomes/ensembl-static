@@ -1,7 +1,7 @@
 **Annotation**
 ----------
 
-Metazoa displaying genes imported from GenBank entry linked to the assembly with accession [GCA\_010183535.1](http://www.ebi.ac.uk/ena/data/view/GCA_010183535.1).
+Ensembl Metazoa displaying genes imported from GenBank entry linked to the assembly with accession [GCA\_010183535.1](http://www.ebi.ac.uk/ena/data/view/GCA_010183535.1).
 
 Genomic annotation was deposited along with initial assembly submission by "University of Oregon".
 

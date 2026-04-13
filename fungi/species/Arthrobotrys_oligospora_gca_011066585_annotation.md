@@ -7,4 +7,4 @@ The annotation presented is derived from annotation submitted to
 (http://www.ebi.ac.uk/ena/data/view/GCA_011066585.1),
 with additional non-coding genes from
 [Rfam](http://rfam.xfam.org/). For more details, please visit [INSDC
-annotation import](http://ensemblgenomes.org/info/data/insdc_annotation).
+annotation import](/info/genome/annotation/insdc_annotation/index.html).

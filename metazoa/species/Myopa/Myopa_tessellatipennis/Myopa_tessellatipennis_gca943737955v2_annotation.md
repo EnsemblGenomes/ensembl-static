@@ -1,7 +1,7 @@
 **Annotation**
 ----------
 
-Metazoa displaying genes linked to the assembly with accession [GCA\_943737955.2](http://www.ebi.ac.uk/ena/data/view/GCA_943737955.2).
+Ensembl Metazoa displaying genes linked to the assembly with accession [GCA\_943737955.2](http://www.ebi.ac.uk/ena/data/view/GCA_943737955.2).
 
 Genomic assembly deposited to the INSDC by [Wellcome Sanger Institute](https://www.sanger.ac.uk/). Genome annotation performed by Ensembl as part of the
 partnership with the [Darwin Tree of Life (DToL)](https://www.darwintreeoflife.org/) project.

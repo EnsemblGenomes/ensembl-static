@@ -7,6 +7,6 @@
     M, Kazan K, Chakraborty S, McDonald BA, Manners JM. 2012. PLoS
     Pathog.. 8:e1002952.
 
-Picture credit: [CSIRO](http://www.csiro.au/): [White heads of wheat
+Picture credit: [CSIRO](http://www.csiro.au/): White heads of wheat
 caused by fusarium crown
-rot.](http://www.scienceimage.csiro.au/image/11263/white-heads-of-wheat-caused-by-fusarium-crown-rot/)
+rot.

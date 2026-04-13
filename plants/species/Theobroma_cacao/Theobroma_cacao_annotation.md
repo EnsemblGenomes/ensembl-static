@@ -24,7 +24,7 @@ genome gene prediction sets were produced with
 training of this predictor on cacao transcripts, by varying proportions
 of this gene evidence and parameters.
 
-[EvidentialGene](https://arthropods.eugenes.org/EvidentialGene/) software
+[EvidentialGene](http://arthropods.eugenes.org/EvidentialGene/) software
 is used to annotate, score and classify gene assemblies and models with
 weighted evidence scores. This includes heuristics to identify and
 reduce gene-joins and fragment models. Highest evidence-scored models or

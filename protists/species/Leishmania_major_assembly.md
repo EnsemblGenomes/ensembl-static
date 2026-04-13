@@ -6,11 +6,8 @@ karyotype of 36 chromosomes. The Pathogen Genomics group at the Wellcome
 Trust Sanger Institute played a major role by sequencing 24 of the
 chromosomes. The others were sequenced by SBRI (Seattle, USA) and
 EULEISH consortium. For further details about the sequencing of *L.
-major* see *Ivens et al
-(2005)](http://europepmc.org/abstract/MED/16020728)*
-[[1]](http://europepmc.org/abstract/MED/16020728). Details of the
-centres involved and which chromosomes they sequenced, are given
-[here](http://www.sanger.ac.uk/Projects/L_major/who&where.shtml). The
+major* see *[Ivens et al
+(2005)](https://europepmc.org/abstract/MED/16020728)*. The
 sequence data were obtained by several parallel approaches, including
 complete cosmid sequencing, whole chromosome shotguns and/or BAC
 sequencing/skimming. The assembly is available from the
