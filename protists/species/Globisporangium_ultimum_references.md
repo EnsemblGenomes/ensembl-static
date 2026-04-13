@@ -6,7 +6,8 @@
     Lvesque CA, Brouwer H, Cano L, Hamilton JP, Holt C, Huitema E,
     Raffaele S, Robideau GP, Thines M, Win J et al. 2010. Genome Biol..
     11:R73.
-2.  [Pythium Genome Database](http://pythium.plantbiology.msu.edu).\
+2.  [Pythium Genome Database](https://web.archive.org/web/20100614104152/http://pythium.plantbiology.msu.edu/)
+    archived at the [Wayback Machine](https://web.archive.org/).
 3.  [Genome sequence of the necrotrophic plant pathogen Pythium ultimum
     reveals original pathogenicity mechanisms and effector
     repertoire](http://europepmc.org/abstract/MED/20626842).\

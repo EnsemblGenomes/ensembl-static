@@ -17,7 +17,7 @@ the LC genes [1].
 98,270 high confidence genes from the 
 [TGACv1 annotation](https://europepmc.org/abstract/MED/28420692) were aligned to
 the assembly using
-[Exonerate](https://www.ebi.ac.uk/about/vertebrate-genomics/software/exonerate).
+[Exonerate](https://europepmc.org/article/MED/15713233).
 For each gene up to three alignments are displayed, compromising 196,243
 alignments of which 90,686 are protein coding.
 

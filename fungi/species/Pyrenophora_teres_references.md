@@ -6,4 +6,4 @@
     Oliver RP, Friesen TL. 2010. Genome Biol.. 11:R109.
 
 Picture credit: Alison Testa - [Curtin
-University](http://acnfp.curtin.edu.au/)
+University](https://www.curtin.edu.au/)

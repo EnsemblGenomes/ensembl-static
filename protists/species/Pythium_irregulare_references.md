@@ -1,6 +1,7 @@
 ### References
 
-1.  [Pythium Genome Database](http://pythium.plantbiology.msu.edu).\
+1.  [Pythium Genome Database](https://web.archive.org/web/20100614104152/http://pythium.plantbiology.msu.edu/)
+    archived at the [Wayback Machine](https://web.archive.org/).
 2.  [Genome sequence of the necrotrophic plant pathogen Pythium ultimum
     reveals original pathogenicity mechanisms and effector
     repertoire](http://europepmc.org/abstract/MED/20626842).\

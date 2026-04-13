@@ -2,7 +2,7 @@
 
 The genome annotation for Cyanidioschyzon merolae has been imported from
 [Cyanidioschyzon merolae Genome
-project](https://merolae.biol.s.u-tokyo.ac.jp/intro_menu.html) by mapping
+project](http://czon.jp/intro_menu.html) by mapping
 cDNA clones using BLAST and *ab initio* prediction of ORFs by searching
 known motifs and domains.
 

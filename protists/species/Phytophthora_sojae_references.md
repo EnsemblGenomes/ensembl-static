@@ -14,5 +14,5 @@
     Microbe Interact.. 20:781-793.
 
 Picture credit: [Nicholls H: Stopping the Rot. PLoS Biol 2/7/2004:
-e213M](http://www.plosbiology.org/article/info:doi/10.1371/journal.pbio.0020213)
+e213M](https://europepmc.org/article/MED/15252456)
 Reproduced courtesy of Matteo Garbelotto, UC Berkeley.
