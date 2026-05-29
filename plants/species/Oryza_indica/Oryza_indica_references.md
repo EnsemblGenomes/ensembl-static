@@ -10,4 +10,4 @@
     Zhao W, Wang J, He X, Huang X, Jiao Y, Dai M, Wei S, Fu J, Chen Y,
     Ren X et al. 2004. Nucleic Acids Res.. 32:D377-82.
 
-Picture credit: Sudeshna Banerjee, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons
+Picture credit: Gaurav Dhwaj Khadka, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
