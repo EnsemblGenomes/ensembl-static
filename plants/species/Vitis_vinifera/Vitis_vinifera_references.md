@@ -6,4 +6,4 @@
 
 - [Rapid genomic characterization of the genus vitis](https://europepmc.org/abstract/MED/20084295).\ Myles S, Chia JM, Hurwitz B, Simon C, Zhong GY, Buckler E, Ware D. 2010. PLoS ONE. 5(1):e8219.
 
-Picture credit: [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0/) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Cabernet_Sauvignon_Gaillac.jpg)
+Picture credit: By Aryo Priyadi, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
