@@ -5,6 +5,4 @@
     Kang YJ, Satyawan D, Shim S, Lee T, Lee J, Hwang WJ, Kim SK, Lestari
     P, Laosatit K, Kim KH et al. 2015. Sci Rep. :8069.
 
-Picture credit: By Sanjay Acharya \[CC BY-SA 3.0
-(<https://creativecommons.org/licenses/by-sa/3.0>) or GFDL
-(<https://www.gnu.org/copyleft/fdl.html>)\], from Wikimedia Commons
+Picture credit: By Sanjay Acharya, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons

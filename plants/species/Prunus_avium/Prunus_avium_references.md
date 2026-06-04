@@ -6,4 +6,4 @@
     Shirasawa K, Isuzugawa K, Ikenaga M, Saito Y, Yamamoto T, Hirakawa
     H, Isobe S. 2017. DNA Research. 24(5):499-508.
 
-Picture credit: Jean-Pol GRANDMONT, CC BY 3.0
+Picture credit: By Olazabalbhi, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
