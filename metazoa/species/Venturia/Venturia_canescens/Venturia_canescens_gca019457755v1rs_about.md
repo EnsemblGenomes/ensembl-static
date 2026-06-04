@@ -3,7 +3,7 @@
 
 Venturia is a genus of parasitoid wasps belonging to the family Ichneumonidae.
 
-Picture credit: [Public domain](https://creativecommons.org/publicdomain/zero/1.0/) via https://schaechter.asmblog.org/ [(Jamie Henzy)](https://schaechter.asmblog.org/.a/6a00d8341c5e1453ef01b8d1a178b7970c-600wi)
+Picture credit: [Creative Commons Attribution 4.0 Internationa](https://creativecommons.org/licenses/by/4.0/deed.en) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:2021_07_16_Venturia_canescens_lateral2.jpg)
 
 Taxonomy ID [32260](https://www.uniprot.org/taxonomy/32260)
 

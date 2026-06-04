@@ -12,8 +12,6 @@ rays of crinoids and it may be these succulent morsels that are the principal ob
 predators. 
 
 
-Picture credit: [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Oxycomanthus_bennetti.jpg)
-
 Taxonomy ID [1529436](https://www.uniprot.org/taxonomy/1529436)
 
 (Text from [Wikipedia](https://en.wikipedia.org/).)
