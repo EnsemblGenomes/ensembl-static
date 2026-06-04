@@ -15,4 +15,4 @@
     Manuel Spannagl, Thomas Nussbaumer, Kai Bader, Heidrun Gundlach,
     and Klaus F.X. Mayer. 2017. Methods Mol Biol. 1533:33-44.
 
-Picture credit: Matt Lavin from Bozeman, Montana, USA, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons
+Picture credit: By Matt Lavin from Bozeman, Montana, [USA, CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons

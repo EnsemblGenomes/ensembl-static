@@ -10,4 +10,4 @@
     Liu MS, Kuo TC, Ko CY, Wu DC, Li KY, Lin WJ, Lin CP, Wang YW,
     Schafleitner R, Lo HF et al. 2016. BMC Plant Biology. 16:46.
 
-Picture credit: CC0 Creative Commons, No attribution required
+Picture credit: By Sanjay Acharya, (CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons

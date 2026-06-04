@@ -18,5 +18,4 @@
     Haas BJ, Salzberg SL, Zhu W, Pertea M, Allen JE, Orvis J, White O,
     Buell CR, Wortman JR. 2008. Genome Biol.. 9:R7.
 
-Picture credit: Scott Zona via Wikimedia Commons:
-[https://commons.wikimedia.org/wiki/File:Amborella\_trichopoda\_%283173820625%29.jpg](https://commons.wikimedia.org/wiki/File:Amborella_trichopoda_%283173820625%29.jpg)
+Picture credit: Scott Zona from USA, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons
