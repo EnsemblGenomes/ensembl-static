@@ -6,4 +6,4 @@ Ensembl Metazoa displaying genes imported from GenBank entry linked to the assem
 Genomic annotation was deposited along with initial assembly submission by "The University of Queensland".
 
 Small RNA features, protein features, BLAST hits and cross-references have been
-computed by [metazoa](https://metazoa.ensembl.org/info/genome/annotation/index.html).
+computed by [metazoa](/info/genome/annotation/index.html).

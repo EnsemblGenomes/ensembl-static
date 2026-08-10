@@ -9,4 +9,4 @@ appraisal and editing was undertaken by JCVI to improve the quality of
 the prediction set. The geneset presented here (PhumU2.5, July 2019)
 represents the original set integrated with mitochondrial genes and
 non-coding RNA genes from the [Ensembl Genomes
-pipeline](https://metazoa.ensembl.org/info/genome/annotation/ncrna.html).
+pipeline](/info/genome/annotation/ncrna.html).

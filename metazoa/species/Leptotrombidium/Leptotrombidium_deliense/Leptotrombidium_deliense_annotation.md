@@ -5,7 +5,7 @@ Annotation
 were predicted by University of Liverpool and submitted to NCBI. Ensembl
 Genomes imported gene models form NCBI, and later added non-coding RNA
 genes using the [Ensembl Genomes
-pipeline](https://metazoa.ensembl.org/info/genome/annotation/ncrna.html).
+pipeline](/info/genome/annotation/ncrna.html).
 The gene set currenty shown (LdelU1.1, July
 2019) is an improvement of the initial set, with the addition of
 community annotation.

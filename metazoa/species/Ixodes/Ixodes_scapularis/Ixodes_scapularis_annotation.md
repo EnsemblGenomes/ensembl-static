@@ -7,4 +7,4 @@ generated a set of gene predictions which were merged into a single
 canonical set (IscaW1.1). The gene set currenty shown (IscaW1.7, July
 2019) is an improvement of the initial set, with the addition of
 community annotation and non-coding RNA genes from the [Ensembl Genomes
-pipeline](https://metazoa.ensembl.org/info/genome/annotation/ncrna.html).
+pipeline](/info/genome/annotation/ncrna.html).

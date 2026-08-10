@@ -7,4 +7,4 @@ set of gene predictions which were merged into a single canonical set
 \[1\]. The gene set currently shown (CpipJ2.5, July 2019) is an
 improved version of the initial set, with integration of community
 manual annotations and non-coding RNA genes from the [Ensembl Genomes
-pipeline](https://metazoa.ensembl.org/info/genome/annotation/ncrna.html).
+pipeline](/info/genome/annotation/ncrna.html).

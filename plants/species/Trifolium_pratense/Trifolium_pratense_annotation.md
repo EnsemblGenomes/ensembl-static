@@ -6,4 +6,4 @@ using RepeatMasker with the RepBase database, LTRharvest38. Transcripts
 were annotated using RNA-seq data with *ab initio* predictions and
 homologous transcripts from soybean, common bean, and *M. truncatula*.
 
-Repeated sequences were called with the Repeat Detector, which is part of the [Ensembl Genomes repeat feature pipelines](https://plants.ensembl.org/info/genome/annotation/repeat_features.html). Repeats length: 91429549 - Repeats content: 30%
+Repeated sequences were called with the Repeat Detector, which is part of the [Ensembl Genomes repeat feature pipelines](/info/genome/annotation/repeat_features.html). Repeats length: 91429549 - Repeats content: 30%

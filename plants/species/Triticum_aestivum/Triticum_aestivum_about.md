@@ -14,7 +14,7 @@ urartu*](/Triticum_urartu "Triticum urartu in Ensembl Plants") (the
 A-genome donor) and an unknown grass thought to be related to *Aegilops
 speltoides* (the B-genome donor). This first hybridisation event
 produced tetraploid [emmer
-wheat](https://plants.ensembl.org/Triticum_dicoccoides) (AABB, *T.
+wheat](/Triticum_dicoccoides) (AABB, *T.
 dicoccoides*) which hybridized again with *[Aegilops
 tauschii](/Aegilops_tauschii "Aegilops tauschii in Ensembl Plants")*
 (the D-genome donor) to produce modern bread wheat.

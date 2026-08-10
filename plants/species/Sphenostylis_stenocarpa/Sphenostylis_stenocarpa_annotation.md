@@ -6,4 +6,4 @@ The annotation presented is derived from genes imported from GenBank entry linke
 Genomic annotation was deposited along with initial assembly submission by ["International Livestock Research Institute"](https://www.ilri.org/).
 
 Small RNA features, protein features, BLAST hits and cross-references have been
-computed by [Ensembl Plants](https://plants.ensembl.org/info/genome/annotation/index.html).
+computed by [Ensembl Plants](/info/genome/annotation/index.html).

@@ -12,9 +12,9 @@ New genomes
 
 - [Gossypium raimondii GPD5lz](/Gossypium_raimondii_GCA_025698545.1rs) : assembly from [INSDC](https://www.insdc.org) and is linked to the assembly accession [GCA_025698545.1](https://www.ebi.ac.uk/ena/browser/view/GCA_025698545.1) and annotation from [NCBI RefSeq](https://www.ncbi.nlm.nih.gov/genome/annotation_euk/Gossypium_raimondii/101).
 
-- Oat pangenome : 22 new cultivars of *Avena sativa* are added [here](https://plants.ensembl.org/Avena_sativa_OT3098/Info/Cultivars?db=core).
+- Oat pangenome : 22 new cultivars of *Avena sativa* are added [here](/Avena_sativa_OT3098/Info/Cultivars?db=core).
 
-- Oat reference genome has been changed from [*Avena sativa Sang*](https://plants.ensembl.org/Avena_sativa_Sang/Info/Index) to [*Avena sativa OT3098*](https://plants.ensembl.org/Avena_sativa_OT3098/Info/Index).
+- Oat reference genome has been changed from [*Avena sativa Sang*](/Avena_sativa_Sang/Info/Index) to [*Avena sativa OT3098*](/Avena_sativa_OT3098/Info/Index).
 
 Updated genomes
 
@@ -32,4 +32,4 @@ Updated genomes
 
 - [Vigna unguiculata IT97K-499-35](/Vigna_unguiculata_GCA_004118075.2rs) : assembly from [INSDC](https://www.insdc.org) and is linked to the assembly accession [GCA_004118075.2](https://www.ebi.ac.uk/ena/data/view/GCA_004118075.2) and annotation from [NCBI RefSeq](https://www.ncbi.nlm.nih.gov/datasets/gene/GCF_004118075.2).
 
-Check which features are supported on each species [here](https://plants.ensembl.org/species.html); if you would like to request a new species please email [Helpdesk](https://plants.ensembl.org/Help/Contact).
+Check which features are supported on each species [here](/species.html); if you would like to request a new species please email [Helpdesk](/Help/Contact).
