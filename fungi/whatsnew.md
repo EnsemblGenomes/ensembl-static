@@ -2,15 +2,15 @@
   - EnsemblFungi has 1504 genomes
 
 - In release 61, the following genomes were updated with data from [VEuPathDB](https://veupathdb.org/veupathdb/app)
-  - [*Aspergillus fischeri*](https://fungi.ensembl.org/Aspergillus_fischeri)  (GCA_000149645.4, previously known as _Neosartorya fischeri_)
-  - [*Aspergillus flavus NRRL3357*](https://fungi.ensembl.org/Aspergillus_flavus) (GCA_000006275.3)
-  - [*Aspergillus fumigatus*](https://fungi.ensembl.org/Aspergillus_fumigatus) (GCA_000002655.1)
-  - [*Aspergillus lentulus*](https://fungi.ensembl.org/Aspergillus_lentulus) (GCA_001445615.2)
-  - [*Fusarium graminearum*](https://fungi.ensembl.org/Fusarium_graminearum) (GCA_900044135.1)
-  - [*Mucor lusitanicus*](https://fungi.ensembl.org/Mucor_lusitanicus) (GCA_001638945.1)
-  - [*Puccinia triticina*](https://fungi.ensembl.org/Puccinia_triticina) (GCA_000151525.2)
-  - [*Schizophyllum commune*](https://fungi.ensembl.org/Schizophyllum_commune) (GCA_000143185.2)
-  - [*Trichoderma reesei*](https://fungi.ensembl.org/Trichoderma_reesei) (GCA_000167675.2)
+  - [*Aspergillus fischeri*](/Aspergillus_fischeri)  (GCA_000149645.4, previously known as _Neosartorya fischeri_)
+  - [*Aspergillus flavus NRRL3357*](/Aspergillus_flavus) (GCA_000006275.3)
+  - [*Aspergillus fumigatus*](/Aspergillus_fumigatus) (GCA_000002655.1)
+  - [*Aspergillus lentulus*](/Aspergillus_lentulus) (GCA_001445615.2)
+  - [*Fusarium graminearum*](/Fusarium_graminearum) (GCA_900044135.1)
+  - [*Mucor lusitanicus*](/Mucor_lusitanicus) (GCA_001638945.1)
+  - [*Puccinia triticina*](/Puccinia_triticina) (GCA_000151525.2)
+  - [*Schizophyllum commune*](/Schizophyllum_commune) (GCA_000143185.2)
+  - [*Trichoderma reesei*](/Trichoderma_reesei) (GCA_000167675.2)
 
 - Other data
   - Updated BioMarts for gene and variation data

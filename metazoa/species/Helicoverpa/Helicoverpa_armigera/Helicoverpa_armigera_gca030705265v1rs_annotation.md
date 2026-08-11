@@ -6,4 +6,4 @@ The annotation presented is derived from annotation submitted to
 
 Ensembl Metazoa displaying genes imported from [NCBI RefSeq](https://www.ncbi.nlm.nih.gov/genome/annotation_euk/Helicoverpa_armigera/GCF_030705265.1-RS_2024_03.html) annotation release vGCF_030705265.1-RS_2024_03.html.
 Small RNA features, protein features, BLAST hits and cross-references have been
-computed by [metazoa](https://metazoa.ensembl.org/info/genome/annotation/index.html).
+computed by [metazoa](/info/genome/annotation/index.html).

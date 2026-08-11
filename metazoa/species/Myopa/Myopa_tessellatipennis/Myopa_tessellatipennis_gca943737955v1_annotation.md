@@ -7,4 +7,4 @@
 All transcripts are based on mRNA and proteins in public scientific databases.
 
 Small RNA features, protein features, BLAST hits and cross-references have been
-computed by [Ensembl Metazoa](https://metazoa.ensembl.org/info/genome/annotation/index.html).
+computed by [Ensembl Metazoa](/info/genome/annotation/index.html).

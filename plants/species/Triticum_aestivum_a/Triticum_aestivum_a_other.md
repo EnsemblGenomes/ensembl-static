@@ -17,9 +17,9 @@ the Location view of the *Brachypodium distachyon* and *Hordeum vulgare*
 genomes, as additional tracks under the \"Wheat SNPs and alignments\"
 section of the \"Configure This page\" menu. [Click here for a
 *Brachypodium*
-example](https://test.plants.ensembl.org/Brachypodium_distachyon/Location/View?db=core;r=5:2580560-2583709;contigviewbottom=Lastz_Wheat_A_subsequences_alignments=normal,Lastz_Wheat_B_subsequences_alignments=normal,Lastz_Wheat_D_subsequences_alignments=normal,Lastz_Wheat_X_subsequences_alignments=normal,simple_core_wheat_snp_a=normal,simple_core_wheat_snp_b=normal "Example wheat gene alignments and homoeologous SNPs").
+example](/Brachypodium_distachyon/Location/View?db=core;r=5:2580560-2583709;contigviewbottom=Lastz_Wheat_A_subsequences_alignments=normal,Lastz_Wheat_B_subsequences_alignments=normal,Lastz_Wheat_D_subsequences_alignments=normal,Lastz_Wheat_X_subsequences_alignments=normal,simple_core_wheat_snp_a=normal,simple_core_wheat_snp_b=normal "Example wheat gene alignments and homoeologous SNPs").
 [Click here for a barley
-example](https://test.plants.ensembl.org/Hordeum_vulgare/Location/View?db=core;r=1:279279843-279283843;contigviewbottom=Lastz_Wheat_A_subsequences_alignments=normal,Lastz_Wheat_B_subsequences_alignments=normal,Lastz_Wheat_D_subsequences_alignments=normal,Lastz_Wheat_X_subsequences_alignments=normal,simple_core_wheat_snp_a=normal,simple_core_wheat_snp_b=normal).
+example](/Hordeum_vulgare/Location/View?db=core;r=1:279279843-279283843;contigviewbottom=Lastz_Wheat_A_subsequences_alignments=normal,Lastz_Wheat_B_subsequences_alignments=normal,Lastz_Wheat_D_subsequences_alignments=normal,Lastz_Wheat_X_subsequences_alignments=normal,simple_core_wheat_snp_a=normal,simple_core_wheat_snp_b=normal).
 
 Wheat RNA-Seq, EST and Unigene datasets have also been aligned:
 
@@ -28,21 +28,21 @@ Wheat RNA-Seq, EST and Unigene datasets have also been aligned:
     aligned using
     [GMAP](https://www.molecularevolution.org/software/genomics/gmap).
     [Click here for a *Brachypodium*
-    example](https://test.plants.ensembl.org/Brachypodium_distachyon/Location/View?db=core;r=1:21899572-21905500;contigviewbottom=Gmap_Wheat_ERR125556=normal,Gmap_Wheat_ERR125557=normal).
+    example](/Brachypodium_distachyon/Location/View?db=core;r=1:21899572-21905500;contigviewbottom=Gmap_Wheat_ERR125556=normal,Gmap_Wheat_ERR125557=normal).
     [Click here for a barley
-    example](https://test.plants.ensembl.org/Hordeum_vulgare/Location/View?db=core;r=1:279279843-279283843;contigviewbottom=Gmap_Wheat_ERR125556=normal,Gmap_Wheat_ERR125557=normal).
+    example](/Hordeum_vulgare/Location/View?db=core;r=1:279279843-279283843;contigviewbottom=Gmap_Wheat_ERR125556=normal,Gmap_Wheat_ERR125557=normal).
 -   All publically available EST data in ENA were aligned using
     [Exonerate](https://www.ebi.ac.uk/%7Eguy/exonerate/), following the
     standard Ensembl pipeline. [Click here for a *Brachypodium*
-    example](https://test.plants.ensembl.org/Brachypodium_distachyon/Location/View?db=core;r=1:21899572-21905500;contigviewbottom=dna_align_otherfeatures_wheat_est_exonerate=normal).
+    example](/Brachypodium_distachyon/Location/View?db=core;r=1:21899572-21905500;contigviewbottom=dna_align_otherfeatures_wheat_est_exonerate=normal).
     [Click here for a barley
-    example](https://test.plants.ensembl.org/Hordeum_vulgare/Location/View?db=core;r=1:279279843-279283843;contigviewbottom=dna_align_otherfeatures_wheat_est_exonerate=normal).
+    example](/Hordeum_vulgare/Location/View?db=core;r=1:279279843-279283843;contigviewbottom=dna_align_otherfeatures_wheat_est_exonerate=normal).
 -   Unigene cluster sequence data were aligned using
     [Exonerate](https://www.ebi.ac.uk/%7Eguy/exonerate/), following the
     standard Ensembl pipeline. [Click here for *Brachypodium*
-    example](https://test.plants.ensembl.org/Brachypodium_distachyon/Location/View?db=core;r=1:21899572-21905500;contigviewbottom=dna_align_otherfeatures_wheat_unigene_exonerate=normal).
+    example](/Brachypodium_distachyon/Location/View?db=core;r=1:21899572-21905500;contigviewbottom=dna_align_otherfeatures_wheat_unigene_exonerate=normal).
     [Click here for a barley
-    example](https://test.plants.ensembl.org/Hordeum_vulgare/Location/View?db=core;r=1:279279843-279283843;contigviewbottom=dna_align_otherfeatures_wheat_unigene_exonerate=normal).
+    example](/Hordeum_vulgare/Location/View?db=core;r=1:279279843-279283843;contigviewbottom=dna_align_otherfeatures_wheat_unigene_exonerate=normal).
 
 These data will also be aligned to the IWGSC chromosome survey sequences
 in the next release (release 21).
@@ -54,9 +54,9 @@ The [wheat sequence search](/Triticum_aestivum/Info/WheatSearch) allows
 you to find alignments between your favourite genes and all the publicly
 available bread wheat genome sequences. Wherever possible the results
 are placed in the syntenic context of *[Hordeum
-vulgare](https://test.plants.ensembl.org/Hordeum_vulgare "Hordeum vulgare genome in Ensembl Plants")*
+vulgare](/Hordeum_vulgare "Hordeum vulgare genome in Ensembl Plants")*
 and *[Brachypodium
-distachyon](https://test.plants.ensembl.org/Brachypodium_distachyon "Brachypodium distachyon genome in Ensembl Plants")*.
+distachyon](/Brachypodium_distachyon "Brachypodium distachyon genome in Ensembl Plants")*.
 
 Search is performed via the ENA search service, and currently includes:
 

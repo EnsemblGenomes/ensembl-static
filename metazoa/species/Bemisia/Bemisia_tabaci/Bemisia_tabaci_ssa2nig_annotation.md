@@ -6,4 +6,4 @@ Small ncRNAs were obtained using a combination of BLAST and Infernal/RNAfold. Ps
 
 lncRNAs were generated via RNA-seq data where no evidence of protein homology or protein domains could be found in the transcript. 
 
-For a general in-depth overview of the Gene Annotation pipeline see here: [detailed information on the genebuild](http://www.ensembl.org/info/genome/genebuild/2020_03_teleost_clade_gene_annotation.pdf).
+For a general in-depth overview of the Gene Annotation pipeline see here: [detailed information on the genebuild](https://jun2026.archive.ensembl.org/info/genome/genebuild/2020_03_teleost_clade_gene_annotation.pdf).

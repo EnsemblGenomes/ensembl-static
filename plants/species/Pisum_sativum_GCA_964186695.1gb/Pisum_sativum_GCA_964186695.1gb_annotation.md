@@ -11,4 +11,4 @@ Supporting this work, mass spectrometry proteomics data have been deposited to t
 
 These datasets provide a proteomic characterisation of seed quality traits in the JI2822 mutant population.
 
-Protein features, BLAST hits and cross-references have been computed by [Ensembl Plants](https://plants.ensembl.org/info/genome/annotation/index.html).
+Protein features, BLAST hits and cross-references have been computed by [Ensembl Plants](/info/genome/annotation/index.html).

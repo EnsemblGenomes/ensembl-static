@@ -4,8 +4,8 @@ About *Tetranychus urticae*
 *Tetranychus urticae*, the two-spotted spider mite, is a tiny (\~0.4mm
 long) herbivorous chelicerate that eats a wide range of plants,
 including many agriculturally important species such as
-[maize](http://plants.ensembl.org/Zea_mays/Info) and
-[tomato](http://plants.ensembl.org/Solanum_lycopersicum/Info). *T.
+[maize](/Zea_mays/Info) and
+[tomato](/Solanum_lycopersicum/Info). *T.
 urticae* has adaptations to cope with plant defence strategies, and is
 able to rapidly develop resistance to pesticides \[1\], so infestations
 are often controlled with predatory mites such as *Phytoseiulus

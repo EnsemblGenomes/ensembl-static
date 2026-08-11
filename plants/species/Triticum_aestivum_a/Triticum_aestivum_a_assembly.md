@@ -12,7 +12,7 @@ subset, comprising all scaffolds equal or greater than 3kb and
 additionnally, all scaffolds to which wheat cDNA alignments have been
 made (leading to a total of \~710,000 scaffolds loaded in the database).
 The set of scaffolds that was loaded has been included in the [Ensembl
-Plants BLAST](https://plants.ensembl.org/Triticum_aestivum/blastview) and
+Plants BLAST](/Triticum_aestivum/blastview) and
 [ENA search](https://dev.ensemblgenomes.org/node/ENA%20search)
 facilities.
 

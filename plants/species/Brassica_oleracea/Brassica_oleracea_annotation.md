@@ -8,5 +8,5 @@ tissues and homologous protein sequences. Functional annotation for the
 gene models is provided through similarity to *Arabidopsis thaliana*
 genes.
 
-Repeated sequences were called with the Repeat Detector, which is part of the [Ensembl Genomes repeat feature pipelines](https://plants.ensembl.org/info/genome/annotation/repeat_features.html). Repeats length: 175672448 - Repeats content: 35.9526%
+Repeated sequences were called with the Repeat Detector, which is part of the [Ensembl Genomes repeat feature pipelines](/info/genome/annotation/repeat_features.html). Repeats length: 175672448 - Repeats content: 35.9526%
 

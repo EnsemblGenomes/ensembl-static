@@ -9,5 +9,5 @@ of gene models presented (genebuild EMBLpdum1v0.0, released September 2024)
 are provided by the research community.
 
 Small RNA features, protein features, BLAST hits and cross-references have been
-computed by [metazoa](https://metazoa.ensembl.org/info/genome/annotation/index.html).
+computed by [metazoa](/info/genome/annotation/index.html).
 
