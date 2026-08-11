@@ -21,4 +21,4 @@ of 409.8 Mb.
 
 The assembly effectively supercedes the AaegL3 assembly, and is the
 supported assembly for the
-[EnsemblMetazoa](http://metazoa.ensembl.org/).
+[EnsemblMetazoa](/).

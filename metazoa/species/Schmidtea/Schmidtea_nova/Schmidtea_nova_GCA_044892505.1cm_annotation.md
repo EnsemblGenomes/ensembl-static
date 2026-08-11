@@ -16,4 +16,4 @@ confidence isoforms. For details of the procedure and a step-by-step guide to th
 annotation analysis, see the Supporting Information of [3].
 
 Small RNA features, protein features, BLAST hits and cross-references have been
-computed by [metazoa](https://metazoa.ensembl.org/info/genome/annotation/index.html).
+computed by [metazoa](/info/genome/annotation/index.html).

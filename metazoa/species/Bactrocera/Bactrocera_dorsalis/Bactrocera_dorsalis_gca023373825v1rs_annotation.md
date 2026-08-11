@@ -6,4 +6,4 @@ The annotation presented is derived from annotation submitted to
 
 Ensembl Metazoa displaying genes imported from [NCBI RefSeq](https://www.ncbi.nlm.nih.gov/genome/annotation_euk/Bactrocera_dorsalis/103) annotation release v103.
 Small RNA features, protein features, BLAST hits and cross-references have been
-computed by [metazoa](https://metazoa.ensembl.org/info/genome/annotation/index.html).
+computed by [metazoa](/info/genome/annotation/index.html).

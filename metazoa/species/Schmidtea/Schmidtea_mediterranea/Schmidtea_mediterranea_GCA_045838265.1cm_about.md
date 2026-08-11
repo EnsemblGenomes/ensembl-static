@@ -31,7 +31,7 @@ generations total, including 2 rounds of regeneration-induced self-fertilization
 individual.
 
 For the alternative haplotype see
-[schMedS3h2](https://metazoa.ensembl.org/Schmidtea_mediterranea_gca045838255v1cm/Info/Index).
+[schMedS3h2](/Schmidtea_mediterranea_gca045838255v1cm/Info/Index).
 
 Picture credit ([Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/)): Miquel Vila-Farré, Dept. of Tissue Dynamics and Regeneration, Max Planck Institute for Multidisciplinary Sciences
 

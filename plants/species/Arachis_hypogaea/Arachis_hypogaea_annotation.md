@@ -4,4 +4,4 @@ The annotation presented is derived from genes imported from the community GFF3 
 
 Genomic annotation was deposited along with initial assembly submission by ["International Peanut Genome Initiative"](https://www.peanutbase.org/genome/).
 
-Protein features, BLAST hits and cross-references have been computed by [Ensembl Plants](https://plants.ensembl.org/info/genome/annotation/index.html).
+Protein features, BLAST hits and cross-references have been computed by [Ensembl Plants](/info/genome/annotation/index.html).

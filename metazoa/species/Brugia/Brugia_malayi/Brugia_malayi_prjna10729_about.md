@@ -26,7 +26,7 @@ is one of the tropical diseases targeted for elimination by the year
     ParaSite](http://parasite.wormbase.org/Brugia_malayi_prjna10729/).
 -   [Filariasis Research Reagents
     Center](https://www.niaid.nih.gov/research/filariasis-research-reagent-resource-center).
--   [Brugia malayi TRS strain Wolbachia Genome](https://bacteria.ensembl.org/Wolbachia_endosymbiont_strain_trs_of_brugia_malayi_gca_000008385) at Ensembl Genomes.
+-   [Brugia malayi TRS strain Wolbachia Genome](/Wolbachia_endosymbiont_strain_trs_of_brugia_malayi_gca_000008385) at Ensembl Genomes.
 -   [Lymphatic Filariasis, World Health Organization](http://www.who.int/mediacentre/factsheets/fs102/en/).
 
 Picture credit:

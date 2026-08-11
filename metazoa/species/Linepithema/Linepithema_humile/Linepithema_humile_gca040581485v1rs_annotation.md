@@ -6,4 +6,4 @@ The annotation presented is derived from annotation submitted to
 
 Ensembl Metazoa displaying genes imported from [NCBI RefSeq](https://www.ncbi.nlm.nih.gov/genome/annotation_euk/Linepithema_humile/GCF_040581485.1-RS_2024_08.html) annotation release GCF_040581485.1-RS_2024_08.
 Small RNA features, protein features, BLAST hits and cross-references have been
-computed by [metazoa](https://metazoa.ensembl.org/info/genome/annotation/index.html).
+computed by [metazoa](/info/genome/annotation/index.html).

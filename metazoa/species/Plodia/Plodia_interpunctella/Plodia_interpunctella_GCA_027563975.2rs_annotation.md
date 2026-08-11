@@ -6,4 +6,4 @@ The annotation presented is derived from annotation submitted to
 
 Ensembl Metazoa displaying genes imported from [NCBI RefSeq](https://www.ncbi.nlm.nih.gov/genome/annotation_euk/Plodia_interpunctella/GCF_027563975.2-RS_2024_04.html) annotation release GCF\_027563975.2-RS\_2024\_04.
 Small RNA features, protein features, BLAST hits and cross-references have been
-computed by [Ensembl Metazoa](https://metazoa.ensembl.org/info/genome/annotation/index.html).
+computed by [Ensembl Metazoa](/info/genome/annotation/index.html).

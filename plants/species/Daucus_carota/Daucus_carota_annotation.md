@@ -10,5 +10,5 @@ involved in a wide range of molecular functions. 564 tRNAs, 31 rRNA
 fragments, 532 small nuclear RNA (snRNA) genes, and 248 microRNAs
 (miRNAs) were also identified, distributed among 46 families.
 
-Repeated sequences were called with the Repeat Detector, which is part of the [Ensembl Genomes repeat feature pipelines](https://plants.ensembl.org/info/genome/annotation/repeat_features.html). Repeats length: 144037532 - Repeats content: 34.2%
+Repeated sequences were called with the Repeat Detector, which is part of the [Ensembl Genomes repeat feature pipelines](/info/genome/annotation/repeat_features.html). Repeats length: 144037532 - Repeats content: 34.2%
 
