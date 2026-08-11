@@ -6,4 +6,4 @@ The annotation presented is derived from annotation submitted to
 
 Ensembl Metazoa displaying genes imported from [NCBI RefSeq](https://www.ncbi.nlm.nih.gov/genome/annotation_euk/Neodiprion_pinetum/GCF_021155775.2-RS_2024_10.html) annotation release GCF\_021155775.2-RS\_2024\_10.
 Small RNA features, protein features, BLAST hits and cross-references have been
-computed by [Ensembl Metazoa](https://metazoa.ensembl.org/info/genome/annotation/index.html).
+computed by [Ensembl Metazoa](/info/genome/annotation/index.html).

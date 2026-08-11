@@ -11,4 +11,4 @@ model per locus was selected based on homology to other proteins and EST
 support. The predicted set of gene models has been validated by using
 available experimental data and computational analysis.
 
-Repeated sequences were called with the Repeat Detector, which is part of the [Ensembl Genomes repeat feature pipelines](https://plants.ensembl.org/info/genome/annotation/repeat_features.html). Repeats length: 5898261 - Repeats content: 44.7%
+Repeated sequences were called with the Repeat Detector, which is part of the [Ensembl Genomes repeat feature pipelines](/info/genome/annotation/repeat_features.html). Repeats length: 5898261 - Repeats content: 44.7%

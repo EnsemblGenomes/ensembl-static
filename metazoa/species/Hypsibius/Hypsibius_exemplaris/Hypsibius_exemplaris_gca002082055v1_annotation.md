@@ -6,4 +6,4 @@ Ensembl Metazoa displaying genes imported from GenBank entry linked to the assem
 Annotation was submitted with the assembly itself by [Institute for Advanced Biosciences, Keio University](https://www.iab.keio.ac.jp/en/index.html) [1].
 
 Small RNA features, protein features, BLAST hits and cross-references have been
-computed by [Ensembl Metazoa](https://metazoa.ensembl.org/info/genome/annotation/index.html).
+computed by [Ensembl Metazoa](/info/genome/annotation/index.html).

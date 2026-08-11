@@ -12,6 +12,6 @@ Most ncRNAs are annotated by aligning genomic sequence against [RFAM](https://rf
 
 lncRNAs were generated via RNA-seq data where no evidence of protein homology or protein domains could be found in the transcript.
 
-For in-depth overview of the Ensembl Gene Annotation pipeline see detailed information [here](https://www.ensembl.org/info/genome/genebuild/index.html).
+For in-depth overview of the Ensembl Gene Annotation pipeline see detailed information [here](https://jun2026.archive.ensembl.org/info/genome/genebuild/index.html).
 
 

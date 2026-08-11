@@ -14,4 +14,4 @@ tissue type, and provided valuable information on tissue localisation
 for the products of these genes. InterPro terms were the most
 informative functional annotation.
 
-Repeated sequences were called with the Repeat Detector, which is part of the [Ensembl Genomes repeat feature pipelines](https://plants.ensembl.org/info/genome/annotation/repeat_features.html). Repeats length: 259903442 - Repeats content: 42.6%
+Repeated sequences were called with the Repeat Detector, which is part of the [Ensembl Genomes repeat feature pipelines](/info/genome/annotation/repeat_features.html). Repeats length: 259903442 - Repeats content: 42.6%

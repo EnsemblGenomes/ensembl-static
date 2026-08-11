@@ -6,4 +6,4 @@ The annotation presented is derived from annotation submitted to
 
 Ensembl Metazoa displaying genes imported from [NCBI RefSeq](https://www.ncbi.nlm.nih.gov/genome/annotation_euk/Drosophila_suzukii/GCF_043229965.1-RS_2025_01.html) annotation release GCF\_043229965.1-RS\_2025\_01.
 Small RNA features, protein features, BLAST hits and cross-references have been
-computed by [Ensembl Metazoa](https://metazoa.ensembl.org/info/genome/annotation/index.html).
+computed by [Ensembl Metazoa](/info/genome/annotation/index.html).
